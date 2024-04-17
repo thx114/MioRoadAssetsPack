@@ -58,3 +58,7 @@ Install this mod to use.
 
 ## Acknowledgment
 Special thanks to Konsi for the asset loading framework.
+
+## More
+If you want to create a similar asset pack, please use this template£º
+https://github.com/kosch104/CS2-CustomAssetPack
