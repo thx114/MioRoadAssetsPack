@@ -1,16 +1,60 @@
-## Getting Started:
+# Mio Road Assets Pack
+Add many road assets, including roads with service lanes.
 
+### Warning:
+Road assets are highly experimental. Please back up your save file before use. Known issues include:
+- Once your save uses these roads, removing the mod may cause white textures, crashes, or game exits.
 
-1. Clone the repository OR Create a repository based on this ("Use this template", green button)
-2. Open the repository with any IDE (Visual Studio, Rider)
-   2A. If you are using an alternative Cities Skylines II installation path, enter it in the CustomAssetPack.csproj-file under "CustomManagedPath"
-3. Put the assets you want to add into the "Resources/assets" folder in the solution explorer (subfolders allowed)
-4. Edit the localization file "en-US.json" to include your assets. Otherwise they will have missing localization
-5. Click on the Build Symbol (Hammer) at the top to build your project. This will load the assets into your local mods folder
+## Features
+Add roads:
+- Pedestrian Street (1u)
 
-Publish:
-To publish your mod you have to do the following steps:
-1. Edit Properties/PublishConfiguration.xml
-2. Edit DisplayName, ShortDescription, LongDescription and Tag
-3. Replace the thumbnail.png file by the thumbnail for your Asset Pack
-4. From within your IDE ~~~~select the Run Configuration "Publish New Mod"
+- Alley Oneway 1 Lanes (0.6u)
+- Alley Oneway 2 Lanes (1u)
+- Alley Oneway 3 Lanes (1.4u)
+
+- Highway 6 Lanes Divided (4u)
+- Highway 8 Lanes Divided (5u)
+
+- Highway Oneway 6 Lanes (3.5u)
+- Highway Oneway 7 Lanes (4u)
+- Highway Oneway 8 Lanes (4.5u)
+
+- Large Road 10 Lanes Divided (5u)
+- Large Road 14 Lanes Divided (7u)
+
+- Large Road 4 Lanes + 2 Sub Lanes (5u)
+- Large Road 6 Lanes + 4 Sub Lanes (7u)
+- Large Road 8 Lanes + 4 Sub Lanes (7u)
+
+- Road Outside Connection - Oneway (No Taxi)
+- Road Outside Connection - Twoway (No Taxi)
+
+(All external connections for roads are taxi-free)
+
+- Subway 1 Line thin
+- Subway 2 Line thin
+- Subway 2 Line - Twoway thin
+
+- Subway Outside Connection - Oneway
+- Subway Outside Connection - Twoway
+
+(Work In Progress, please do not use subway outside connections if unavailable)
+
+## Feature Roadmap
+- 3-1 Asymmetric roads
+- 4-2 Asymmetric roads
+- 6-4 Asymmetric roads
+- BRT roads
+- Modular subway platforms
+- Modular roads
+
+## Localization
+- en-US
+- zh-HANS
+
+## How to Use
+Install this mod to use.
+
+## Acknowledgment
+Special thanks to Konsi for the asset loading framework.
