@@ -20,12 +20,18 @@ Add roads:
 - Highway Oneway 7 Lanes (4u)
 - Highway Oneway 8 Lanes (4.5u)
 
+- Large Road 8 Lane Divided (4u)
 - Large Road 10 Lanes Divided (5u)
 - Large Road 14 Lanes Divided (7u)
 
 - Large Road 4 Lanes + 2 Sub Lanes (5u)
 - Large Road 6 Lanes + 4 Sub Lanes (7u)
 - Large Road 8 Lanes + 4 Sub Lanes (7u)
+
+- Medium Road Asymmetric 3/1 (3u)
+- Large Road Asymmetric 4/2 (4u)
+- Large Road Asymmetric 5/3 (4u)
+- Large Road Asymmetric 6/4 (5u)
 
 - Road Outside Connection - Oneway (No Taxi)
 - Road Outside Connection - Twoway (No Taxi)
@@ -42,9 +48,6 @@ Add roads:
 (Work In Progress, please do not use subway outside connections if unavailable)
 
 ## Feature Roadmap
-- 3-1 Asymmetric roads
-- 4-2 Asymmetric roads
-- 6-4 Asymmetric roads
 - BRT roads
 - Modular subway platforms
 - Modular roads

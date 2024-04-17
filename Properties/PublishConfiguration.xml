@@ -19,25 +19,31 @@ Road assets are highly experimental. Please back up your save file before use. K
 Add roads:
 - Pedestrian Street (1u)
 
-- Alley_Oneway_1_Lanes_0.6u)
-- Alley_Oneway_2_Lanes_1u)
-- Alley_Oneway_3_Lanes_1.4u)
+- Alley Oneway 1 Lanes (0.6u)
+- Alley Oneway 2 Lanes (1u)
+- Alley Oneway 3 Lanes (1.4u)
 
-- Highway_6_Lanes_Divided_4u)
-- Highway_8_Lanes_Divided_5u)
+- Highway 6 Lanes Divided (4u)
+- Highway 8 Lanes Divided (5u)
 
-- Highway_Oneway_6_Lanes_3.5u)
-- Highway_Oneway_7_Lanes_4u)
-- Highway_Oneway_8_Lanes_4.5u)
+- Highway Oneway 6 Lanes (3.5u)
+- Highway Oneway 7 Lanes (4u)
+- Highway Oneway 8 Lanes (4.5u)
 
-- Large_Road_10_Lanes_Divided_5u)
-- Large_Road_14_Lanes_Divided_7u)
+- Large Road 8 Lane Divided (4u)
+- Large Road 10 Lanes Divided (5u)
+- Large Road 14 Lanes Divided (7u)
 
-- Large_Road_4_Lanes__2_Sub_Lanes_5u)
-- Large_Road_6_Lanes_+ 4 Sub_Lanes_7u)
-- Large_Road_8_Lanes_+ 4 Sub_Lanes_7u)
+- Large Road 4 Lanes + 2 Sub Lanes (5u)
+- Large Road 6 Lanes + 4 Sub Lanes (7u)
+- Large Road 8 Lanes + 4 Sub Lanes (7u)
 
-- Road Outside Connection - Oneway_(No Taxi)
+- Medium Road Asymmetric 3/1 (3u)
+- Large Road Asymmetric 4/2 (4u)
+- Large Road Asymmetric 5/3 (4u)
+- Large Road Asymmetric 6/4 (5u)
+
+- Road Outside Connection - Oneway (No Taxi)
 - Road Outside Connection - Twoway (No Taxi)
 
 (All external connections for roads are taxi-free)
@@ -52,9 +58,6 @@ Add roads:
 (Work In Progress, please do not use subway outside connections if unavailable)
 
 ## Feature Roadmap
-- 3-1 Asymmetric roads
-- 4-2 Asymmetric roads
-- 6-4 Asymmetric roads
 - BRT roads
 - Modular subway platforms
 - Modular roads
@@ -68,6 +71,10 @@ Install this mod to use.
 
 ## Acknowledgment
 Special thanks to Konsi for the asset loading framework.
+
+## More
+If you want to create a similar asset pack, please use this template：
+https://github.com/kosch104/CS2-CustomAssetPack
 	</LongDescription>
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/Thumbnail.png" />
