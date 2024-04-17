@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clip-LargeRoad8lanes">
+   <rect height="64" id="svg_1" width="64"/>
+  </clipPath>undefined</defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <polyline fill="none" id="svg_17" opacity="0.5" points="9.03616 5.97235 8.86219 6.96549 8.69062 7.86132 8.61571 8.6791 8.46874 9.5976" stroke-linecap="round"/>
+  <text fill="#ffd4aa" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_18" stroke-width="0" style="cursor: move;" text-anchor="middle" transform="matrix(1 0 0 1 0 0) matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="20.8" xml:space="preserve" y="24.44">1</text>
+  <text fill="#ffd4aa" font-family="Sans-serif" font-size="11" font-weight="normal" id="svg_19" stroke-width="0" text-anchor="middle" transform="matrix(0.774676 0 0 0.766501 3.36502 -0.988836)" x="28.24" xml:space="preserve" y="13.51">lane</text>
+  <g id="svg_22" transform="matrix(1 0 0 1 0 0)">
+   <path d="m51.86,41.15l-3.11,-3.16s-1.77,1.13 -1.64,1.3s3.8,3.69 3.8,3.69l0.94,-1.82l0,0z" data-name="Path 2053" fill="#706428" id="svg_21"/>
+   <path d="m49.81,42.79l-3.11,-3.16s-1.77,1.13 -1.64,1.3s3.8,3.69 3.8,3.69l0.94,-1.82l0,0z" data-name="Path 2201" fill="#b47300" id="svg_20"/>
+   <path d="m47.36,44.02l-3.11,-3.16s-1.77,1.13 -1.64,1.3s3.8,3.69 3.8,3.69l0.94,-1.82l0,0z" data-name="Path 2205" fill="#61a2d3" id="svg_16"/>
+   <path d="m51.96,41.58l-3.21,-3.15s-0.91,0.32 -0.79,0.49s3.5,3.23 3.5,3.23l0.49,-0.56l0,0z" data-name="Path 2054" fill="#9a8a39" id="svg_15"/>
+   <path d="m49.91,42.8l-3.21,-3.15s-0.91,0.32 -0.79,0.49s3.5,3.23 3.5,3.23l0.49,-0.56l0,0z" data-name="Path 2202" fill="#e39c03" id="svg_14"/>
+   <path d="m47.45,44.03l-3.21,-3.15s-0.91,0.32 -0.79,0.49s3.5,3.23 3.5,3.23l0.49,-0.56l0,0z" data-name="Path 2206" fill="#7ac6ff" id="svg_13"/>
+   <g data-name="Path 2200" fill="#4d4324" id="svg_10" transform="matrix(0.398825 0.0920761 -0.0920761 0.398825 25.7613 26.6652)">
+    <path d="m69.39,24.68c-0.98,0 -1.78,-0.97 -1.78,-2.15c0,-1.19 0.8,-2.15 1.78,-2.15c0.98,0 1.78,0.96 1.78,2.15c0,1.18 -0.8,2.15 -1.78,2.15z" id="svg_11"/>
+    <path d="m69.39,20.88c-0.69,0 -1.28,0.75 -1.28,1.65c0,0.89 0.59,1.65 1.28,1.65c0.7,0 1.28,-0.76 1.28,-1.65c0,-0.9 -0.58,-1.65 -1.28,-1.65m0,-1c1.26,0 2.28,1.18 2.28,2.65c0,1.46 -1.02,2.65 -2.28,2.65c-1.26,0 -2.28,-1.19 -2.28,-2.65c0,-1.47 1.02,-2.65 2.28,-2.65z" fill="#755902" id="svg_12"/>
+   </g>
+   <g data-name="Path 2204" fill="#748991" id="svg_7">
+    <path d="m49.12,44.53c-0.39,-0.09 -0.62,-0.55 -0.51,-1.02c0.11,-0.48 0.52,-0.78 0.91,-0.69c0.39,0.09 0.62,0.55 0.51,1.02c-0.11,0.47 -0.52,0.78 -0.91,0.69z" id="svg_8"/>
+    <path d="m49.47,43.01c-0.27,-0.06 -0.58,0.18 -0.66,0.54c-0.08,0.36 0.08,0.71 0.36,0.77c0.28,0.06 0.58,-0.18 0.66,-0.54c0.08,-0.36 -0.08,-0.71 -0.36,-0.77m0.09,-0.4c0.5,0.12 0.8,0.68 0.66,1.27c-0.13,0.58 -0.65,0.96 -1.15,0.85c-0.5,-0.12 -0.8,-0.68 -0.66,-1.27c0.14,-0.59 0.65,-0.96 1.15,-0.85z" fill="#8d5b03" id="svg_9"/>
+   </g>
+   <g data-name="Path 2208" fill="#4a6068" id="svg_4" transform="matrix(0.398825 0.0920761 -0.0920761 0.398825 26.2904 27.7515)">
+    <path d="m58.39,31.68c-0.98,0 -1.78,-0.97 -1.78,-2.15c0,-1.19 0.8,-2.15 1.78,-2.15c0.98,0 1.78,0.96 1.78,2.15c0,1.18 -0.8,2.15 -1.78,2.15z" id="svg_5"/>
+    <path d="m58.39,27.88c-0.69,0 -1.28,0.75 -1.28,1.65c0,0.89 0.59,1.65 1.28,1.65c0.7,0 1.28,-0.76 1.28,-1.65c0,-0.9 -0.58,-1.65 -1.28,-1.65m0,-1c1.26,0 2.28,1.18 2.28,2.65c0,1.46 -1.02,2.65 -2.28,2.65c-1.26,0 -2.28,-1.19 -2.28,-2.65c0,-1.47 1.02,-2.65 2.28,-2.65z" fill="#4e7989" id="svg_6"/>
+   </g>
+   <path d="m47.93,40.41l4.63,-2.74l-4.63,2.74z" data-name="Path 2191" fill="gray" id="svg_3"/>
+  </g>
+  <g clip-path="url(#clip-MediumRoadOneway)" id="svg_2" transform="matrix(1 0 0 1 0 0)">
+   <path d="m1244.18,-1111.68l11.31,-6.69l-11.31,6.69z" data-name="Path 2191" fill="gray" id="svg_24" transform="translate(-1201.93 1152.9)"/>
+   <path d="m14.01,18.51l29.51,24.78l5.68,-3.55l0.09,-1.82l-35.36,-21.03l0.08,1.61z" data-name="Path 2186" fill="#434343" id="svg_25"/>
+   <path d="m13.82,16.99l29.78,24.64l5.82,-3.51l-29.93,-24.36l-5.67,3.23z" data-name="Path 2211" fill="#929191" id="svg_28"/>
+   <path d="m27.29,23.39l0.74,5.23l1.5,-0.84l5.27,4.86l2.4,-1.41l-5.16,-4.7l1.72,-1l-6.47,-2.14z" data-name="Path 2286" fill="#fff" id="svg_32" transform="matrix(1 0 0 1 0 0)"/>
+  </g>
+  <text fill="#aaffff" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_35" stroke-width="0" text-anchor="middle" transform="matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="26.58" xml:space="preserve" y="100.03">0.6U</text>
+ </g>
+</svg>

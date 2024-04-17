@@ -1,4 +1,64 @@
 {
-  "Assets.NAME[Example Asset]": "Example Name",
-  "Assets.DESCRIPTION[Example Asset]": "Example Description"
+  "Assets.NAME[MM_Alley_Oneway_1_Lanes_0.6u)]": "Alley_Oneway_1_Lanes_0.6u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_1_Lanes_0.6u)]": "Alley_Oneway_1_Lanes_0.6u)",
+
+  "Assets.NAME[MM_Alley_Oneway_2_Lanes_1u)]": "Alley_Oneway_2_Lanes_1u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_2_Lanes_1u)]": "Alley_Oneway_2_Lanes_1u)",
+
+  "Assets.NAME[MM_Alley_Oneway_3_Lanes_1.4u)]": "Alley_Oneway_3_Lanes_1.4u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_3_Lanes_1.4u)]": "Alley_Oneway_3_Lanes_1.4u)",
+
+  "Assets.NAME[MM_Highway_6_Lanes_Divided_4u)]": "Highway_6_Lanes_Divided_4u)",
+  "Assets.DESCRIPTION[MM_Highway_6_Lanes_Divided_4u)]": "Highway_6_Lanes_Divided_4u)",
+
+  "Assets.NAME[MM_Highway_8_Lanes_Divided_5u)]": "Highway_8_Lanes_Divided_5u)",
+  "Assets.DESCRIPTION[MM_Highway_8_Lanes_Divided_5u)]": "Highway_8_Lanes_Divided_5u)",
+
+  "Assets.NAME[MM_Highway_Oneway_6_Lanes_3.5u)]": "Highway_Oneway_6_Lanes_3.5u)",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_6_Lanes_3.5u)]": "Highway_Oneway_6_Lanes_3.5u)",
+
+  "Assets.NAME[MM_ Highway_Oneway_7_Lanes_4u)]": " Highway_Oneway_7_Lanes_4u)",
+  "Assets.DESCRIPTION[MM_ Highway_Oneway_7_Lanes_4u)]": " Highway_Oneway_7_Lanes_4u)",
+
+  "Assets.NAME[MM_Highway_Oneway_8_Lanes_4.5u)]": "Highway_Oneway_8_Lanes_4.5u)",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_8_Lanes_4.5u)]": "Highway_Oneway_8_Lanes_4.5u)",
+
+  "Assets.NAME[MM_Large_Road_4_Lanes__2_Sub_Lanes_5u)]": "Large_Road_4_Lanes__2_Sub_Lanes_5u)",
+  "Assets.DESCRIPTION[MM_Large_Road_4_Lanes__2_Sub_Lanes_5u)]": "Large_Road_4_Lanes__2_Sub_Lanes_5u)",
+
+  "Assets.NAME[MM_Large_Road_6_Lanes_+ 4 Sub_Lanes_7u)]": "Large_Road_6_Lanes_+ 4 Sub_Lanes_7u)",
+  "Assets.DESCRIPTION[MM_Large_Road_6_Lanes_+ 4 Sub_Lanes_7u)]": "Large_Road_6_Lanes_+ 4 Sub_Lanes_7u)",
+
+  "Assets.NAME[MM_Large_Road_8_Lanes_+ 4 Sub_Lanes_7u)]": "Large_Road_8_Lanes_+ 4 Sub_Lanes_7u)",
+  "Assets.DESCRIPTION[MM_Large_Road_8_Lanes_+ 4 Sub_Lanes_7u)]": "Large_Road_8_Lanes_+ 4 Sub_Lanes_7u)",
+
+  "Assets.NAME[MM_Large_Road_10_Lanes_Divided_5u)]": "Large_Road_10_Lanes_Divided_5u)",
+  "Assets.DESCRIPTION[MM_Large_Road_10_Lanes_Divided_5u)]": "Large_Road_10_Lanes_Divided_5u)",
+
+  "Assets.NAME[MM_Large_Road_14_Lanes_Divided_7u)]": "Large_Road_14_Lanes_Divided_7u)",
+  "Assets.DESCRIPTION[MM_Large_Road_14_Lanes_Divided_7u)]": "Large_Road_14_Lanes_Divided_7u)",
+
+  "Assets.NAME[MM_Pedestrian Street (1u)]": "Pedestrian Street (1u)",
+  "Assets.DESCRIPTION[MM_Pedestrian Street (1u)]": "Pedestrian Street (1u)",
+
+  "Assets.NAME[MM_Road Outside Connection - Oneway_(No Taxi)]": "Road Outside Connection - Oneway_(No Taxi)",
+  "Assets.DESCRIPTION[MM_Road Outside Connection - Oneway_(No Taxi)]": "Road Outside Connection - Oneway_(No Taxi)",
+
+  "Assets.NAME[MM_Road Outside Connection - Twoway (No Taxi)]": "Road Outside Connection - Twoway (No Taxi)",
+  "Assets.DESCRIPTION[MM_Road Outside Connection - Twoway (No Taxi)]": "Road Outside Connection - Twoway (No Taxi)",
+
+  "Assets.NAME[MM_Subway 1 Line thin]": "Subway 1 Line thin",
+  "Assets.DESCRIPTION[MM_Subway 1 Line thin]": "Subway 1 Line thin",
+
+  "Assets.NAME[MM_Subway 2 Line - Twoway thin]": "Subway 2 Line - Twoway thin",
+  "Assets.DESCRIPTION[MM_Subway 2 Line - Twoway thin]": "Subway 2 Line - Twoway thin",
+
+  "Assets.NAME[MM_Subway 2 Line thin]": "Subway 2 Line thin",
+  "Assets.DESCRIPTION[MM_Subway 2 Line thin]": "Subway 2 Line thin",
+
+  "Assets.NAME[MM_Subway Outside Connection - Oneway]": "Subway Outside Connection - Oneway",
+  "Assets.DESCRIPTION[MM_Subway Outside Connection - Oneway]": "Subway Outside Connection - Oneway",
+
+  "Assets.NAME[MM_Subway Outside Connection - Twoway]": "Subway Outside Connection - Twoway",
+  "Assets.DESCRIPTION[MM_Subway Outside Connection - Twoway]": "Subway Outside Connection - Twoway"
 }

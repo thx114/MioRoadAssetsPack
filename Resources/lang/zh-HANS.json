@@ -1,0 +1,64 @@
+{
+  "Assets.NAME[MM_Alley_Oneway_1_Lanes_0.6u)]": "单向 1车道 巷道 (0.6u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_1_Lanes_0.6u)]": "单向 1车道 巷道 (0.6u)",
+
+  "Assets.NAME[MM_Alley_Oneway_2_Lanes_1u)]": "单向 2车道 巷道 (1u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_2_Lanes_1u)]": "单向 2车道 巷道 (1u)",
+
+  "Assets.NAME[MM_Alley_Oneway_3_Lanes_1.4u)]": "单向 3车道 巷道 (1.4u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_3_Lanes_1.4u)]": "单向 3车道 巷道 (1.4u)",
+
+  "Assets.NAME[MM_Highway_6_Lanes_Divided_4u)]": "6车道 分隔式高速 (4u)",
+  "Assets.DESCRIPTION[MM_Highway_6_Lanes_Divided_4u)]": "6车道 分隔式高速 (4u)",
+
+  "Assets.NAME[MM_Highway_8_Lanes_Divided_5u)]": "8车道 分隔式高速 (5u)",
+  "Assets.DESCRIPTION[MM_Highway_8_Lanes_Divided_5u)]": "8车道 分隔式高速 (5u)",
+
+  "Assets.NAME[MM_Highway_Oneway_6_Lanes_3.5u)]": "单向 6车道 高速 (3.5u)",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_6_Lanes_3.5u)]": "单向 6车道 高速 (3.5u)",
+
+  "Assets.NAME[MM_ Highway_Oneway_7_Lanes_4u)]": "单向 7车道 高速 (4u)",
+  "Assets.DESCRIPTION[MM_ Highway_Oneway_7_Lanes_4u)]": " 单向 7车道 高速 (4u)",
+
+  "Assets.NAME[MM_Highway_Oneway_8_Lanes_4.5u)]": "单向 8车道 高速 (4.5u)",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_8_Lanes_4.5u)]": "单向 8车道 高速 (4.5u)",
+
+  "Assets.NAME[MM_Large_Road_4_Lanes__2_Sub_Lanes_5u)]": "4车道+2辅路 道路 (5u)",
+  "Assets.DESCRIPTION[MM_Large_Road_4_Lanes__2_Sub_Lanes_5u)]": "4车道+2辅路 (5u) ,可以使用树木升级",
+
+  "Assets.NAME[MM_Large_Road_6_Lanes_+ 4 Sub_Lanes_7u)]": "6车道+4辅路 道路 (7u)",
+  "Assets.DESCRIPTION[MM_Large_Road_6_Lanes_+ 4 Sub_Lanes_7u)]": "6车道+4辅路 (7u) ,可以使用树木升级",
+
+  "Assets.NAME[MM_Large_Road_8_Lanes_+ 4 Sub_Lanes_7u)]": "8车道+4辅路 道路 (7u)",
+  "Assets.DESCRIPTION[MM_Large_Road_8_Lanes_+ 4 Sub_Lanes_7u)]": "8车道+4辅路 (7u) ,可以使用树木升级",
+
+  "Assets.NAME[MM_Large_Road_10_Lanes_Divided_5u)]": "10车道 分隔式道路 (5u)",
+  "Assets.DESCRIPTION[MM_Large_Road_10_Lanes_Divided_5u)]": "10车道 分隔式道路 (5u)",
+
+  "Assets.NAME[MM_Large_Road_14_Lanes_Divided_7u)]": "14车道 分隔式道路 (7u)",
+  "Assets.DESCRIPTION[MM_Large_Road_14_Lanes_Divided_7u)]": "14车道 分隔式道路 (7u) ,可以使用树木升级",
+
+  "Assets.NAME[MM_Pedestrian Street (1u)]": "人行路 (1u)",
+  "Assets.DESCRIPTION[MM_Pedestrian Street (1u)]": "人行路 (1u)",
+
+  "Assets.NAME[MM_Road Outside Connection - Oneway_(No Taxi)]": "道路外部连接 - 单向 (无出租车)",
+  "Assets.DESCRIPTION[MM_Road Outside Connection - Oneway_(No Taxi)]": "道路外部连接 - 单向 (无出租车)",
+
+  "Assets.NAME[MM_Road Outside Connection - Twoway (No Taxi)]": "道路外部连接 - 双向 (无出租车)",
+  "Assets.DESCRIPTION[MM_Road Outside Connection - Twoway (No Taxi)]": "道路外部连接 - 双向 (无出租车)",
+
+  "Assets.NAME[MM_Subway 1 Line thin]": "单向地铁轨道 - 细",
+  "Assets.DESCRIPTION[MM_Subway 1 Line thin]": "单向地铁轨道 - 细 ,可以使用宽人行道升级",
+
+  "Assets.NAME[MM_Subway 2 Line - Twoway thin]": "双线地铁轨道(站台) - 细",
+  "Assets.DESCRIPTION[MM_Subway 2 Line - Twoway thin]": "双线地铁轨道(站台) - 细 ,可以使用宽人行道升级",
+
+  "Assets.NAME[MM_Subway 2 Line thin]": "双向地铁轨道 - 细",
+  "Assets.DESCRIPTION[MM_Subway 2 Line thin]": "双向地铁轨道 - 细 ,可以使用宽人行道升级",
+
+  "Assets.NAME[MM_Subway Outside Connection - Oneway]": "地铁外部连接 - 单向",
+  "Assets.DESCRIPTION[MM_Subway Outside Connection - Oneway]": "地铁外部连接 - 单向",
+
+  "Assets.NAME[MM_Subway Outside Connection - Twoway]": "地铁外部连接 - 双向",
+  "Assets.DESCRIPTION[MM_Subway Outside Connection - Twoway]": "地铁外部连接 - 双向"
+}
