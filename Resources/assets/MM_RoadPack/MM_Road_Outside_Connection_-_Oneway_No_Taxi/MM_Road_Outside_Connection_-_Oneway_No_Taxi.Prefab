@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.MarkerObjectPrefab, Game",
-    "name": "MM_Road Outside Connection - Oneway (No Taxi)",
+    "name": "MM_Road_Outside_Connection_-_Oneway_No_Taxi",
     "active": true,
     "components": {
         "$id": 1,

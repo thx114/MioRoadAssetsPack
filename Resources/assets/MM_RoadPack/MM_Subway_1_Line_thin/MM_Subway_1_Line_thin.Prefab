@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.TrackPrefab, Game",
-    "name": "MM_Subway 1 Line thin",
+    "name": "MM_Subway_1_Line_thin",
     "active": true,
     "components": {
         "$id": 1,
