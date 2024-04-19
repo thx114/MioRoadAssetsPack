@@ -1,0 +1,106 @@
+{
+  "Assets.NAME[MM_Alley_Oneway_1_Lanes_0.6u]": "1차선 일방통행 (0.6u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_1_Lanes_0.6u]": "A1차선 일방통행 (0.6u)",
+
+  "Assets.NAME[MM_Alley_Oneway_2_Lanes_1u]": "2차선 일방통행 (1u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_2_Lanes_1u]": "2차선 일방통행 (1u)",
+
+  "Assets.NAME[MM_Alley_Oneway_3_Lanes_1.4u]": "3차선 일방통행 (1.4u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_3_Lanes_1.4u]": "3차선 일방통행 (1.4u)",
+
+  "Assets.NAME[MM_Highway_6_Lanes_Divided_4u]": "6차선 양방향 고속도로 (4u)",
+  "Assets.DESCRIPTION[MM_Highway_6_Lanes_Divided_4u]": "6차선 양방향 고속도로 (4u)",
+
+  "Assets.NAME[MM_Highway_8_Lanes_Divided_5u]": "8차선 양방향 고속도로 (5u)",
+  "Assets.DESCRIPTION[MM_Highway_8_Lanes_Divided_5u]": "8차선 양방향 고속도로 (5u)",
+
+  "Assets.NAME[MM_Highway_Oneway_6_Lanes_3.5u]": "6차선 일방통행 고속도로 (3.5u)",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_6_Lanes_3.5u]": "6차선 일방통행 고속도로 (3.5u)",
+
+  "Assets.NAME[MM_Highway_Oneway_7_Lanes_4u]": "7차선 일방통행 고속도로 (4u)",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_7_Lanes_4u]": "7차선 일방통행 고속도로 (4u)",
+
+  "Assets.NAME[MM_Highway_Oneway_8_Lanes_4.5u]": "8차선 일방통행 고속도로 (4.5u)",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_8_Lanes_4.5u]": "8차선 일방통행 고속도로 (4.5u)",
+
+  "Assets.NAME[MM_XL_Road_4_Lanes_2_Sub_Lanes_5u]": "4차선 도로 및 2차선 분리도로 (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_4_Lanes_2_Sub_Lanes_5u]": "4차선 대형도로 및 2차선 분리도로 (5u)",
+
+  "Assets.NAME[MM_XL_Road_6_Lanes_4_Sub_Lanes_7u]": "6차선 도로 및 4차선 분리도로 (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_6_Lanes_4_Sub_Lanes_7u]": "6차선 도로 및 4차선 분리도로 (7u)",
+
+  "Assets.NAME[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "8차선 도로 및 4차선 분리도로 (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "8차선 도로 및 4차선 분리도로 (7u)",
+
+  "Assets.NAME[MM_XL_Road_10_Lanes_Divided_5u]": "10차선 대형 도로 (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_10_Lanes_Divided_5u]": "10차선 대형 도로 (5u)",
+
+  "Assets.NAME[MM_XL_Road_14_Lanes_Divided_7u]": "14차선 대형 도로 (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_14_Lanes_Divided_7u]": "14차선 대형 도로 (7u)",
+
+  "Assets.NAME[MM_Pedestrian_Street_1u]": "2차선 좁은 양방향 도로 (1u)",
+  "Assets.DESCRIPTION[MM_Pedestrian_Street_1u]": "2차선 좁은 양방향 도로 (1u)",
+
+  "Assets.NAME[MM_Road_Outside_Connection_-_Oneway_No_Taxi]": "외부연결 일방통행 도로 (택시 제외)",
+  "Assets.DESCRIPTION[MM_Road_Outside_Connection_-_Oneway_No_Taxi]": "외부연결 일방통행 도로 (택시 제외)",
+
+  "Assets.NAME[MM_Road_Outside_Connection_-_Twoway_No_Taxi]": "2차선 외부연결 일방통행 도로 (택시 제외)",
+  "Assets.DESCRIPTION[MM_Road_Outside_Connection_-_Twoway_No_Taxi]": "2차선 외부연결 일방통행 도로 (택시 제외)",
+
+  "Assets.NAME[MM_Subway_1_Line_thin]": "1차선 좁은 일반통행 지하철 선로",
+  "Assets.DESCRIPTION[MM_Subway_1_Line_thin]": "1차선 좁은 일반통행 지하철 선로",
+
+  "Assets.NAME[MM_Subway_2_Line_-_Twoway_thin]": "2차선 좁은 일반통행 지하철 선로",
+  "Assets.DESCRIPTION[MM_Subway_2_Line_-_Twoway_thin]": "2차선 좁은 일반통행 지하철 선로",
+
+  "Assets.NAME[MM_Subway_2_Line_thin]": "이중 좁은 지하철 선로",
+  "Assets.DESCRIPTION[MM_Subway_2_Line_thin]": "이중 좁은 지하철 선로",
+
+  "Assets.NAME[MM_Subway_Outside_Connection_-_Oneway]": "지하철 일방통행 외부연결",
+  "Assets.DESCRIPTION[MM_Subway_Outside_Connection_-_Oneway]": "지하철 일방통행 외부연결",
+
+  "Assets.NAME[MM_Subway_Outside_Connection_-_Twoway]": "2차선 지하철 일방통행 외부연결",
+  "Assets.DESCRIPTION[MM_Subway_Outside_Connection_-_Twoway]": "2차선 지하철 일방통행 외부연결",
+
+  "Assets.NAME[MM_Large_Road_8_Lane_Divided_4u]": "8차선 중앙분리 도로 (4u)",
+  "Assets.DESCRIPTION[MM_Large_Road_8_Lane_Divided_4u]": "8차선 중앙분리 도로 (4u)",
+
+  "Assets.NAME[MM_Medium_Road_Asymmetric_3_1]": "3/1 비대칭 도로 (3u)",
+  "Assets.DESCRIPTION[MM_Medium_Road_Asymmetric_3_1]": "3/1 비대칭 도로 (3u)",
+
+  "Assets.NAME[MM_Large_Road_Asymmetric_4_2]": "4/2 비대칭 도로 (4u)",
+  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_4_2]": "4/2 비대칭 도로 (4u)",
+
+  "Assets.NAME[MM_Large_Road_Asymmetric_5_3]": "5/3 비대칭 도로 (4u)",
+  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_5_3]": "5/3 비대칭 도로 (4u)",
+
+  "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "6/4 비대칭 대형 도로 (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_Asymmetric_6_4]": "6/4 비대칭 대형 도로 (5u)",
+
+  "SubServices.NAME[RoadsXLRoad]": "초 대형 도로",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "초 대형 도로",
+
+  "Assets.NAME[MM_Highway_Oneway_1_lane_thin]": "1차선 좁은 일방통행 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_1_lane_thin]": "1차선 좁은 일방통행 고속도로",
+
+  "Assets.NAME[MM_Highway_Oneway_2_lane_thin]": "2차선 좁은 일방통행 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_2_lane_thin]": "2차선 좁은 일방통행 고속도로",
+
+  "Assets.NAME[MM_Highway_Oneway_3_lane_thin]": "3차선 좁은 일방통행 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_3_lane_thin]": "3차선 좁은 일방통행 고속도로",
+
+  "Assets.NAME[MM_Highway_Oneway_4_lane_thin]": "4차선 좁은 일방통행 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_4_lane_thin]": "4차선 좁은 일방통행 고속도로",
+
+  "Assets.NAME[MM_Highway_Oneway_5_lane_thin]": "5차선 좁은 일방통행 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_5_lane_thin]": "5차선 좁은 일방통행 고속도로",
+
+  "Assets.NAME[MM_Highway_Twoway_2_lane_thin]": "2차선 좁은 양방향 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_2_lane_thin]": "2차선 좁은 양방향 고속도로",
+
+  "Assets.NAME[MM_Highway_Twoway_3_lane_thin]": "3차선 좁은 비대칭 2/1 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_3_lane_thin]": "3차선 좁은 비대칭 2/1 고속도로",
+
+  "Assets.NAME[MM_Highway_Twoway_4_lane_thin]": "4차선 좁은 양방향 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "4차선 좁은 양방향 고속도로"
+}
