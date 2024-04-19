@@ -102,5 +102,29 @@
   "Assets.DESCRIPTION[MM_Highway_Twoway_3_lane_thin]": "Highway Twoway 3 lane thin",
 
   "Assets.NAME[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 lane thin",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 lane thin"
+  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 lane thin",
+
+  "SubServices.NAME[RoadsBRTRoads]": "BRT road",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsBRTRoads]": "BRT road",
+
+  "Assets.NAME[JS_Large_Road_1_2_Lanes_5u]": "BRT 1+2 Lanes Road (5u)",
+  "Assets.DESCRIPTION[JS_Large_Road_1_2_Lanes_5u]": "BRT 1+2 Lanes Road (5u)",
+
+  "Assets.NAME[JS_Large_Road_1_3_Lanes_5u]": "BRT 1+3 Lanes Road (5u)",
+  "Assets.DESCRIPTION[JS_Large_Road_1_3_Lanes_5u]": "BRT 1+3 Lanes Road (5u)",
+
+  "Assets.NAME[JS_Large_Road_3_2_Lanes_6u]": "BRT 3+2 Lanes Road (6u)",
+  "Assets.DESCRIPTION[JS_Large_Road_3_2_Lanes_6u]": "BRT 3+2 Lanes Road (6u)",
+
+  "Assets.NAME[JS_Large_Road_4_Lanes_5u]": "BRT 4 Lanes Road (5u)",
+  "Assets.DESCRIPTION[JS_Large_Road_4_Lanes_5u]": "BRT 4 Lanes Road (5u)",
+
+  "Assets.NAME[JS_Large_Road_4_2_Lanes_6u]": "BRT 4+2 Lanes Road (6u)",
+  "Assets.DESCRIPTION[JS_Large_Road_4_2_Lanes_6u]": "BRT 4+2 Lanes Road (6u)",
+
+  "Assets.NAME[JS_Large_Road_6_Lanes_6u]": "BRT 6 Lanes Road (6u)",
+  "Assets.DESCRIPTION[JS_Large_Road_6_Lanes_6u]": "BRT 6 Lanes Road (6u)",
+
+  "Assets.NAME[JS_Medium_Road_2_Lanes_4u]": "BRT 2 Lanes Road (4u)",
+  "Assets.DESCRIPTION[JS_Medium_Road_2_Lanes_4u]": "BRT 2 Lanes Road (4u)"
 }
