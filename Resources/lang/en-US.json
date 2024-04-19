@@ -23,20 +23,20 @@
   "Assets.NAME[MM_Highway_Oneway_8_Lanes_4.5u]": "Highway Oneway 8 Lanes (4.5u)",
   "Assets.DESCRIPTION[MM_Highway_Oneway_8_Lanes_4.5u]": "Highway Oneway 8 Lanes (4.5u)",
 
-  "Assets.NAME[MM_Large_Road_4_Lanes_2_Sub_Lanes_5u]": "Large Road 4 Lanes  2 Sub Lanes (5u)",
-  "Assets.DESCRIPTION[MM_Large_Road_4_Lanes_2_Sub_Lanes_5u]": "Large Road 4 Lanes  2 Sub Lanes (5u)",
+  "Assets.NAME[MM_XL_Road_4_Lanes_2_Sub_Lanes_5u]": "XL Road 4 Lanes  2 Sub Lanes (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_4_Lanes_2_Sub_Lanes_5u]": "XL Road 4 Lanes  2 Sub Lanes (5u)",
 
-  "Assets.NAME[MM_Large_Road_6_Lanes_4_Sub_Lanes_7u]": "Large Road 6 Lanes + 4 Sub Lanes (7u)",
-  "Assets.DESCRIPTION[MM_Large_Road_6_Lanes_4_Sub_Lanes_7u]": "Large Road 6 Lanes + 4 Sub Lanes (7u)",
+  "Assets.NAME[MM_XL_Road_6_Lanes_4_Sub_Lanes_7u]": "XL Road 6 Lanes + 4 Sub Lanes (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_6_Lanes_4_Sub_Lanes_7u]": "XL Road 6 Lanes + 4 Sub Lanes (7u)",
 
-  "Assets.NAME[MM_Large_Road_8_Lanes_4_Sub_Lanes_7u]": "Large Road 8 Lanes + 4 Sub Lanes (7u)",
-  "Assets.DESCRIPTION[MM_Large_Road_8_Lanes_4_Sub_Lanes_7u]": "Large Road 8 Lanes + 4 Sub Lanes (7u)",
+  "Assets.NAME[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "XL Road 8 Lanes + 4 Sub Lanes (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "XL Road 8 Lanes + 4 Sub Lanes (7u)",
 
-  "Assets.NAME[MM_Large_Road_10_Lanes_Divided_5u]": "Large Road 10 Lanes Divided (5u)",
-  "Assets.DESCRIPTION[MM_Large_Road_10_Lanes_Divided_5u]": "Large Road 10 Lanes Divided (5u)",
+  "Assets.NAME[MM_XL_Road_10_Lanes_Divided_5u]": "XL Road 10 Lanes Divided (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_10_Lanes_Divided_5u]": "XL Road 10 Lanes Divided (5u)",
 
-  "Assets.NAME[MM_Large_Road_14_Lanes_Divided_7u]": "Large Road 14 Lanes Divided (7u)",
-  "Assets.DESCRIPTION[MM_Large_Road_14_Lanes_Divided_7u]": "Large Road 14 Lanes Divided (7u)",
+  "Assets.NAME[MM_XL_Road_14_Lanes_Divided_7u]": "XL Road 14 Lanes Divided (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_14_Lanes_Divided_7u]": "XL Road 14 Lanes Divided (7u)",
 
   "Assets.NAME[MM_Pedestrian_Street_1u]": "Pedestrian Street (1u)",
   "Assets.DESCRIPTION[MM_Pedestrian_Street_1u]": "Pedestrian Street (1u)",
@@ -74,9 +74,33 @@
   "Assets.NAME[MM_Large_Road_Asymmetric_5_3]": "Large Road Asymmetric 5/3 (4u)",
   "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_5_3]": "Large Road Asymmetric 5/3",
 
-  "Assets.NAME[MM_Large_Road_Asymmetric_6_4]": "Large Road Asymmetric 6/4 (5u)",
-  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_6_4]": "Large Road Asymmetric 6/4",
+  "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "XL Road Asymmetric 6/4 (5u)",
+  "Assets.DESCRIPTION[MM_Large_XL_Asymmetric_6_4]": "XL Road Asymmetric 6/4",
 
   "SubServices.NAME[RoadsXLRoad]": "XL road",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "XL road"
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "XL road",
+
+  "Assets.NAME[MM_Highway_Oneway_1_lane_thin]": "Highway Oneway 1 lane thin",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_1_lane_thin]": "Highway Oneway 1 lane thin",
+
+  "Assets.NAME[MM_Highway_Oneway_2_lane_thin]": "Highway Oneway 2 lane thin",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_2_lane_thin]": "Highway Oneway 2 lane thin",
+
+  "Assets.NAME[MM_Highway_Oneway_3_lane_thin]": "Highway Oneway 3 lane thin",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_3_lane_thin]": "Highway Oneway 3 lane thin",
+
+  "Assets.NAME[MM_Highway_Oneway_4_lane_thin]": "Highway Oneway 4 lane thin",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_4_lane_thin]": "Highway Oneway 4 lane thin",
+
+  "Assets.NAME[MM_Highway_Oneway_5_lane_thin]": "Highway Oneway 5 lane thin",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_5_lane_thin]": "Highway Oneway 5 lane thin",
+
+  "Assets.NAME[MM_Highway_Twoway_2_lane_thin]": "Highway Twoway 2 lane thin",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_2_lane_thin]": "Highway Twoway 2 lane thin",
+
+  "Assets.NAME[MM_Highway_Twoway_3_lane_thin]": "Highway Twoway 3 lane thin",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_3_lane_thin]": "Highway Twoway 3 lane thin",
+
+  "Assets.NAME[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 lane thin",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 lane thin"
 }

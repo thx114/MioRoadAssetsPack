@@ -23,20 +23,20 @@
   "Assets.NAME[MM_Highway_Oneway_8_Lanes_4.5u]": "单向 8车道 高速 (4.5u)",
   "Assets.DESCRIPTION[MM_Highway_Oneway_8_Lanes_4.5u]": "单向 8车道 高速 (4.5u)",
 
-  "Assets.NAME[MM_Large_Road_4_Lanes_2_Sub_Lanes_5u]": "4车道+2辅路 道路 (5u)",
-  "Assets.DESCRIPTION[MM_Large_Road_4_Lanes_2_Sub_Lanes_5u]": "4车道+2辅路 (5u) ,可以使用树木升级",
+  "Assets.NAME[MM_XL_Road_4_Lanes_2_Sub_Lanes_5u]": "4车道+2辅路 道路 (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_4_Lanes_2_Sub_Lanes_5u]": "4车道+2辅路 (5u) ,可以使用树木升级",
 
-  "Assets.NAME[MM_Large_Road_6_Lanes_4_Sub_Lanes_7u]": "6车道+4辅路 道路 (7u)",
-  "Assets.DESCRIPTION[MM_Large_Road_6_Lanes_4_Sub_Lanes_7u]": "6车道+4辅路 (7u) ,可以使用树木升级",
+  "Assets.NAME[MM_XL_Road_6_Lanes_4_Sub_Lanes_7u]": "6车道+4辅路 道路 (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_6_Lanes_4_Sub_Lanes_7u]": "6车道+4辅路 (7u) ,可以使用树木升级",
 
-  "Assets.NAME[MM_Large_Road_8_Lanes_4_Sub_Lanes_7u]": "8车道+4辅路 道路 (7u)",
-  "Assets.DESCRIPTION[MM_Large_Road_8_Lanes_4_Sub_Lanes_7u]": "8车道+4辅路 (7u) ,可以使用树木升级",
+  "Assets.NAME[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "8车道+4辅路 道路 (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "8车道+4辅路 (7u) ,可以使用树木升级",
 
-  "Assets.NAME[MM_Large_Road_10_Lanes_Divided_5u]": "10车道 分隔式道路 (5u)",
-  "Assets.DESCRIPTION[MM_Large_Road_10_Lanes_Divided_5u]": "10车道 分隔式道路 (5u)",
+  "Assets.NAME[MM_XL_Road_10_Lanes_Divided_5u]": "10车道 分隔式道路 (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_10_Lanes_Divided_5u]": "10车道 分隔式道路 (5u)",
 
-  "Assets.NAME[MM_Large_Road_14_Lanes_Divided_7u]": "14车道 分隔式道路 (7u)",
-  "Assets.DESCRIPTION[MM_Large_Road_14_Lanes_Divided_7u]": "14车道 分隔式道路 (7u) ,可以使用树木升级",
+  "Assets.NAME[MM_XL_Road_14_Lanes_Divided_7u]": "14车道 分隔式道路 (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_14_Lanes_Divided_7u]": "14车道 分隔式道路 (7u) ,可以使用树木升级",
 
   "Assets.NAME[MM_Pedestrian_Street_1u]": "人行路 (1u)",
   "Assets.DESCRIPTION[MM_Pedestrian_Street_1u]": "人行路 (1u)",
@@ -74,9 +74,33 @@
   "Assets.NAME[MM_Large_Road_Asymmetric_5_3]": "5/3 非对称道路 (4u)",
   "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_5_3]": "5/3 非对称道路",
 
-  "Assets.NAME[MM_Large_Road_Asymmetric_6_4]": "6/4 非对称道路 (5u)",
-  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_6_4]": "6/4 非对称道路",
+  "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "6/4 非对称道路 (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_Asymmetric_6_4]": "6/4 非对称道路",
 
   "SubServices.NAME[RoadsXLRoad]": "巨型道路",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "巨型道路"
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "巨型道路",
+
+  "Assets.NAME[MM_Highway_Oneway_1_lane_thin]": "单向 1车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_1_lane_thin]": "单向 1车道 高速 - 细",
+
+  "Assets.NAME[MM_Highway_Oneway_2_lane_thin]": "单向 2车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_2_lane_thin]": "单向 2车道 高速 - 细",
+
+  "Assets.NAME[MM_Highway_Oneway_3_lane_thin]": "单向 3车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_3_lane_thin]": "单向 3车道 高速 - 细",
+
+  "Assets.NAME[MM_Highway_Oneway_4_lane_thin]": "单向 4车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_4_lane_thin]": "单向 4车道 高速 - 细",
+
+  "Assets.NAME[MM_Highway_Oneway_5_lane_thin]": "单向 5车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_5_lane_thin]": "单向 5车道 高速 - 细",
+
+  "Assets.NAME[MM_Highway_Twoway_2_lane_thin]": "2车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_2_lane_thin]": "2车道 高速 - 细",
+
+  "Assets.NAME[MM_Highway_Twoway_3_lane_thin]": "3车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_3_lane_thin]": "3车道 高速 - 细",
+
+  "Assets.NAME[MM_Highway_Twoway_4_lane_thin]": "4车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "4车道 高速 - 细"
 }

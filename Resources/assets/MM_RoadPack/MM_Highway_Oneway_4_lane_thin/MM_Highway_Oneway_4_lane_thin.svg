@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="b">
+   <rect height="64" id="svg_1" width="64"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="a">
+   <path d="m722.07,-295.33l29.71,25.31l34.04,-20.61l0.35,-2.6l-64.1,-4.69l0,2.59z" fill="#c4c4c4" id="svg_2" transform="translate(-722.072 327.13)"/>
+   <path d="m737.03,-304.84l24.05,28.18l25.13,-14.78l-30.23,-24.5l-18.95,11.1z" fill="#d4d4d4" id="svg_3" transform="translate(-728.982 329.31)"/>
+   <path d="m1224.12,-1129.9l29.87,25.1l9,-5.46l-29.7,-24.87l-9.17,5.23z" fill="#949494" id="svg_4" transform="translate(-1224.078 1159.002)"/>
+   <path d="m1223.13,-1128.57l29.87,24.85l14.47,-8.42l-29.84,-24.94l-14.5,8.51z" fill="#949494" id="svg_5" transform="translate(-1213.027 1151.886)"/>
+   <path d="m1226.58,-1130.89l29.87,25.1l8.72,-5.22l-30.02,-25.11l-8.57,5.23z" fill="#949494" id="svg_6" transform="translate(-1201.027 1144.886)"/>
+   <path d="m15820,3491.44l30.41,24.87l1.23,-0.69l-30.76,-24.62l-0.88,0.44z" fill="#d4d4d4" id="svg_7" transform="translate(-15803.473 -3472.092)"/>
+   <path d="m15735.84,2434.14l0.93,6.54l1.88,-1.05l6.6,6.08l3.01,-1.77l-6.47,-5.88l2.16,-1.24l-8.11,-2.68z" fill="#fff" id="svg_8" transform="translate(-15722.702 -2401.133)"/>
+   <path d="m15735.84,2434.14l0.93,6.54l1.88,-1.05l6.6,6.08l3.01,-1.77l-6.47,-5.88l2.16,-1.24l-8.11,-2.68z" fill="#fff" id="svg_9" transform="translate(-15713.702 -2406.617)"/>
+   <path d="m15735.84,2434.14l0.93,6.54l1.88,-1.05l6.6,6.08l3.01,-1.77l-6.47,-5.88l2.16,-1.24l-8.11,-2.68z" fill="#fff" id="svg_10" transform="translate(-15705.702 -2410.71)"/>
+   <path d="m15735.84,2434.14l0.93,6.54l1.88,-1.05l6.6,6.08l3.01,-1.77l-6.47,-5.88l2.16,-1.24l-8.11,-2.68z" fill="#fff" id="svg_11" transform="translate(-15697.197 -2415.998)"/>
+  </g>
+  <text fill="#aaffff" font-family="Sans-serif" font-size="24" id="svg_12" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.504839 0 0 0.504839 23.141 -0.697475)" x="-22.79" xml:space="preserve" y="121.02">thin</text>
+ </g>
+</svg>

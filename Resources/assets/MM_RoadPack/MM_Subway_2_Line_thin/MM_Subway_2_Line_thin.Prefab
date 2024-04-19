@@ -71,8 +71,8 @@
                             "m_FixedIndex": 0,
                             "m_AnchorTop": false,
                             "m_AnchorCenter": false,
-                            "m_RequireElevated": true,
-                            "m_RequireOutsideConnection": false,
+                            "m_RequireElevated": false,
+                            "m_RequireOutsideConnection": true,
                             "m_RequireDeadEnd": false,
                             "m_RequireOrphan": false
                         }
@@ -140,31 +140,20 @@
             },
             {
                 "$id": 13,
-                "$type": "14|Game.Prefabs.UIObject, Game",
-                "name": "UIObject",
-                "active": true,
-                "m_Group": $fstrref:"UnityGUID:32b5e550d4a9af34facf35e8b1b14206",
-                "m_Priority": 30,
-                "m_Icon": "coui://customassets/MM_RoadPack/MM_Subway_2_Line_thin/MM_Subway_2_Line_thin.svg",
-                "m_LargeIcon": "",
-                "m_IsDebugObject": false
-            },
-            {
-                "$id": 14,
-                "$type": "15|Game.Prefabs.Unlockable, Game",
+                "$type": "14|Game.Prefabs.Unlockable, Game",
                 "name": "Unlockable",
                 "active": true,
                 "m_RequireAll": {
-                    "$id": 15,
-                    "$type": "16|Game.Prefabs.PrefabBase[], Game",
+                    "$id": 14,
+                    "$type": "15|Game.Prefabs.PrefabBase[], Game",
                     "$rlength": 1,
                     "$rcontent": [
                         $fstrref:"UnityGUID:74ca56eea547afb45b2fda30e50a95d8"
                     ]
                 },
                 "m_RequireAny": {
-                    "$id": 16,
-                    "$type": 16,
+                    "$id": 15,
+                    "$type": 15,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
@@ -172,18 +161,29 @@
                 "m_IgnoreDependencies": false
             },
             {
-                "$id": 17,
-                "$type": "17|Game.Prefabs.UnlockOnBuild, Game",
+                "$id": 16,
+                "$type": "16|Game.Prefabs.UnlockOnBuild, Game",
                 "name": "UnlockOnBuild",
                 "active": true,
                 "m_Unlocks": {
-                    "$id": 18,
-                    "$type": "18|Game.Prefabs.ObjectBuiltRequirementPrefab[], Game",
+                    "$id": 17,
+                    "$type": "17|Game.Prefabs.ObjectBuiltRequirementPrefab[], Game",
                     "$rlength": 1,
                     "$rcontent": [
                         $fstrref:"UnityGUID:deabf2dddb6b3634a985aaaef94315e6"
                     ]
                 }
+            },
+            {
+                "$id": 18,
+                "$type": "18|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": null,
+                "m_Priority": 0,
+                "m_Icon": null,
+                "m_LargeIcon": null,
+                "m_IsDebugObject": false
             }
         ]
     },

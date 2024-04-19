@@ -13,6 +13,15 @@ Add roads:
 - Alley Oneway 2 Lanes (1u)
 - Alley Oneway 3 Lanes (1.4u)
 
+- Highway Oneway 1 Lanes thin
+- Highway Oneway 2 Lanes thin
+- Highway Oneway 3 Lanes thin
+- Highway Oneway 4 Lanes thin
+- Highway Oneway 5 Lanes thin
+
+- Highway Towway 2 Lanes thin
+- Highway Towway 3 Lanes thin
+- Highway Towway 4 Lanes thin
 - Highway 6 Lanes Divided (4u)
 - Highway 8 Lanes Divided (5u)
 
@@ -20,13 +29,13 @@ Add roads:
 - Highway Oneway 7 Lanes (4u)
 - Highway Oneway 8 Lanes (4.5u)
 
-- Large Road 8 Lane Divided (4u)
-- Large Road 10 Lanes Divided (5u)
-- Large Road 14 Lanes Divided (7u)
+- XL Road 8 Lane Divided (4u)
+- XL Road 10 Lanes Divided (5u)
+- XL Road 14 Lanes Divided (7u)
 
 - Large Road 4 Lanes + 2 Sub Lanes (5u)
 - Large Road 6 Lanes + 4 Sub Lanes (7u)
-- Large Road 8 Lanes + 4 Sub Lanes (7u)
+- XL Road 8 Lanes + 4 Sub Lanes (7u)
 
 - Medium Road Asymmetric 3/1 (3u)
 - Large Road Asymmetric 4/2 (4u)
