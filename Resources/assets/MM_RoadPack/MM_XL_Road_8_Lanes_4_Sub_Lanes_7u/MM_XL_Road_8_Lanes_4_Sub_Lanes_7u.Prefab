@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.RoadPrefab, Game",
-    "name": "MM_Large_Road_8_Lanes_4_Sub_Lanes_7u",
+    "name": "MM_XL_Road_8_Lanes_4_Sub_Lanes_7u",
     "active": true,
     "components": {
         "$id": 1,
@@ -414,9 +414,9 @@
                 "$type": "18|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": $fstrref:"UnityGUID:a0f52491aafbfc144aefee1cc756c479",
+                "m_Group": $fstrref:"CID:f54231b79471be6f3bc2fa389838c7d0",
                 "m_Priority": 53,
-                "m_Icon": "coui://customassets/MM_RoadPack/MM_Large_Road_8_Lanes_4_Sub_Lanes_7u/MM_Large_Road_8_Lanes_4_Sub_Lanes_7u.svg",
+                "m_Icon": "coui://customassets/MM_RoadPack/MM_XL_Road_8_Lanes_4_Sub_Lanes_7u/MM_XL_Road_8_Lanes_4_Sub_Lanes_7u.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },

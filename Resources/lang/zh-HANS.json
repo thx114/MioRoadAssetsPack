@@ -75,5 +75,8 @@
   "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_5_3]": "5/3 非对称道路",
 
   "Assets.NAME[MM_Large_Road_Asymmetric_6_4]": "6/4 非对称道路 (5u)",
-  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_6_4]": "6/4 非对称道路"
+  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_6_4]": "6/4 非对称道路",
+
+  "SubServices.NAME[RoadsXLRoad]": "巨型道路",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "巨型道路"
 }

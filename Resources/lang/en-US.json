@@ -75,5 +75,8 @@
   "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_5_3]": "Large Road Asymmetric 5/3",
 
   "Assets.NAME[MM_Large_Road_Asymmetric_6_4]": "Large Road Asymmetric 6/4 (5u)",
-  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_6_4]": "Large Road Asymmetric 6/4"
+  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_6_4]": "Large Road Asymmetric 6/4",
+
+  "SubServices.NAME[RoadsXLRoad]": "XL road",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "XL road"
 }

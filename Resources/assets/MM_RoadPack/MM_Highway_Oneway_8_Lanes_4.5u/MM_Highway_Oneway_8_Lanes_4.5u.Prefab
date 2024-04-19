@@ -106,7 +106,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:01a34e6844b1060408f630cf940091d2",
-                "m_Priority": 2070,
+                "m_Priority": 2052,
                 "m_Icon": "coui://customassets/MM_RoadPack/MM_Highway_Oneway_8_Lanes_4.5u/MM_Highway_Oneway_8_Lanes_4.5u.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
