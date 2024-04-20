@@ -110,8 +110,8 @@
   "Assets.NAME[JS_Large_Road_1_2_Lanes_5u]": "BRT 1+2차선 도로 (5u)",
   "Assets.DESCRIPTION[JS_Large_Road_1_2_Lanes_5u]": "BRT 1+2차선 도로 (5u)",
 
-  "Assets.NAME[JS_Large_Road_3_2_Lanes_6u]": "BRT 3+2차선 도로 (6u)",
-  "Assets.DESCRIPTION[JS_Large_Road_3_2_Lanes_6u]": "BRT 3+2차선 도로 (6u)",
+  "Assets.NAME[JS_Large_Road_2_3_Lanes_6u]": "BRT 3+2차선 도로 (6u)",
+  "Assets.DESCRIPTION[JS_Large_Road_2_3_Lanes_6u]": "BRT 3+2차선 도로 (6u)",
 
   "Assets.NAME[JS_Large_Road_4_Lanes_5u]": "BRT 4차선 도로 (5u)",
   "Assets.DESCRIPTION[JS_Large_Road_4_Lanes_5u]": "BRT 4차선 도로 (5u)",
@@ -120,5 +120,8 @@
   "Assets.DESCRIPTION[JS_Large_Road_6_Lanes_6u]": "BRT 6차선 도로 (6u)",
 
   "Assets.NAME[JS_Medium_Road_2_Lanes_4u]": "BRT 2차선 도로 (4u)",
-  "Assets.DESCRIPTION[JS_Medium_Road_2_Lanes_4u]": "BRT 2차선 도로 (4u)"
+  "Assets.DESCRIPTION[JS_Medium_Road_2_Lanes_4u]": "BRT 2차선 도로 (4u)",
+
+  "Assets.NAME[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "4차선 도로 및 4차선 분리도로 (6u)",
+  "Assets.DESCRIPTION[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "4차선 대형도로 및 4차선 분리도로 (6u)"
 }

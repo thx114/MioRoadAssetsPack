@@ -43,6 +43,7 @@ Add roads:
 - XL Road 14 Lanes Divided (7u)
 
 - Large Road 4 Lanes + 2 Sub Lanes (5u)
+- Large Road 4 Lanes + 4 Sub Lanes (6u)
 - Large Road 6 Lanes + 4 Sub Lanes (7u)
 - XL Road 8 Lanes + 4 Sub Lanes (7u)
 
@@ -67,9 +68,11 @@ Add roads:
 
 - BRT 1+2 Lanes Road (5u)
 - BRT 3+2 Lanes Road (6u)
+- BRT 2 Lanes Road (4u)
 - BRT 4 Lanes Road (5u)
 - BRT 6 Lanes Road (6u)
-- BRT 2 Lanes Road (4u)
+
+(The initial creator of the BRT road asset is Jason_Stephen.)
 
 ## Feature Roadmap
 - BRT roads
@@ -86,6 +89,7 @@ Install this mod to use.
 
 ## Acknowledgment
 Special thanks to Konsi for the asset loading framework.
+thanks to Jason_Stephen for BRT road asset
 
 ## More
 If you want to create a similar asset pack, please use this template£º
