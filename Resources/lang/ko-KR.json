@@ -77,8 +77,8 @@
   "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "6/4 비대칭 대형 도로 (5u)",
   "Assets.DESCRIPTION[MM_XL_Road_Asymmetric_6_4]": "6/4 비대칭 대형 도로 (5u)",
 
-  "SubServices.NAME[RoadsXLRoad]": "초 대형 도로",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "초 대형 도로",
+  "SubServices.NAME[RoadsXLRoad]": "초대형 도로",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "초대형 도로",
 
   "Assets.NAME[MM_Highway_Oneway_1_lane_thin]": "1차선 좁은 일방통행 고속도로",
   "Assets.DESCRIPTION[MM_Highway_Oneway_1_lane_thin]": "1차선 좁은 일방통행 고속도로",
@@ -102,5 +102,23 @@
   "Assets.DESCRIPTION[MM_Highway_Twoway_3_lane_thin]": "3차선 좁은 비대칭 2/1 고속도로",
 
   "Assets.NAME[MM_Highway_Twoway_4_lane_thin]": "4차선 좁은 양방향 고속도로",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "4차선 좁은 양방향 고속도로"
+  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "4차선 좁은 양방향 고속도로",
+
+  "SubServices.NAME[RoadsBRTRoads]": "중앙버스전용차로(BRT)",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsBRTRoads]": "중앙버스전용차로(BRT)",
+
+  "Assets.NAME[JS_Large_Road_1_2_Lanes_5u]": "BRT 1+2차선 도로 (5u)",
+  "Assets.DESCRIPTION[JS_Large_Road_1_2_Lanes_5u]": "BRT 1+2차선 도로 (5u)",
+
+  "Assets.NAME[JS_Large_Road_3_2_Lanes_6u]": "BRT 3+2차선 도로 (6u)",
+  "Assets.DESCRIPTION[JS_Large_Road_3_2_Lanes_6u]": "BRT 3+2차선 도로 (6u)",
+
+  "Assets.NAME[JS_Large_Road_4_Lanes_5u]": "BRT 4차선 도로 (5u)",
+  "Assets.DESCRIPTION[JS_Large_Road_4_Lanes_5u]": "BRT 4차선 도로 (5u)",
+
+  "Assets.NAME[JS_Large_Road_6_Lanes_6u]": "BRT 6차선 도로 (6u)",
+  "Assets.DESCRIPTION[JS_Large_Road_6_Lanes_6u]": "BRT 6차선 도로 (6u)",
+
+  "Assets.NAME[JS_Medium_Road_2_Lanes_4u]": "BRT 2차선 도로 (4u)",
+  "Assets.DESCRIPTION[JS_Medium_Road_2_Lanes_4u]": "BRT 2차선 도로 (4u)"
 }
