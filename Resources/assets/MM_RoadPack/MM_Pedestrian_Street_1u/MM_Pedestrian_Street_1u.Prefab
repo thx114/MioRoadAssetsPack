@@ -299,7 +299,7 @@
                 "$type": "17|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": $fstrref:"UnityGUID:d7ba218ad57ccb741b21620a5f7ee4d3",
+                "m_Group": null,
                 "m_Priority": 71,
                 "m_Icon": "coui://customassets/MM_RoadPack/MM_Pedestrian_Street_1u/MM_Pedestrian_Street_1u.svg",
                 "m_LargeIcon": "",

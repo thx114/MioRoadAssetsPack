@@ -105,7 +105,7 @@
                 "$type": "11|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": null,
+                "m_Group": $fstrref:"UnityGUID:01a34e6844b1060408f630cf940091d2",
                 "m_Priority": 2046,
                 "m_Icon": "coui://customassets/MM_RoadPack/MM_Highway_Oneway_2_lane_thin/MM_Highway_Oneway_2_lane_thin.svg",
                 "m_LargeIcon": "",

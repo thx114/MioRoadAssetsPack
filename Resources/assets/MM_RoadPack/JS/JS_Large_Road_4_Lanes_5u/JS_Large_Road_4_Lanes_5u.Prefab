@@ -415,7 +415,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"CID:d920e08c17816a0b220f2c2317df3381",
-                "m_Priority": 51,
+                "m_Priority": 20,
                 "m_Icon": "coui://customassets/MM_RoadPack/JS/JS_Large_Road_4_Lanes_5u/i.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false

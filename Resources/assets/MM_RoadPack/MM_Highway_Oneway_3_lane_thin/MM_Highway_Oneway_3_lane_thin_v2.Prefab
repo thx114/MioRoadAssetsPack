@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.RoadPrefab, Game",
-    "name": "MM_Highway_Oneway_3_lane_thin_v2",
+    "name": "MM_Highway_Oneway_3_lane_thin",
     "active": true,
     "components": {
         "$id": 1,

@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.RoadPrefab, Game",
-    "name": "MM_Highway_Twoway_4_lane_thin_v2",
+    "name": "MM_Highway_Twoway_4_lane_thin",
     "active": true,
     "components": {
         "$id": 1,
@@ -234,7 +234,7 @@
                         {
                             "$id": 25,
                             "$type": 17,
-                            "m_Section": $fstrref:"UnityGUID:5bad9d5650ca0174f82b62443907f54a",
+                            "m_Section": $fstrref:"UnityGUID:5b761d226a7e0dd45a335377d4a5c520",
                             "m_RequireAll": {
                                 "$id": 26,
                                 "$type": 18,
