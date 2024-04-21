@@ -123,5 +123,15 @@
   "Assets.DESCRIPTION[JS_Medium_Road_2_Lanes_4u]": "BRT 2车道 道路 (4u)",
 
   "Assets.NAME[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "4车道+4辅路 道路 (6u)",
-  "Assets.DESCRIPTION[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "4车道+4辅路 道路 (6u)"
+  "Assets.DESCRIPTION[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "4车道+4辅路 道路 (6u)",
+
+  "Assets.NAME[MM_ShiftLeftTurn_4_2_4u]": "移位左转 4 + 2 (4u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_4_2_4u]": "移位左转道路，通过将左侧道路设置为仅左转，将右侧中间道路设置为仅直行，将最右侧道路设置为仅右转，通常比普通路口效率高",
+
+  "Assets.NAME[MM_ShiftLeftTurn_6_3_5u]": "移位左转 6 + 3 (5u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_6_3_5u]": "移位左转道路，通过将左侧道路设置为仅左转，将右侧中间道路设置为仅直行，将最右侧道路设置为仅右转，通常比普通路口效率高",
+
+  "Assets.NAME[MM_ShiftLeftTurn_8_4_6u]": "移位左转 8 + 4 (6u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "移位左转道路，通过将左侧道路设置为仅左转，将右侧中间道路设置为仅直行，将最右侧道路设置为仅右转，通常比普通路口效率高"
+
 }

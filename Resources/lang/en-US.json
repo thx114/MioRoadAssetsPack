@@ -122,6 +122,15 @@
   "Assets.NAME[JS_Medium_Road_2_Lanes_4u]": "BRT 2 Lanes Road (4u)",
   "Assets.DESCRIPTION[JS_Medium_Road_2_Lanes_4u]": "BRT 2 Lanes Road (4u)",
 
-  "Assets.NAME[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "XL Road 4 Lanes  4 Sub Lanes (6u)",
-  "Assets.DESCRIPTION[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "XL Road 4 Lanes  4 Sub Lanes (6u)"
+  "Assets.NAME[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "XL Road 4 Lanes 4 Sub Lanes (6u)",
+  "Assets.DESCRIPTION[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "XL Road 4 Lanes 4 Sub Lanes (6u)",
+
+  "Assets.NAME[MM_ShiftLeftTurn_4_2_4u]": "Shift Left Turn Road 4 + 2 Lanes (4u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_4_2_4u]": "Shift Left Turn Road: By designating the left lane for left turns only, the middle lane on the right for through traffic only, and the far right lane for right turns only, this setup typically yields higher efficiency compared to conventional intersections",
+
+  "Assets.NAME[MM_ShiftLeftTurn_6_3_5u]": "Shift Left Turn Road 6 + 3 Lanes (5u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_6_3_5u]": "Shift Left Turn Road: By designating the left lane for left turns only, the middle lane on the right for through traffic only, and the far right lane for right turns only, this setup typically yields higher efficiency compared to conventional intersections",
+
+  "Assets.NAME[MM_ShiftLeftTurn_8_4_6u]": "Shift Left Turn Road 8 + 4 Lanes (6u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "Shift Left Turn Road: By designating the left lane for left turns only, the middle lane on the right for through traffic only, and the far right lane for right turns only, this setup typically yields higher efficiency compared to conventional intersections"
 }

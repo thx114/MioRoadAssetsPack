@@ -4,15 +4,12 @@ Add many road assets, including roads with service lanes.
 ### Warning:
 Road assets are highly experimental. Please back up your save file before use. Known issues include:
 - Once your save uses these roads, removing the mod may cause white textures, crashes, or game exits.
-
-### Common Issues and Solutions
-If you subscribe to the assets and then unsubscribe (including the pre-installed Asset Importer [Beta]), it may result in errors and missing models.
-Subscribing to assets without the complete loading of assets (not restarted twice) may lead to errors and missing models.
-If your mods fail to load successfully while subscribing to assets, it may result in errors/missing models.
+- If you subscribe to the assets and then unsubscribe (including the pre-installed Asset Importer [Beta]), it may result in errors and missing models.
+- Subscribing to assets without the complete loading of assets (not restarted twice) may lead to errors and missing models.
+- If your mods fail to load successfully while subscribing to assets, it may result in errors/missing models.
 
 Currently, these issues are related to old road assets or the Asset Importer. The assets themselves are stable.
-The asset loader will save assets in the CustomAssets folder near the C drive archive.
-You need to delete this folder to completely uninstall the assets.
+If you want to completely remove assets, you need to go to Settings > Asset Importer > DELETE ALL IMPORTED ASSETS button to remove all assets.
 
 ## Features
 Add roads:
@@ -73,6 +70,10 @@ Add roads:
 - BRT 6 Lanes Road (6u)
 
 (The initial creator of the BRT road asset is Jason_Stephen.)
+
+- Shift Left Turn Road 4 + 2 Lanes (4u)
+- Shift Left Turn Road 6 + 3 Lanes (5u)
+- Shift Left Turn Road 8 + 4 Lanes (6u)
 
 ## Feature Roadmap
 - BRT roads

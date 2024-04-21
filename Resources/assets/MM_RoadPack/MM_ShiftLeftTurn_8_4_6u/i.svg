@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clip-LargeRoad8lanes">
+   <rect height="64" id="svg_1" width="64"/>
+  </clipPath>undefined</defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <polyline fill="none" id="svg_17" opacity="0.5" points="9.03616 5.97235 8.86219 6.96549 8.69062 7.86132 8.61571 8.6791 8.46874 9.5976" stroke-linecap="round"/>
+  <text fill="#ffd4aa" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_18" stroke-width="0" text-anchor="middle" transform="matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="22.51" xml:space="preserve" y="22.35">8+4</text>
+  <g id="svg_2">
+   <g id="svg_3">
+    <path d="m116.61,187.36l-6.59,-8.59s-4.62,2.21 -4.37,2.65s8.13,10.08 8.13,10.08l2.83,-4.14z" data-name="Path 2053" fill="#706428" id="svg_4" transform="rotate(-7 -1075.39 610.854)"/>
+    <path d="m111.61,191.36l-6.59,-8.59s-4.62,2.21 -4.37,2.65s8.13,10.08 8.13,10.08l2.83,-4.14z" data-name="Path 2201" fill="#b47300" id="svg_5" transform="rotate(-7 -1080.39 614.854)"/>
+    <path d="m105.61,194.36l-6.59,-8.59s-4.62,2.21 -4.37,2.65s8.13,10.08 8.13,10.08l2.83,-4.14z" data-name="Path 2205" fill="#61a2d3" id="svg_6" transform="rotate(-7 -1086.39 617.854)"/>
+    <path d="m116.84,188.53l-6.83,-8.6s-2.31,0.51 -2.06,0.95s7.53,8.87 7.53,8.87l1.36,-1.22z" data-name="Path 2054" fill="#9a8a39" id="svg_7" transform="rotate(-7 -1076.23 611.935)"/>
+    <path d="m111.84,191.53l-6.83,-8.6s-2.31,0.51 -2.06,0.95s7.53,8.87 7.53,8.87l1.36,-1.22z" data-name="Path 2202" fill="#e39c03" id="svg_8" transform="rotate(-7 -1081.23 614.935)"/>
+    <path d="m105.84,194.53l-6.83,-8.6s-2.31,0.51 -2.06,0.95s7.53,8.87 7.53,8.87l1.36,-1.22z" data-name="Path 2206" fill="#7ac6ff" id="svg_9" transform="rotate(-7 -1087.23 617.935)"/>
+    <g data-name="Path 2200" fill="#4d4324" id="svg_10" transform="rotate(13 52.9327 44.5944)">
+     <path d="m55.49,49.05c-0.98,0 -1.78,-0.97 -1.78,-2.15c0,-1.19 0.8,-2.15 1.78,-2.15c0.98,0 1.78,0.96 1.78,2.15c0,1.18 -0.8,2.15 -1.78,2.15z" id="svg_11"/>
+     <path d="m55.49,45.25c-0.69,0 -1.28,0.75 -1.28,1.65c0,0.89 0.59,1.65 1.28,1.65c0.7,0 1.28,-0.76 1.28,-1.65c0,-0.9 -0.58,-1.65 -1.28,-1.65m0,-1c1.26,0 2.28,1.18 2.28,2.65c0,1.46 -1.02,2.65 -2.28,2.65c-1.26,0 -2.28,-1.19 -2.28,-2.65c0,-1.47 1.02,-2.65 2.28,-2.65z" fill="#755902" id="svg_12"/>
+    </g>
+    <g data-name="Path 2204" fill="#748991" id="svg_13" transform="rotate(13 47.9327 48.5944)">
+     <path d="m50.49,53.05c-0.98,0 -1.78,-0.97 -1.78,-2.15c0,-1.19 0.8,-2.15 1.78,-2.15c0.98,0 1.78,0.96 1.78,2.15c0,1.18 -0.8,2.15 -1.78,2.15z" id="svg_14"/>
+     <path d="m50.49,49.25c-0.69,0 -1.28,0.75 -1.28,1.65c0,0.89 0.59,1.65 1.28,1.65c0.7,0 1.28,-0.76 1.28,-1.65c0,-0.9 -0.58,-1.65 -1.28,-1.65m0,-1c1.26,0 2.28,1.18 2.28,2.65c0,1.46 -1.02,2.65 -2.28,2.65c-1.26,0 -2.28,-1.19 -2.28,-2.65c0,-1.47 1.02,-2.65 2.28,-2.65z" fill="#8d5b03" id="svg_15"/>
+    </g>
+    <g data-name="Path 2208" fill="#4a6068" id="svg_16" transform="rotate(13 41.9327 51.5944)">
+     <path d="m44.49,56.05c-0.98,0 -1.78,-0.97 -1.78,-2.15c0,-1.19 0.8,-2.15 1.78,-2.15c0.98,0 1.78,0.96 1.78,2.15c0,1.18 -0.8,2.15 -1.78,2.15z" id="svg_20"/>
+     <path d="m44.49,52.25c-0.69,0 -1.28,0.75 -1.28,1.65c0,0.89 0.59,1.65 1.28,1.65c0.7,0 1.28,-0.76 1.28,-1.65c0,-0.9 -0.58,-1.65 -1.28,-1.65m0,-1c1.26,0 2.28,1.18 2.28,2.65c0,1.46 -1.02,2.65 -2.28,2.65c-1.26,0 -2.28,-1.19 -2.28,-2.65c0,-1.47 1.02,-2.65 2.28,-2.65z" fill="#4e7989" id="svg_21"/>
+    </g>
+   </g>
+   <g id="svg_22">
+    <path d="m-6.55,33.92l29.33,24.61l49.97,-29.34l0.19,-1.69l-80.19,4.09l0.7,2.33z" data-name="Path 2186" fill="#434343" id="svg_23"/>
+    <path d="m-7.27,31.41l30.13,24.97l50.07,-28.94l-30.08,-24.56l-45.49,26.02l-4.62,2.51z" data-name="Path 2192" fill="#929191" id="svg_25"/>
+    <path d="m8.13,22.86l30.29,24.65l3.79,-2.35l-29.94,-24.66l-4.14,2.36z" data-name="Path 2287" fill="#3f3f3f" id="svg_27"/>
+    <path d="m14.68,18.49l30.28,24.65l1.23,-0.69l-30.63,-24.4l-0.88,0.44z" data-name="Path 2294" fill="rgba(212,212,212,0.61)" id="svg_29"/>
+    <path d="m34.07,7.55l30.2,24.65l1.24,-0.69l-30.56,-24.4l-0.88,0.44z" data-name="Path 2289" fill="rgba(212,212,212,0.61)" id="svg_31"/>
+    <path d="m-4.33,29.81l30.23,24.7l1.23,-0.69l-30.58,-24.45l-0.88,0.44z" data-name="Path 2288" fill="#f5c31e" id="svg_24"/>
+    <path d="m3.84,25.03l30.28,24.65l1.23,-0.69l-30.63,-24.4l-0.88,0.44z" data-name="Path 2294" fill="rgba(212,212,212,0.61)" id="svg_26"/>
+    <path d="m26.17,12.17l30.23,24.64l1.36,-0.69l-30.45,-24.52l-1.14,0.57z" data-name="Path 2288" fill="#f5c31e" id="svg_28"/>
+    <path d="m18.53,16.47l30.28,24.65l1.23,-0.69l-30.63,-24.4l-0.88,0.44z" data-name="Path 2294" fill="rgba(212,212,212,0.61)" id="svg_30"/>
+    <path d="m30.04,9.81l30.2,24.65l1.24,-0.69l-30.56,-24.4l-0.88,0.44z" data-name="Path 2289" fill="rgba(212,212,212,0.61)" id="svg_32"/>
+    <path d="m-0.34,27.48l30.28,24.65l1.23,-0.69l-30.63,-24.4l-0.88,0.44z" data-name="Path 2294" fill="rgba(212,212,212,0.61)" id="svg_33"/>
+    <path d="m22.33,14.24l30.2,24.65l1.24,-0.69l-30.56,-24.4l-0.88,0.44z" data-name="Path 2289" fill="rgba(212,212,212,0.61)" id="svg_34"/>
+    <path d="m38.31,5.16l30.2,24.65l1.24,-0.69l-30.56,-24.4l-0.88,0.44z" data-name="Path 2289" fill="rgba(212,212,212,0.61)" id="svg_36"/>
+   </g>
+  </g>
+  <text fill="#ffd4aa" font-family="Sans-serif" font-size="11" font-weight="normal" id="svg_19" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0) matrix(0.774676 0 0 0.766501 3.36502 -0.988836)" x="40.95" xml:space="preserve" y="11.84">lane</text>
+  <text fill="#aaffff" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_35" stroke-width="0" text-anchor="middle" transform="matrix(0.539213 0 0 0.609831 0.963212 -1.20126)" x="15.42" xml:space="preserve" y="100.33">6U</text>
+  <text fill="#ffd4aa" font-family="Sans-serif" font-size="24" font-weight="bold" id="svg_37" stroke-width="0" text-anchor="middle" transform="matrix(0.469692 0 0 0.531205 1.10728 0.536058)" x="18.69" xml:space="preserve" y="45.18">SLT</text>
+ </g>
+</svg>

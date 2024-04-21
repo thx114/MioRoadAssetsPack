@@ -462,7 +462,7 @@
                                 "$type": 11,
                                 "$rlength": 1,
                                 "$rcontent": [
-                                    39
+                                    37
                                 ]
                             },
                             "m_RequireAny": {
@@ -475,9 +475,8 @@
                             "m_RequireNone": {
                                 "$id": 53,
                                 "$type": 11,
-                                "$rlength": 1,
+                                "$rlength": 0,
                                 "$rcontent": [
-                                    0
                                 ]
                             },
                             "m_Invert": false,
@@ -499,7 +498,7 @@
                                 "$type": 11,
                                 "$rlength": 1,
                                 "$rcontent": [
-                                    39
+                                    37
                                 ]
                             },
                             "m_RequireAny": {
@@ -512,9 +511,8 @@
                             "m_RequireNone": {
                                 "$id": 57,
                                 "$type": 11,
-                                "$rlength": 1,
+                                "$rlength": 0,
                                 "$rcontent": [
-                                    0
                                 ]
                             },
                             "m_Invert": false,
