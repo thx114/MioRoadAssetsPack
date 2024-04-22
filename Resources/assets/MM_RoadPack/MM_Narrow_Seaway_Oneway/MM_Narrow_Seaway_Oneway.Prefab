@@ -1,0 +1,261 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.WaterwayPrefab, Game",
+    "name": "MM_Narrow_Seaway_Oneway",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 7,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.NetSubObjects, Game",
+                "name": "NetSubObjects",
+                "active": true,
+                "m_SubObjects": {
+                    "$id": 3,
+                    "$type": "3|Game.Prefabs.NetSubObjectInfo[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        {
+                            "$id": 4,
+                            "$type": "4|Game.Prefabs.NetSubObjectInfo, Game",
+                            "m_Object": $fstrref:"UnityGUID:098d821829a427b459314284a1e94679",
+                            "m_Position": {
+                                "$type": "5|Unity.Mathematics.float3, Unity.Mathematics",
+                                "x": 0,
+                                "y": 40,
+                                "z": 0
+                            },
+                            "m_Rotation": {
+                                "$type": "6|Unity.Mathematics.quaternion, Unity.Mathematics",
+                                "value": {
+                                    "$type": "7|Unity.Mathematics.float4, Unity.Mathematics",
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "w": 1
+                                }
+                            },
+                            "m_Placement": 0,
+                            "m_FixedIndex": 0,
+                            "m_AnchorTop": false,
+                            "m_AnchorCenter": false,
+                            "m_RequireElevated": false,
+                            "m_RequireOutsideConnection": true,
+                            "m_RequireDeadEnd": false,
+                            "m_RequireOrphan": false
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 5,
+                "$type": "8|Game.Prefabs.PlaceableNet, Game",
+                "name": "PlaceableNet",
+                "active": true,
+                "m_ElevationRange": {
+                    "$type": "9|Colossal.Mathematics.Bounds1, Colossal.Mathematics",
+                    "min": 0,
+                    "max": 0
+                },
+                "m_AllowParallelMode": true,
+                "m_UndergroundPrefab": null,
+                "m_XPReward": 1
+            },
+            {
+                "$id": 6,
+                "$type": "10|Game.Prefabs.ServiceObject, Game",
+                "name": "ServiceObject",
+                "active": true,
+                "m_Service": $fstrref:"UnityGUID:29c94efd3e9d25d4fae82711a36cc753"
+            },
+            {
+                "$id": 7,
+                "$type": "11|Game.Prefabs.NetPollution, Game",
+                "name": "NetPollution",
+                "active": true,
+                "m_NoisePollutionFactor": 1,
+                "m_AirPollutionFactor": 1
+            },
+            {
+                "$id": 8,
+                "$type": "12|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": $fstrref:"UnityGUID:0f477cfc5ea5c7e498bbfdda5c7b3f34",
+                "m_Priority": 19,
+                "m_Icon": "coui://customassets/MM_RoadPack/MM_Narrow_Seaway_Oneway/i.svg",
+                "m_LargeIcon": "",
+                "m_IsDebugObject": false
+            },
+            {
+                "$id": 9,
+                "$type": "13|Game.Prefabs.Unlockable, Game",
+                "name": "Unlockable",
+                "active": true,
+                "m_RequireAll": {
+                    "$id": 10,
+                    "$type": "14|Game.Prefabs.PrefabBase[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        $fstrref:"UnityGUID:62f5fe33837845e48aac7bc71f912d75"
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 11,
+                    "$type": 14,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_IgnoreDependencies": false
+            },
+            {
+                "$id": 12,
+                "$type": "15|Game.Prefabs.UnlockOnBuild, Game",
+                "name": "UnlockOnBuild",
+                "active": true,
+                "m_Unlocks": {
+                    "$id": 13,
+                    "$type": "16|Game.Prefabs.ObjectBuiltRequirementPrefab[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        $fstrref:"UnityGUID:205d2690479c68e49abf89ece9160808"
+                    ]
+                }
+            }
+        ]
+    },
+    "m_Sections": {
+        "$id": 14,
+        "$type": "17|Game.Prefabs.NetSectionInfo[], Game",
+        "$rlength": 3,
+        "$rcontent": [
+            {
+                "$id": 15,
+                "$type": "18|Game.Prefabs.NetSectionInfo, Game",
+                "m_Section": $fstrref:"UnityGUID:163624000cd02c74ab370b115b5c9b58",
+                "m_RequireAll": {
+                    "$id": 16,
+                    "$type": "19|Game.Prefabs.NetPieceRequirements[], Game",
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 17,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 18,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": true,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 19,
+                "$type": 18,
+                "m_Section": $fstrref:"UnityGUID:fb111259e55073246abfe88837212dd0",
+                "m_RequireAll": {
+                    "$id": 20,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 21,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 22,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 23,
+                "$type": 18,
+                "m_Section": $fstrref:"UnityGUID:163624000cd02c74ab370b115b5c9b58",
+                "m_RequireAll": {
+                    "$id": 24,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 25,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 26,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    "m_EdgeStates": {
+        "$id": 27,
+        "$type": "20|Game.Prefabs.NetEdgeStateInfo[], Game",
+        "$rlength": 0,
+        "$rcontent": [
+        ]
+    },
+    "m_NodeStates": {
+        "$id": 28,
+        "$type": "21|Game.Prefabs.NetNodeStateInfo[], Game",
+        "$rlength": 0,
+        "$rcontent": [
+        ]
+    },
+    "m_MaxSlopeSteepness": 0.5,
+    "m_AggregateType": $fstrref:"UnityGUID:c815e6e179b0d8746acabaf9e3d09f5b",
+    "m_InvertMode": 0,
+    "m_SpeedLimit": 200
+}

@@ -300,7 +300,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:d7ba218ad57ccb741b21620a5f7ee4d3",
-                "m_Priority": -19,
+                "m_Priority": 91,
                 "m_Icon": "coui://customassets/MM_RoadPack/MM_Alley_Oneway_1_Lanes_0.6u/MM_Alley_Oneway_1_Lanes_0.6u.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false

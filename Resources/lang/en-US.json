@@ -62,7 +62,7 @@
   "Assets.NAME[MM_Subway_Outside_Connection_-_Twoway]": "Subway Outside Connection - Twoway",
   "Assets.DESCRIPTION[MM_Subway_Outside_Connection_-_Twoway]": "Subway Outside Connection - Twoway",
 
-  "Assets.NAME[MM_Large_Road_8_Lane_Divided_4u]": "Large Road_8 Lane Divided (4u)",
+  "Assets.NAME[MM_Large_Road_8_Lane_Divided_4u]": "Large Road 8 Lanes Divided (4u)",
   "Assets.DESCRIPTION[MM_Large_Road_8_Lane_Divided_4u]": "Large Road 8 Lane Divided 4u",
 
   "Assets.NAME[MM_Medium_Road_Asymmetric_3_1]": "Medium Road Asymmetric 3/1 (3u)",
@@ -77,32 +77,32 @@
   "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "XL Road Asymmetric 6/4 (5u)",
   "Assets.DESCRIPTION[MM_Large_XL_Asymmetric_6_4]": "XL Road Asymmetric 6/4",
 
-  "SubServices.NAME[RoadsXLRoad]": "XL road",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "XL road",
+  "SubServices.NAME[RoadsXLRoad]": "Special road",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "Special road",
 
-  "Assets.NAME[MM_Highway_Oneway_1_lane_thin]": "Highway Oneway 1 lane thin",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_1_lane_thin]": "Highway Oneway 1 lane thin",
+  "Assets.NAME[MM_Highway_Oneway_1_lane_thin]": "Highway Oneway 1 Lanes thin",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_1_lane_thin]": "Highway Oneway 1 Lanes thin",
 
-  "Assets.NAME[MM_Highway_Oneway_2_lane_thin]": "Highway Oneway 2 lane thin",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_2_lane_thin]": "Highway Oneway 2 lane thin",
+  "Assets.NAME[MM_Highway_Oneway_2_lane_thin]": "Highway Oneway 2 Lanes thin",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_2_lane_thin]": "Highway Oneway 2 Lanes thin",
 
-  "Assets.NAME[MM_Highway_Oneway_3_lane_thin]": "Highway Oneway 3 lane thin",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_3_lane_thin]": "Highway Oneway 3 lane thin",
+  "Assets.NAME[MM_Highway_Oneway_3_lane_thin]": "Highway Oneway 3 Lanes thin",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_3_lane_thin]": "Highway Oneway 3 Lanes thin",
 
-  "Assets.NAME[MM_Highway_Oneway_4_lane_thin]": "Highway Oneway 4 lane thin",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_4_lane_thin]": "Highway Oneway 4 lane thin",
+  "Assets.NAME[MM_Highway_Oneway_4_lane_thin]": "Highway Oneway 4 Lanes thin",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_4_lane_thin]": "Highway Oneway 4 Lanes thin",
 
-  "Assets.NAME[MM_Highway_Oneway_5_lane_thin]": "Highway Oneway 5 lane thin",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_5_lane_thin]": "Highway Oneway 5 lane thin",
+  "Assets.NAME[MM_Highway_Oneway_5_lane_thin]": "Highway Oneway 5 Lanes thin",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_5_lane_thin]": "Highway Oneway 5 Lanes thin",
 
-  "Assets.NAME[MM_Highway_Twoway_2_lane_thin]": "Highway Twoway 2 lane thin",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_2_lane_thin]": "Highway Twoway 2 lane thin",
+  "Assets.NAME[MM_Highway_Twoway_2_lane_thin]": "Highway Twoway 2 Lanes thin",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_2_lane_thin]": "Highway Twoway 2 Lanes thin",
 
-  "Assets.NAME[MM_Highway_Twoway_3_lane_thin]": "Highway Twoway 3 lane thin",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_3_lane_thin]": "Highway Twoway 3 lane thin",
+  "Assets.NAME[MM_Highway_Twoway_3_lane_thin]": "Highway Twoway 3 Lanes thin",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_3_lane_thin]": "Highway Twoway 3 Lanes thin",
 
-  "Assets.NAME[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 lane thin",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 lane thin",
+  "Assets.NAME[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 Lanes thin",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 Lanes thin",
 
   "SubServices.NAME[RoadsBRTRoads]": "BRT road",
   "Assets.SUB_SERVICE_DESCRIPTION[RoadsBRTRoads]": "BRT road",
@@ -132,5 +132,23 @@
   "Assets.DESCRIPTION[MM_ShiftLeftTurn_6_3_5u]": "Shift Left Turn Road: By designating the left lane for left turns only, the middle lane on the right for through traffic only, and the far right lane for right turns only, this setup typically yields higher efficiency compared to conventional intersections",
 
   "Assets.NAME[MM_ShiftLeftTurn_8_4_6u]": "Shift Left Turn Road 8 + 4 Lanes (6u)",
-  "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "Shift Left Turn Road: By designating the left lane for left turns only, the middle lane on the right for through traffic only, and the far right lane for right turns only, this setup typically yields higher efficiency compared to conventional intersections"
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "Shift Left Turn Road: By designating the left lane for left turns only, the middle lane on the right for through traffic only, and the far right lane for right turns only, this setup typically yields higher efficiency compared to conventional intersections",
+
+  "Assets.NAME[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "Highway Asymmetric 3/2 Divided",
+  "Assets.DESCRIPTION[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "Highway Asymmetric 3/2 Divided",
+
+  "Assets.NAME[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "Highway Asymmetric 4/3 Divided",
+  "Assets.DESCRIPTION[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "Highway Asymmetric 4/3 Divided",
+
+  "Assets.NAME[MM_Large_Road_6_Lane]": "Large Road 6 Lanes (3u)",
+  "Assets.DESCRIPTION[MM_Large_Road_6_Lane]": "Large Road 6 Lanes (3u)",
+
+  "Assets.NAME[MM_Medium_Road_4_Lane]": "Medium Road 4 Lanes (2u)",
+  "Assets.DESCRIPTION[MM_Medium_Road_4_Lane]": "Medium Road 4 Lanes (2u)",
+
+  "Assets.NAME[MM_Small_Road_Divided]": "Small Road Divided (2u)",
+  "Assets.DESCRIPTION[MM_Small_Road_Divided]": "Upgradable with wide sidewalks",
+
+  "Assets.NAME[MM_Narrow_Seaway_Oneway]": "Narrow Seaway Oneway",
+  "Assets.DESCRIPTION[MM_Narrow_Seaway_Oneway]": "Narrow Seaway Oneway"
 }

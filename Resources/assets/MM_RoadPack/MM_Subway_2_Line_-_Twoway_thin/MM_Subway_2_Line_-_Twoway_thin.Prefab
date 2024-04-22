@@ -165,9 +165,9 @@
                 "$type": "16|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": $fstrref:"UnityGUID:32b5e550d4a9af34facf35e8b1b14206",
-                "m_Priority": 1,
-                "m_Icon": "coui://customassets/MM_RoadPack/MM_Subway_2_Line_-_Twoway_thin/MM_Subway_2_Line_-_Twoway_thin.svg",
+                "m_Group": $fstrref:"UnityGUID:f254de6ae0a7c204e81795ddfb94ad8a",
+                "m_Priority": 99999,
+                "m_Icon": "",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             }

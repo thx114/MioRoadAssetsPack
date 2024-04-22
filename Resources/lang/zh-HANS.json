@@ -77,8 +77,8 @@
   "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "6/4 非对称道路 (5u)",
   "Assets.DESCRIPTION[MM_XL_Road_Asymmetric_6_4]": "6/4 非对称道路",
 
-  "SubServices.NAME[RoadsXLRoad]": "巨型道路",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "巨型道路",
+  "SubServices.NAME[RoadsXLRoad]": "特殊道路",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "特殊道路",
 
   "Assets.NAME[MM_Highway_Oneway_1_lane_thin]": "单向 1车道 高速 - 细",
   "Assets.DESCRIPTION[MM_Highway_Oneway_1_lane_thin]": "单向 1车道 高速 - 细",
@@ -132,6 +132,23 @@
   "Assets.DESCRIPTION[MM_ShiftLeftTurn_6_3_5u]": "移位左转道路，通过将左侧道路设置为仅左转，将右侧中间道路设置为仅直行，将最右侧道路设置为仅右转，通常比普通路口效率高",
 
   "Assets.NAME[MM_ShiftLeftTurn_8_4_6u]": "移位左转 8 + 4 (6u)",
-  "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "移位左转道路，通过将左侧道路设置为仅左转，将右侧中间道路设置为仅直行，将最右侧道路设置为仅右转，通常比普通路口效率高"
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "移位左转道路，通过将左侧道路设置为仅左转，将右侧中间道路设置为仅直行，将最右侧道路设置为仅右转，通常比普通路口效率高",
 
+  "Assets.NAME[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "非对称 3/2 分隔式高速",
+  "Assets.DESCRIPTION[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "非对称 3/2 分隔式高速",
+
+  "Assets.NAME[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "非对称 4/3 分隔式高速",
+  "Assets.DESCRIPTION[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "非对称 4/3 分隔式高速",
+
+  "Assets.NAME[MM_Large_Road_6_Lane]": "6车道道路 (3u)",
+  "Assets.DESCRIPTION[MM_Large_Road_6_Lan]": "6车道道路 (3u)",
+
+  "Assets.NAME[MM_Medium_Road_4_Lane]": "4车道道路 (2u)",
+  "Assets.DESCRIPTION[MM_Medium_Road_4_Lane]": "4车道道路 (2u)",
+
+  "Assets.NAME[MM_Small_Road_Divided]": "2车道 分隔式道路 (2u)",
+  "Assets.DESCRIPTION[MM_Small_Road_Divided]": "可使用宽人行道升级",
+
+  "Assets.NAME[MM_Narrow_Seaway_Oneway]": "单向 狭窄航道",
+  "Assets.DESCRIPTION[MM_Narrow_Seaway_Oneway]": "单向 狭窄航道"
 }

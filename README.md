@@ -2,11 +2,13 @@
 Add many road assets, including roads with service lanes.
 
 ### Warning:
-Road assets are highly experimental. Please back up your save file before use. Known issues include:
-- Once your save uses these roads, removing the mod may cause white textures, crashes, or game exits.
-- If you subscribe to the assets and then unsubscribe (including the pre-installed Asset Importer [Beta]), it may result in errors and missing models.
-- Subscribing to assets without the complete loading of assets (not restarted twice) may lead to errors and missing models.
-- If your mods fail to load successfully while subscribing to assets, it may result in errors/missing models.
+Road assets are **highly experimental**. Please back up your save file before use. Known issues include:
+- Once your save uses these roads, **removing the mod** may cause white textures, crashes, or game exits.
+- If you **subscribe to the assets and then unsubscribe** (including the pre-installed Asset Importer [Beta]), it may result in errors and missing models.
+- Subscribing to assets **without the complete loading of assets** (not restarted twice) may lead to errors and missing models.
+- If your **mods fail to load successfully** while subscribing to assets, it may result in errors/missing models.
+- If this mod's **sorting is before Asset Importer**, it could lead to errors or duplicate asset loading.
+- There might be compatibility issues with **Configurable Elevated Road**.
 
 Currently, these issues are related to old road assets or the Asset Importer. The assets themselves are stable.
 If you want to completely remove assets, you need to go to Settings > Asset Importer > DELETE ALL IMPORTED ASSETS button to remove all assets.
@@ -30,11 +32,16 @@ Add roads:
 - Highway Towway 4 Lanes thin
 - Highway 6 Lanes Divided (4u)
 - Highway 8 Lanes Divided (5u)
+- Highway Asymmetric 3/2 Divided
+- Highway Asymmetric 4/3 Divided
 
 - Highway Oneway 6 Lanes (3.5u)
 - Highway Oneway 7 Lanes (4u)
 - Highway Oneway 8 Lanes (4.5u)
 
+- Small Road Divided (2u)
+- Medium Road 4 Lanes (2u)
+- Large Road 6 Lanes (3u)
 - XL Road 8 Lane Divided (4u)
 - XL Road 10 Lanes Divided (5u)
 - XL Road 14 Lanes Divided (7u)
@@ -75,8 +82,9 @@ Add roads:
 - Shift Left Turn Road 6 + 3 Lanes (5u)
 - Shift Left Turn Road 8 + 4 Lanes (6u)
 
+- Narrow Seaway Oneway
+
 ## Feature Roadmap
-- BRT roads
 - Modular subway platforms
 - Modular roads
 
@@ -86,7 +94,7 @@ Add roads:
 - ko-KR
 
 ## How to Use
-Install this mod to use.
+Load the mod, restart the game (1-3 times) until the assets are fully loaded.
 
 ## Acknowledgment
 Special thanks to Konsi for the asset loading framework.

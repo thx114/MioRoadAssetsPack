@@ -414,8 +414,8 @@
                 "$type": "18|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": $fstrref:"CID:f54231b79471be6f3bc2fa389838c7d0",
-                "m_Priority": 31,
+                "m_Group": $fstrref:"UnityGUID:a0f52491aafbfc144aefee1cc756c479",
+                "m_Priority": 51,
                 "m_Icon": "coui://customassets/MM_RoadPack/MM_XL_Road_Asymmetric_6_4/MM_XL_Road_Asymmetric_6_4.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
@@ -646,9 +646,8 @@
                 "m_RequireNone": {
                     "$id": 72,
                     "$type": 11,
-                    "$rlength": 1,
+                    "$rlength": 0,
                     "$rcontent": [
-                        18
                     ]
                 },
                 "m_Invert": true,
@@ -682,9 +681,8 @@
                 "m_RequireNone": {
                     "$id": 76,
                     "$type": 11,
-                    "$rlength": 1,
+                    "$rlength": 0,
                     "$rcontent": [
-                        18
                     ]
                 },
                 "m_Invert": false,
@@ -718,9 +716,8 @@
                 "m_RequireNone": {
                     "$id": 80,
                     "$type": 11,
-                    "$rlength": 1,
+                    "$rlength": 0,
                     "$rcontent": [
-                        18
                     ]
                 },
                 "m_Invert": false,

@@ -301,7 +301,7 @@
                 "active": true,
                 "m_Group": null,
                 "m_Priority": 71,
-                "m_Icon": "coui://customassets/MM_RoadPack/MM_Pedestrian_Street_1u/MM_Pedestrian_Street_1u.svg",
+                "m_Icon": "",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },

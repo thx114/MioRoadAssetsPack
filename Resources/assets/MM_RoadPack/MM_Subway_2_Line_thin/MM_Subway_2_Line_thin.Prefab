@@ -179,10 +179,10 @@
                 "$type": "18|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": null,
-                "m_Priority": 0,
-                "m_Icon": null,
-                "m_LargeIcon": null,
+                "m_Group": $fstrref:"UnityGUID:f254de6ae0a7c204e81795ddfb94ad8a",
+                "m_Priority": 99999,
+                "m_Icon": "",
+                "m_LargeIcon": "",
                 "m_IsDebugObject": false
             }
         ]
