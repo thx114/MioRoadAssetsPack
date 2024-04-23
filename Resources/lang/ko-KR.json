@@ -1,6 +1,6 @@
 {
   "Assets.NAME[MM_Alley_Oneway_1_Lanes_0.6u]": "1차선 일방통행 (0.6u)",
-  "Assets.DESCRIPTION[MM_Alley_Oneway_1_Lanes_0.6u]": "A1차선 일방통행 (0.6u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_1_Lanes_0.6u]": "1차선 일방통행 (0.6u)",
 
   "Assets.NAME[MM_Alley_Oneway_2_Lanes_1u]": "2차선 일방통행 (1u)",
   "Assets.DESCRIPTION[MM_Alley_Oneway_2_Lanes_1u]": "2차선 일방통행 (1u)",
@@ -124,4 +124,31 @@
 
   "Assets.NAME[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "4차선 도로 및 4차선 분리도로 (6u)",
   "Assets.DESCRIPTION[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "4차선 대형도로 및 4차선 분리도로 (6u)"
+
+  "Assets.NAME[MM_ShiftLeftTurn_4_2_4u]": "좌회전 도로 4 + 2 차선 (4u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_4_2_4u]": "좌측 도로가 좌회전 전용으로 하는 도로 : 중앙 우측 도로를 직진 적용으로, 가장 오른쪽 도로를 우회전 전용으로 설정하여 좌회전 도로로 전환합니다. 일반적으로 일반 교차로보다 더 효율적입니다.",
+
+  "Assets.NAME[MM_ShiftLeftTurn_6_3_5u]": "좌회전 도로 6 + 3 차선 (5u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_6_3_5u]": "좌측 도로가 좌회전 전용으로 하는 도로 : 중앙 우측 도로를 직진 적용으로, 가장 오른쪽 도로를 우회전 전용으로 설정하여 좌회전 도로로 전환합니다. 일반적으로 일반 교차로보다 더 효율적입니다.",
+
+  "Assets.NAME[MM_ShiftLeftTurn_8_4_6u]": "좌회전 도로 8 + 4 차선 (6u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "좌측 도로가 좌회전 전용으로 하는 도로 : 중앙 우측 도로를 직진 적용으로, 가장 오른쪽 도로를 우회전 전용으로 설정하여 좌회전 도로로 전환합니다. 일반적으로 일반 교차로보다 더 효율적입니다.",
+
+  "Assets.NAME[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "5차선 중앙분리 비대칭 3/2 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "5차선 중앙분리 비대칭 3/2 고속도로",
+
+  "Assets.NAME[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "7차선 중앙분리 비대칭 4/2 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "7차선 중앙분리 비대칭 4/2 고속도로",
+
+  "Assets.NAME[MM_Large_Road_6_Lane]": "6차선 도로 (3u)",
+  "Assets.DESCRIPTION[MM_Large_Road_6_Lane]": "6차선 도로 (3u)",
+
+  "Assets.NAME[MM_Medium_Road_4_Lane]": "4차선 도로 (2u)",
+  "Assets.DESCRIPTION[MM_Medium_Road_4_Lane]": "4차선 도로 (2u)",
+
+  "Assets.NAME[MM_Small_Road_Divided]": "2차선 중앙분리 도로 (2u)",
+  "Assets.DESCRIPTION[MM_Small_Road_Divided]": "인도 업그레이드 가능",
+
+  "Assets.NAME[MM_Narrow_Seaway_Oneway]": "일방통행 해로",
+  "Assets.DESCRIPTION[MM_Narrow_Seaway_Oneway]": "일방통행 해로"
 }
