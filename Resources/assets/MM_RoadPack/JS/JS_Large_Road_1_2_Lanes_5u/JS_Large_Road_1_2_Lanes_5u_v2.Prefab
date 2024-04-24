@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.RoadPrefab, Game",
-    "name": "MM_Medium_Road_Asymmetric_3_1",
+    "name": "JS_Large_Road_1_2_Lanes_5u",
     "active": true,
     "components": {
         "$id": 1,
@@ -25,7 +25,7 @@
                             "m_Position": {
                                 "$type": "5|Unity.Mathematics.float3, Unity.Mathematics",
                                 "x": 0,
-                                "y": -3,
+                                "y": -2.2734375,
                                 "z": 0
                             },
                             "m_Rotation": {
@@ -91,7 +91,7 @@
                 },
                 "m_AllowParallelMode": true,
                 "m_UndergroundPrefab": null,
-                "m_XPReward": 3
+                "m_XPReward": 4
             },
             {
                 "$id": 7,
@@ -195,7 +195,7 @@
                         {
                             "$id": 20,
                             "$type": 17,
-                            "m_Section": $fstrref:"UnityGUID:f8300f08c8652004f9ea238c3c8a109a",
+                            "m_Section": $fstrref:"UnityGUID:4793a573c4f2e5a4981d271a91a4fda1",
                             "m_RequireAll": {
                                 "$id": 21,
                                 "$type": 11,
@@ -265,7 +265,7 @@
                         {
                             "$id": 28,
                             "$type": 17,
-                            "m_Section": $fstrref:"UnityGUID:f8300f08c8652004f9ea238c3c8a109a",
+                            "m_Section": $fstrref:"UnityGUID:4793a573c4f2e5a4981d271a91a4fda1",
                             "m_RequireAll": {
                                 "$id": 29,
                                 "$type": 11,
@@ -335,7 +335,7 @@
                         {
                             "$id": 36,
                             "$type": 17,
-                            "m_Section": $fstrref:"UnityGUID:f8300f08c8652004f9ea238c3c8a109a",
+                            "m_Section": $fstrref:"UnityGUID:4793a573c4f2e5a4981d271a91a4fda1",
                             "m_RequireAll": {
                                 "$id": 37,
                                 "$type": 11,
@@ -414,9 +414,9 @@
                 "$type": "18|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": null,
-                "m_Priority": 11,
-                "m_Icon": "",
+                "m_Group": $fstrref:"CID:d920e08c17816a0b220f2c2317df3381",
+                "m_Priority": 40,
+                "m_Icon": "coui://customassets/MM_RoadPack/JS/JS_Large_Road_1_2_Lanes_5u/i.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -428,9 +428,10 @@
                 "m_RequireAll": {
                     "$id": 46,
                     "$type": "20|Game.Prefabs.PrefabBase[], Game",
-                    "$rlength": 1,
+                    "$rlength": 2,
                     "$rcontent": [
-                        $fstrref:"UnityGUID:2e603e37562f026449d3b2851083544e"
+                        $fstrref:"UnityGUID:cb37f95b1977c234ebb7b1862b145f36",
+                        $fstrref:"UnityGUID:2713a2e2367700a4a951416b51d79fc4"
                     ]
                 },
                 "m_RequireAny": {
@@ -447,7 +448,7 @@
     "m_Sections": {
         "$id": 48,
         "$type": 16,
-        "$rlength": 9,
+        "$rlength": 19,
         "$rcontent": [
             {
                 "$id": 49,
@@ -522,7 +523,7 @@
             {
                 "$id": 57,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:e199da04f54a77c459533203cc9cce4f",
+                "m_Section": $fstrref:"UnityGUID:9e3cf90a9e10fc2488b0e288cbd15cf1",
                 "m_RequireAll": {
                     "$id": 58,
                     "$type": 11,
@@ -557,12 +558,13 @@
             {
                 "$id": 61,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:9e3cf90a9e10fc2488b0e288cbd15cf1",
+                "m_Section": $fstrref:"UnityGUID:9dd18e9c3bc6c254f85c974c223aa7da",
                 "m_RequireAll": {
                     "$id": 62,
                     "$type": 11,
-                    "$rlength": 0,
+                    "$rlength": 1,
                     "$rcontent": [
+                        1
                     ]
                 },
                 "m_RequireAny": {
@@ -592,12 +594,13 @@
             {
                 "$id": 65,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:9c06c8c6137c2674c9e5e648ee1420c5",
+                "m_Section": $fstrref:"UnityGUID:40aeda972f937c8488b195cf6fe471ca",
                 "m_RequireAll": {
                     "$id": 66,
                     "$type": 11,
-                    "$rlength": 0,
+                    "$rlength": 1,
                     "$rcontent": [
+                        1
                     ]
                 },
                 "m_RequireAny": {
@@ -616,7 +619,7 @@
                 },
                 "m_Invert": false,
                 "m_Flip": false,
-                "m_Median": true,
+                "m_Median": false,
                 "m_Offset": {
                     "$type": 5,
                     "x": 0,
@@ -627,7 +630,7 @@
             {
                 "$id": 69,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:9e3cf90a9e10fc2488b0e288cbd15cf1",
+                "m_Section": $fstrref:"CID:54a518a76a780ee6f9e44205e8c167fb",
                 "m_RequireAll": {
                     "$id": 70,
                     "$type": 11,
@@ -645,11 +648,12 @@
                 "m_RequireNone": {
                     "$id": 72,
                     "$type": 11,
-                    "$rlength": 0,
+                    "$rlength": 1,
                     "$rcontent": [
+                        0
                     ]
                 },
-                "m_Invert": false,
+                "m_Invert": true,
                 "m_Flip": false,
                 "m_Median": false,
                 "m_Offset": {
@@ -662,7 +666,7 @@
             {
                 "$id": 73,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:cdd7e9c271d101c4aa206a821456fe4c",
+                "m_Section": $fstrref:"UnityGUID:86bc699664f19a84e9407adbaa83c911",
                 "m_RequireAll": {
                     "$id": 74,
                     "$type": 11,
@@ -684,7 +688,7 @@
                     "$rcontent": [
                     ]
                 },
-                "m_Invert": false,
+                "m_Invert": true,
                 "m_Flip": false,
                 "m_Median": false,
                 "m_Offset": {
@@ -697,12 +701,13 @@
             {
                 "$id": 77,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:21dbd0616b558934ea506aa5399dfb7d",
+                "m_Section": $fstrref:"UnityGUID:9dd18e9c3bc6c254f85c974c223aa7da",
                 "m_RequireAll": {
                     "$id": 78,
                     "$type": 11,
-                    "$rlength": 0,
+                    "$rlength": 1,
                     "$rcontent": [
+                        0
                     ]
                 },
                 "m_RequireAny": {
@@ -714,6 +719,225 @@
                 },
                 "m_RequireNone": {
                     "$id": 80,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        1
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": true,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 81,
+                "$type": 17,
+                "m_Section": $fstrref:"UnityGUID:9dd18e9c3bc6c254f85c974c223aa7da",
+                "m_RequireAll": {
+                    "$id": 82,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 83,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 84,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        1
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": true,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 85,
+                "$type": 17,
+                "m_Section": $fstrref:"UnityGUID:40aeda972f937c8488b195cf6fe471ca",
+                "m_RequireAll": {
+                    "$id": 86,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 87,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 88,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        1
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": true,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 89,
+                "$type": 17,
+                "m_Section": $fstrref:"UnityGUID:40aeda972f937c8488b195cf6fe471ca",
+                "m_RequireAll": {
+                    "$id": 90,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 91,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 92,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        1
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": true,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 93,
+                "$type": 17,
+                "m_Section": $fstrref:"UnityGUID:86bc699664f19a84e9407adbaa83c911",
+                "m_RequireAll": {
+                    "$id": 94,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 95,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 96,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": true,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 97,
+                "$type": 17,
+                "m_Section": $fstrref:"CID:54a518a76a780ee6f9e44205e8c167fb",
+                "m_RequireAll": {
+                    "$id": 98,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 99,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 100,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 101,
+                "$type": 17,
+                "m_Section": $fstrref:"UnityGUID:f3008e1f639d01d44bdc069280ecb847",
+                "m_RequireAll": {
+                    "$id": 102,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        1
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 103,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 104,
                     "$type": 11,
                     "$rlength": 0,
                     "$rcontent": [
@@ -730,25 +954,166 @@
                 }
             },
             {
-                "$id": 81,
+                "$id": 105,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:bc7450fe8a28cbe4c85deca204fabe12",
+                "m_Section": $fstrref:"UnityGUID:40aeda972f937c8488b195cf6fe471ca",
                 "m_RequireAll": {
-                    "$id": 82,
+                    "$id": 106,
                     "$type": 11,
-                    "$rlength": 0,
+                    "$rlength": 1,
                     "$rcontent": [
+                        1
                     ]
                 },
                 "m_RequireAny": {
-                    "$id": 83,
+                    "$id": 107,
                     "$type": 11,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_RequireNone": {
-                    "$id": 84,
+                    "$id": 108,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 109,
+                "$type": 17,
+                "m_Section": $fstrref:"UnityGUID:9e3cf90a9e10fc2488b0e288cbd15cf1",
+                "m_RequireAll": {
+                    "$id": 110,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 111,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 112,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 113,
+                "$type": 17,
+                "m_Section": $fstrref:"UnityGUID:9e3cf90a9e10fc2488b0e288cbd15cf1",
+                "m_RequireAll": {
+                    "$id": 114,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 115,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 116,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 117,
+                "$type": 17,
+                "m_Section": $fstrref:"UnityGUID:865bb352e08c9e14286a01c1fbf9051c",
+                "m_RequireAll": {
+                    "$id": 118,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 119,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 120,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 121,
+                "$type": 17,
+                "m_Section": $fstrref:"UnityGUID:bc7450fe8a28cbe4c85deca204fabe12",
+                "m_RequireAll": {
+                    "$id": 122,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 123,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 124,
                     "$type": 11,
                     "$rlength": 0,
                     "$rcontent": [
@@ -767,36 +1132,36 @@
         ]
     },
     "m_EdgeStates": {
-        "$id": 85,
+        "$id": 125,
         "$type": "21|Game.Prefabs.NetEdgeStateInfo[], Game",
         "$rlength": 1,
         "$rcontent": [
             {
-                "$id": 86,
+                "$id": 126,
                 "$type": "22|Game.Prefabs.NetEdgeStateInfo, Game",
                 "m_RequireAll": {
-                    "$id": 87,
+                    "$id": 127,
                     "$type": 11,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_RequireAny": {
-                    "$id": 88,
+                    "$id": 128,
                     "$type": 11,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_RequireNone": {
-                    "$id": 89,
+                    "$id": 129,
                     "$type": 11,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_SetState": {
-                    "$id": 90,
+                    "$id": 130,
                     "$type": 11,
                     "$rlength": 1,
                     "$rcontent": [
@@ -807,36 +1172,36 @@
         ]
     },
     "m_NodeStates": {
-        "$id": 91,
+        "$id": 131,
         "$type": "23|Game.Prefabs.NetNodeStateInfo[], Game",
         "$rlength": 1,
         "$rcontent": [
             {
-                "$id": 92,
+                "$id": 132,
                 "$type": "24|Game.Prefabs.NetNodeStateInfo, Game",
                 "m_RequireAll": {
-                    "$id": 93,
+                    "$id": 133,
                     "$type": 11,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_RequireAny": {
-                    "$id": 94,
+                    "$id": 134,
                     "$type": 11,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_RequireNone": {
-                    "$id": 95,
+                    "$id": 135,
                     "$type": 11,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_SetState": {
-                    "$id": 96,
+                    "$id": 136,
                     "$type": 11,
                     "$rlength": 3,
                     "$rcontent": [

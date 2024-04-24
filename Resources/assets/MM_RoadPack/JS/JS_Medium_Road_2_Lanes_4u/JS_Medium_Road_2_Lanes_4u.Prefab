@@ -416,7 +416,7 @@
                 "active": true,
                 "m_Group": null,
                 "m_Priority": 10,
-                "m_Icon": "coui://customassets/MM_RoadPack/JS/JS_Medium_Road_2_Lanes_4u/i.svg",
+                "m_Icon": "",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
