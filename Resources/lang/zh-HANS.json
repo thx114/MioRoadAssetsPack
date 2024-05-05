@@ -1,18 +1,18 @@
 {
-  "Assets.NAME[MM_Alley_Oneway_1lanes]": "单向 1车道 巷道 (0.6u)",
-  "Assets.DESCRIPTION[MM_Alley_Oneway_1lanes]": "单向 1车道 巷道 (0.6u)",
+  "Assets.NAME[MM_Alley_Oneway_1_Lanes_0.6u]": "单向 1车道 巷道 (0.6u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_1_Lanes_0.6u]": "单向 1车道 巷道 (0.6u)",
 
-  "Assets.NAME[MM_Alley_Oneway_2lanes]": "单向 2车道 巷道 (1u)",
-  "Assets.DESCRIPTION[MM_Alley_Oneway_2lanes]": "单向 2车道 巷道 (1u)",
+  "Assets.NAME[MM_Alley_Oneway_2_Lanes_1u]": "单向 2车道 巷道 (1u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_2_Lanes_1u]": "单向 2车道 巷道 (1u)",
 
-  "Assets.NAME[MM_Alley_Oneway_3lanes]": "单向 3车道 巷道 (1.4u)",
-  "Assets.DESCRIPTION[MM_Alley_Oneway_3lanes]": "单向 3车道 巷道 (1.4u)",
+  "Assets.NAME[MM_Alley_Oneway_3_Lanes_1.4u]": "单向 3车道 巷道 (1.4u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_3_Lanes_1.4u]": "单向 3车道 巷道 (1.4u)",
 
-  "Assets.NAME[MM_Highway_6_Lanes_Divided_4u]": "6车道 高速 (4u)",
-  "Assets.DESCRIPTION[MM_Highway_6_Lanes_Divided_4u]": "6车道 高速 (4u)",
+  "Assets.NAME[MM_Highway_6_Lanes_Divided_4u]": "6车道 分隔式高速 (4u)",
+  "Assets.DESCRIPTION[MM_Highway_6_Lanes_Divided_4u]": "6车道 分隔式高速 (4u)",
 
-  "Assets.NAME[MM_Highway_8_Lanes_Divided_5u]": "8车道 高速 (5u)",
-  "Assets.DESCRIPTION[MM_Highway_8_Lanes_Divided_5u]": "8车道 高速 (5u)",
+  "Assets.NAME[MM_Highway_8_Lanes_Divided_5u]": "8车道 分隔式高速 (5u)",
+  "Assets.DESCRIPTION[MM_Highway_8_Lanes_Divided_5u]": "8车道 分隔式高速 (5u)",
 
   "Assets.NAME[MM_Highway_Oneway_6_Lanes_3.5u]": "单向 6车道 高速 (3.5u)",
   "Assets.DESCRIPTION[MM_Highway_Oneway_6_Lanes_3.5u]": "单向 6车道 高速 (3.5u)",
@@ -32,11 +32,11 @@
   "Assets.NAME[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "8车道+4辅路 道路 (7u)",
   "Assets.DESCRIPTION[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "8车道+4辅路 (7u) ,可以使用树木升级",
 
-  "Assets.NAME[MM_XL_Road_10_Lanes_Divided_5u]": "10车道 道路 (5u)",
-  "Assets.DESCRIPTION[MM_XL_Road_10_Lanes_Divided_5u]": "10车道 道路 (5u)",
+  "Assets.NAME[MM_XL_Road_10_Lanes_Divided_5u]": "10车道 分隔式道路 (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_10_Lanes_Divided_5u]": "10车道 分隔式道路 (5u)",
 
-  "Assets.NAME[MM_XL_Road_14_Lanes_Divided_7u]": "14车道 道路 (7u)",
-  "Assets.DESCRIPTION[MM_XL_Road_14_Lanes_Divided_7u]": "14车道 道路 (7u) ,可以使用树木升级",
+  "Assets.NAME[MM_XL_Road_14_Lanes_Divided_7u]": "14车道 分隔式道路 (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_14_Lanes_Divided_7u]": "14车道 分隔式道路 (7u) ,可以使用树木升级",
 
   "Assets.NAME[MM_Pedestrian_Street_1u]": "人行路 (1u)",
   "Assets.DESCRIPTION[MM_Pedestrian_Street_1u]": "人行路 (1u)",
@@ -65,44 +65,44 @@
   "Assets.NAME[MM_Large_Road_8_Lane_Divided_4u]": "8车道 分隔式道路 (4u)",
   "Assets.DESCRIPTION[MM_Large_Road_8_Lane_Divided_4u]": "8车道 分隔式道路 (4u)",
 
-  "Assets.NAME[MM_Medium_Road_Asymmetric_3_1]": "4车道 3/1 非对称道路 (3u)",
+  "Assets.NAME[MM_Medium_Road_Asymmetric_3_1]": "3/1 非对称道路 (3u)",
   "Assets.DESCRIPTION[MM_Medium_Road_Asymmetric_3_1]": "3/1 非对称道路 (3u)",
 
-  "Assets.NAME[MM_Large_Road_Asymmetric_4_2]": "6车道 4/2 非对称道路 (4u)",
+  "Assets.NAME[MM_Large_Road_Asymmetric_4_2]": "4/2 非对称道路 (4u)",
   "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_4_2]": "4/2 非对称道路",
 
-  "Assets.NAME[MM_Large_Road_Asymmetric_5_3]": "8车道 5/3 非对称道路 (4u)",
+  "Assets.NAME[MM_Large_Road_Asymmetric_5_3]": "5/3 非对称道路 (4u)",
   "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_5_3]": "5/3 非对称道路",
 
-  "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "10车道 6/4 非对称道路 (5u)",
+  "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "6/4 非对称道路 (5u)",
   "Assets.DESCRIPTION[MM_XL_Road_Asymmetric_6_4]": "6/4 非对称道路",
 
   "SubServices.NAME[RoadsXLRoad]": "特殊道路",
   "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "特殊道路",
 
-  "Assets.NAME[MM_Highway_Oneway_1_lane_thin]": "单向 1车道 高速",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_1_lane_thin]": "单向 1车道 高速",
+  "Assets.NAME[MM_Highway_Oneway_1_lane_thin]": "单向 1车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_1_lane_thin]": "单向 1车道 高速 - 细",
 
-  "Assets.NAME[MM_Highway_Oneway_2_lane_thin]": "单向 2车道 高速",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_2_lane_thin]": "单向 2车道 高速",
+  "Assets.NAME[MM_Highway_Oneway_2_lane_thin]": "单向 2车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_2_lane_thin]": "单向 2车道 高速 - 细",
 
-  "Assets.NAME[MM_Highway_Oneway_3_lane_thin]": "单向 3车道 高速",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_3_lane_thin]": "单向 3车道 高速",
+  "Assets.NAME[MM_Highway_Oneway_3_lane_thin]": "单向 3车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_3_lane_thin]": "单向 3车道 高速 - 细",
 
-  "Assets.NAME[MM_Highway_Oneway_4_lane_thin]": "单向 4车道 高速",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_4_lane_thin]": "单向 4车道 高速",
+  "Assets.NAME[MM_Highway_Oneway_4_lane_thin]": "单向 4车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_4_lane_thin]": "单向 4车道 高速 - 细",
 
-  "Assets.NAME[MM_Highway_Oneway_5_lane_thin]": "单向 5车道 高速",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_5_lane_thin]": "单向 5车道 高速",
+  "Assets.NAME[MM_Highway_Oneway_5_lane_thin]": "单向 5车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_5_lane_thin]": "单向 5车道 高速 - 细",
 
-  "Assets.NAME[MM_Highway_Twoway_2_lane_thin]": "2车道 高速",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_2_lane_thin]": "2车道 高速",
+  "Assets.NAME[MM_Highway_Twoway_2_lane_thin]": "2车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_2_lane_thin]": "2车道 高速 - 细",
 
-  "Assets.NAME[MM_Highway_Twoway_3_lane_thin]": "3车道 高速",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_3_lane_thin]": "3车道 高速",
+  "Assets.NAME[MM_Highway_Twoway_3_lane_thin]": "3车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_3_lane_thin]": "3车道 高速 - 细",
 
-  "Assets.NAME[MM_Highway_Twoway_4_lane_thin]": "4车道 高速",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "4车道 高速",
+  "Assets.NAME[MM_Highway_Twoway_4_lane_thin]": "4车道 高速 - 细",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "4车道 高速 - 细",
 
   "SubServices.NAME[RoadsBRTRoads]": "BRT 道路",
   "Assets.SUB_SERVICE_DESCRIPTION[RoadsBRTRoads]": "快速公交系统",
@@ -134,67 +134,21 @@
   "Assets.NAME[MM_ShiftLeftTurn_8_4_6u]": "移位左转 8 + 4 (6u)",
   "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "移位左转道路，通过将左侧道路设置为仅左转，将右侧中间道路设置为仅直行，将最右侧道路设置为仅右转，通常比普通路口效率高",
 
-  "Assets.NAME[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "5 车道 3/2 非对称高速",
+  "Assets.NAME[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "非对称 3/2 分隔式高速",
   "Assets.DESCRIPTION[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "非对称 3/2 分隔式高速",
 
-  "Assets.NAME[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "7 车道 4/3 非对称高速",
+  "Assets.NAME[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "非对称 4/3 分隔式高速",
   "Assets.DESCRIPTION[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "非对称 4/3 分隔式高速",
 
-  "Assets.NAME[MM_Large_Road_6_Lane]": "6车道道路 - 细 (3u)",
+  "Assets.NAME[MM_Large_Road_6_Lane]": "6车道道路 (3u)",
   "Assets.DESCRIPTION[MM_Large_Road_6_Lan]": "6车道道路 (3u)",
 
-  "Assets.NAME[MM_Medium_Road_4_Lane]": "4车道道路 - 细 (2u)",
+  "Assets.NAME[MM_Medium_Road_4_Lane]": "4车道道路 (2u)",
   "Assets.DESCRIPTION[MM_Medium_Road_4_Lane]": "4车道道路 (2u)",
 
   "Assets.NAME[MM_Small_Road_Divided]": "2车道 分隔式道路 (2u)",
   "Assets.DESCRIPTION[MM_Small_Road_Divided]": "可使用宽人行道升级",
 
   "Assets.NAME[MM_Narrow_Seaway_Oneway]": "单向 狭窄航道",
-  "Assets.DESCRIPTION[MM_Narrow_Seaway_Oneway]": "单向 狭窄航道",
-
-
-  "Assets.NAME[MM_Large_Road_6lanes]": "6车道 道路",
-  "Assets.DESCRIPTION[MM_Large_Road_6lanes]": "6车道 道路",
-
-  "Assets.NAME[MM_Large_Road_9lanes_5_4]": "9车道 5/4 非对称道路",
-  "Assets.DESCRIPTION[MM_Large_Road_9lanes_5_4]": "9车道 5/4 非对称道路",
-
-  "Assets.NAME[MM_Small_Road_1lanes]": "单向 1车道 道路",
-  "Assets.DESCRIPTION[MM_Small_Road_1lanes]": "单向 1车道 道路",
-
-  "Assets.NAME[MM_Medium_Road_4lanes]": "4 车道道路 (3u)",
-  "Assets.DESCRIPTION[MM_Medium_Road_4lanes]": "4 车道道路 (3u)",
-
-  "Assets.NAME[MM_XL_Road_8lanes]": "8 车道道路",
-  "Assets.DESCRIPTION[MM_XL_Road_8lanes]": "8 车道道路",
-
-  "Assets.NAME[MM_busStopClose]": "猫猫公交站",
-  "Assets.DESCRIPTION[MM_busStopClose]": "猫猫公交站",
-
-  "Assets.NAME[MM_remove_side]": "移除人行道",
-  "Assets.DESCRIPTION[MM_remove_side]": "移除人行道",
-
-  "Assets.NAME[MM_switch_med]": "切换中央分隔带",
-  "Assets.DESCRIPTION[MM_switch_med]": "切换中央分隔带",
-
-  "SubServices.NAME[RoadsMioHighways]": "高速",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioHighways]": "高速",
-
-  "SubServices.NAME[RoadsMioLargeRoads]": "大型道路",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioLargeRoads]": "大型道路",
-
-  "SubServices.NAME[RoadsMioMedRoads]": "中型道路",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioMedRoads]": "中型道路",
-
-  "SubServices.NAME[RoadsMioRoadsObject]": "道路摆件",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioRoadsObject]": "道路摆件",
-
-  "SubServices.NAME[RoadsMioRoadsUpgrade]": "道路升级",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioRoadsUpgrade]": "道路升级",
-
-  "SubServices.NAME[RoadsMioSmallRoads]": "小型道路",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioSmallRoads]": "小型道路",
-
-  "Services.NAME[mioRoadAssetPack]": "猫猫道路资产包",
-  "Services.DESCRIPTION[mioRoadAssetPack]": "猫猫道路资产包"
+  "Assets.DESCRIPTION[MM_Narrow_Seaway_Oneway]": "单向 狭窄航道"
 }

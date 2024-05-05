@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="b">
+   <rect height="64" id="svg_1" width="64"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="a">
+   <path d="m722.17,-295.33l29.71,25.31l34.04,-20.61l0.35,-2.6l-64.1,-4.69l0,2.59z" fill="#c4c4c4" id="svg_2" transform="translate(-722.04 327.13)"/>
+   <path d="m737.13,-304.84l24.05,28.18l22.49,-13.15l-27.59,-26.14l-18.95,11.11z" fill="#d4d4d4" id="svg_3" transform="translate(-728.951 329.31)"/>
+   <path d="m1224.22,-1129.9l29.87,25.1l10.9,-6.45l-30.01,-25.11l-10.76,6.46z" fill="#949494" id="svg_4" transform="translate(-1224.05 1159)"/>
+   <path d="m1225.14,-1129.77l29.87,25.1l10.26,-6.34l-30.02,-25.11l-10.11,6.35z" fill="#949494" id="svg_5" transform="translate(-1212.99 1151.89)"/>
+   <path d="m1224.5,-1129.66l29.87,25.1l10.9,-6.45l-30.01,-25.11l-10.76,6.46z" fill="#949494" id="svg_6" transform="translate(-1200.99 1144.89)"/>
+   <path d="m1249.2,-1108.87l11.31,-6.69l-11.31,6.69z" fill="gray" id="svg_7" transform="translate(-1201.93 1152.9)"/>
+   <path d="m15735.94,2434.14l0.93,6.54l1.88,-1.05l6.6,6.08l3.01,-1.77l-6.47,-5.88l2.16,-1.24l-8.11,-2.68z" fill="#fff" id="svg_8" transform="translate(-15720.2 -2403.45)"/>
+   <path d="m15735.94,2434.14l0.93,6.54l1.88,-1.05l6.6,6.08l3.01,-1.77l-6.47,-5.88l2.16,-1.24l-8.11,-2.68z" fill="#fff" id="svg_9" transform="translate(-15710.2 -2409.45)"/>
+   <path d="m15735.94,2434.14l0.93,6.54l1.88,-1.05l6.6,6.08l3.01,-1.77l-6.47,-5.88l2.16,-1.24l-8.11,-2.68z" fill="#fff" id="svg_10" transform="translate(-15701.2 -2415.45)"/>
+  </g>
+  <text fill="#aaffff" font-family="Sans-serif" font-size="24" id="svg_11" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.504839 0 0 0.504839 23.141 -0.697475)" x="-22.99" xml:space="preserve" y="121.42">thin</text>
+ </g>
+</svg>

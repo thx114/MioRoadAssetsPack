@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="b">
+   <rect height="64" id="svg_1" width="64"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#aaffff" font-family="Sans-serif" font-size="24" id="svg_21" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.504839 0 0 0.504839 23.141 -0.697475)" x="-22.73" xml:space="preserve" y="121.12">thin</text>
+  <g id="svg_2">
+   <g id="svg_3" transform="translate(-1.064 17.354)">
+    <g id="svg_4" transform="translate(3.276 8.117)">
+     <path d="m734.31,-308.86l3.38,2.65l16.63,-10.24l0,-1.16l-20,7.28l-0.01,1.47z" fill="#61544c" id="svg_5" transform="translate(-733.443 318.455)"/>
+     <path d="m734.31,-308.86l3.38,2.65l16.63,-10.24l0,-1.16l-20,7.28l-0.01,1.47z" fill="#61544c" id="svg_6" transform="translate(-716.913 333.565)"/>
+     <path d="m734.31,-308.86l3.38,2.65l16.63,-10.24l0,-1.16l-20,7.28l-0.01,1.47z" fill="#61544c" id="svg_7" transform="translate(-725.771 325.914)"/>
+     <path d="m1213.2,-1129.21l3.44,2.7l16.6,-9.96l-3.67,-2.72l-0.74,0.45l-15.63,9.53z" fill="#a1886c" id="svg_8" transform="translate(-1212.37 1137.29)"/>
+     <path d="m1213.2,-1129.21l3.44,2.7l16.6,-9.96l-3.67,-2.72l-0.74,0.45l-15.63,9.53z" fill="#887056" id="svg_9" transform="translate(-1195.84 1152.4)"/>
+     <path d="m1213.2,-1129.21l3.44,2.7l16.6,-9.96l-3.67,-2.72l-0.74,0.45l-15.63,9.53z" fill="#987e61" id="svg_10" transform="translate(-1204.7 1144.74)"/>
+     <path d="m774.46,-299.35l-21.1,-18.31l21.1,18.31z" fill="#e9bc29" id="svg_11" transform="translate(-745.836 319.625)"/>
+     <path d="m774.46,-299.35l-21.1,-18.31l21.1,18.31z" fill="#e9bc29" id="svg_12" transform="translate(-738.633 314.595)"/>
+     <path d="m735.28,-306.02l20.67,17.7l1.25,-1.12l0,-2l-21.92,-16.42l0,1.84z" fill="gray" id="svg_13" transform="translate(-731.612 312.781)"/>
+     <path d="m1225.3,-1134.4l20.71,17.6l1.6,-1.13l-20.4,-17.73l-1.91,1.26z" fill="#d8d5d5" id="svg_14" transform="translate(-1221.62 1139.15)"/>
+     <path d="m44.38,49.12l0,-2.18l1.6,-1.15l0,2.11l-1.6,1.22z" fill="#575656" id="svg_15" transform="translate(-19.993 -24.651)"/>
+     <path d="m735.28,-306.02l20.67,17.7l1.25,-1.12l0,-2l-21.92,-16.42l0,1.84z" fill="gray" id="svg_16" transform="translate(-723.336 307.382)"/>
+     <path d="m1225.3,-1134.4l20.71,17.6l1.6,-1.13l-20.4,-17.73l-1.91,1.26z" fill="#d8d5d5" id="svg_17" transform="translate(-1213.34 1133.75)"/>
+     <path d="m44.38,49.12l0,-2.18l1.6,-1.15l0,2.11l-1.6,1.22z" fill="#575656" id="svg_18" transform="translate(-11.716 -30.05)"/>
+    </g>
+    <path d="m772.06,-301.43l-18.7,-16.22l18.7,16.22z" fill="#e9bc29" id="svg_19" transform="translate(-741.238 328.903)"/>
+    <path d="m772.06,-301.43l-18.7,-16.22l18.7,16.22z" fill="#e9bc29" id="svg_20" transform="translate(-734.856 324.446)"/>
+   </g>
+   <g id="svg_22" transform="translate(21.936 3.354)">
+    <g id="svg_23" transform="translate(3.276 8.117)">
+     <path d="m734.31,-308.86l3.38,2.65l16.63,-10.24l0,-1.16l-20,7.28l-0.01,1.47z" fill="#61544c" id="svg_24" transform="translate(-733.443 318.455)"/>
+     <path d="m734.31,-308.86l3.38,2.65l16.63,-10.24l0,-1.16l-20,7.28l-0.01,1.47z" fill="#61544c" id="svg_25" transform="translate(-716.913 333.565)"/>
+     <path d="m734.31,-308.86l3.38,2.65l16.63,-10.24l0,-1.16l-20,7.28l-0.01,1.47z" fill="#61544c" id="svg_26" transform="translate(-725.771 325.914)"/>
+     <path d="m1213.2,-1129.21l3.44,2.7l16.6,-9.96l-3.67,-2.72l-0.74,0.45l-15.63,9.53z" fill="#a1886c" id="svg_27" transform="translate(-1212.37 1137.29)"/>
+     <path d="m1213.2,-1129.21l3.44,2.7l16.6,-9.96l-3.67,-2.72l-0.74,0.45l-15.63,9.53z" fill="#887056" id="svg_28" transform="translate(-1195.84 1152.4)"/>
+     <path d="m1213.2,-1129.21l3.44,2.7l16.6,-9.96l-3.67,-2.72l-0.74,0.45l-15.63,9.53z" fill="#987e61" id="svg_29" transform="translate(-1204.7 1144.74)"/>
+     <path d="m774.46,-299.35l-21.1,-18.31l21.1,18.31z" fill="#e9bc29" id="svg_30" transform="translate(-745.836 319.625)"/>
+     <path d="m774.46,-299.35l-21.1,-18.31l21.1,18.31z" fill="#e9bc29" id="svg_31" transform="translate(-738.633 314.595)"/>
+     <path d="m735.28,-306.02l20.67,17.7l1.25,-1.12l0,-2l-21.92,-16.42l0,1.84z" fill="gray" id="svg_32" transform="translate(-731.612 312.781)"/>
+     <path d="m1225.3,-1134.4l20.71,17.6l1.6,-1.13l-20.4,-17.73l-1.91,1.26z" fill="#d8d5d5" id="svg_33" transform="translate(-1221.62 1139.15)"/>
+     <path d="m44.38,49.12l0,-2.18l1.6,-1.15l0,2.11l-1.6,1.22z" fill="#575656" id="svg_34" transform="translate(-19.993 -24.651)"/>
+     <path d="m735.28,-306.02l20.67,17.7l1.25,-1.12l0,-2l-21.92,-16.42l0,1.84z" fill="gray" id="svg_35" transform="translate(-723.336 307.382)"/>
+     <path d="m1225.3,-1134.4l20.71,17.6l1.6,-1.13l-20.4,-17.73l-1.91,1.26z" fill="#d8d5d5" id="svg_36" transform="translate(-1213.34 1133.75)"/>
+     <path d="m44.38,49.12l0,-2.18l1.6,-1.15l0,2.11l-1.6,1.22z" fill="#575656" id="svg_37" transform="translate(-11.716 -30.05)"/>
+    </g>
+    <path d="m772.06,-301.43l-18.7,-16.22l18.7,16.22z" fill="#e9bc29" id="svg_38" transform="translate(-741.238 328.903)"/>
+    <path d="m772.06,-301.43l-18.7,-16.22l18.7,16.22z" fill="#e9bc29" id="svg_39" transform="translate(-734.856 324.446)"/>
+   </g>
+  </g>
+ </g>
+</svg>
