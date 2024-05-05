@@ -1,12 +1,12 @@
 {
-  "Assets.NAME[MM_Alley_Oneway_1_Lanes_0.6u]": "1차선 일방통행 (0.6u)",
-  "Assets.DESCRIPTION[MM_Alley_Oneway_1_Lanes_0.6u]": "A1차선 일방통행 (0.6u)",
+  "Assets.NAME[MM_Alley_Oneway_1lanes]": "1차선 일방통행 (0.6u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_1lanes]": "A1차선 일방통행 (0.6u)",
 
-  "Assets.NAME[MM_Alley_Oneway_2_Lanes_1u]": "2차선 일방통행 (1u)",
-  "Assets.DESCRIPTION[MM_Alley_Oneway_2_Lanes_1u]": "2차선 일방통행 (1u)",
+  "Assets.NAME[MM_Alley_Oneway_2lanes]": "2차선 일방통행 (1u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_2lanes]": "2차선 일방통행 (1u)",
 
-  "Assets.NAME[MM_Alley_Oneway_3_Lanes_1.4u]": "3차선 일방통행 (1.4u)",
-  "Assets.DESCRIPTION[MM_Alley_Oneway_3_Lanes_1.4u]": "3차선 일방통행 (1.4u)",
+  "Assets.NAME[MM_Alley_Oneway_3lanes]": "3차선 일방통행 (1.4u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_3lanes]": "3차선 일방통행 (1.4u)",
 
   "Assets.NAME[MM_Highway_6_Lanes_Divided_4u]": "6차선 양방향 고속도로 (4u)",
   "Assets.DESCRIPTION[MM_Highway_6_Lanes_Divided_4u]": "6차선 양방향 고속도로 (4u)",
@@ -150,5 +150,51 @@
   "Assets.DESCRIPTION[MM_Small_Road_Divided]": "넓은 보도로 업그레이드 가능",
 
   "Assets.NAME[MM_Narrow_Seaway_Oneway]": "좁은 일방통행 해로",
-  "Assets.DESCRIPTION[MM_Narrow_Seaway_Oneway]": "좁은 일방통행 항로"
+  "Assets.DESCRIPTION[MM_Narrow_Seaway_Oneway]": "좁은 일방통행 항로",
+
+  
+  "Assets.NAME[MM_Large_Road_6lanes]": "Large Road 6 lanes",
+  "Assets.DESCRIPTION[MM_Large_Road_6lanes]": "Large Road 6 lanes",
+
+  "Assets.NAME[MM_Large_Road_9lanes_5_4]": "Large Road 9 Lanes Asymmetric 5/4",
+  "Assets.DESCRIPTION[MM_Large_Road_9lanes_5_4]": "Large Road 9 Lanes Asymmetric 5/4",
+
+  "Assets.NAME[MM_Small_Road_1lanes]": "Small Road 1 Lane",
+  "Assets.DESCRIPTION[MM_Small_Road_1lanes]": "Small Road 1 Lane",
+
+  "Assets.NAME[MM_Medium_Road_4lanes]": "Medium Road 4 Lanes (3u)",
+  "Assets.DESCRIPTION[MM_Medium_Road_4lanes]": "Medium Road 4 Lanes (3u)",
+
+  "Assets.NAME[MM_XL_Road_8lanes]": "XL Road 8 Lanes",
+  "Assets.DESCRIPTION[MM_XL_Road_8lanes]": "XL Road 8 Lanes",
+
+  "Assets.NAME[MM_busStopClose]": "mio bus stop",
+  "Assets.DESCRIPTION[MM_busStopClose]": "mio bus stop",
+
+  "Assets.NAME[MM_remove_side]": "Remove sidewalks",
+  "Assets.DESCRIPTION[MM_remove_side]": "Remove sidewalks",
+
+  "Assets.NAME[MM_switch_med]": "switch Medium",
+  "Assets.DESCRIPTION[MM_switch_med]": "switch Medium",
+
+  "SubServices.NAME[RoadsMioHighways]": "Highways",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioHighways]": "Highways",
+
+  "SubServices.NAME[RoadsMioLargeRoads]": "Large Roads",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioLargeRoads]": "Large Roads",
+
+  "SubServices.NAME[RoadsMioMedRoads]": "Medium Roads",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioMedRoads]": "Medium Roads",
+
+  "SubServices.NAME[RoadsMioRoadsObject]": "Road Objects",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioRoadsObject]": "Road Objects",
+
+  "SubServices.NAME[RoadsMioRoadsUpgrade]": "Road Upgrades",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioRoadsUpgrade]": "Road Upgrades",
+
+  "SubServices.NAME[RoadsMioSmallRoads]": "Small Roads",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioSmallRoads]": "Small Roads",
+
+  "Services.NAME[mioRoadAssetPack]": "Mio Road AssetPack",
+  "Services.DESCRIPTION[mioRoadAssetPack]": "Mio Road AssetPack"
 }

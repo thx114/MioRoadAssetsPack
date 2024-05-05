@@ -1,12 +1,12 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.StaticObjectPrefab, Game",
-    "name": "MM_NA_BusStop01",
+    "name": "MM_EU_BusStop01",
     "active": true,
     "components": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
-        "$rlength": 9,
+        "$rlength": 10,
         "$rcontent": [
             {
                 "$id": 2,
@@ -73,18 +73,37 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"CID:8630ac67629391cfb4d69c110e40015f",
-                "m_Priority": 903,
+                "m_Priority": 901,
                 "m_Icon": "Media/Game/Icons/Bus Stop.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
             {
                 "$id": 9,
-                "$type": "8|Game.Prefabs.StandingObject, Game",
+                "$type": "8|Game.Prefabs.ObsoleteIdentifiers, Game",
+                "name": "ObsoleteIdentifiers",
+                "active": true,
+                "m_PrefabIdentifiers": {
+                    "$id": 10,
+                    "$type": "9|Game.Prefabs.PrefabIdentifierInfo[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        {
+                            "$id": 11,
+                            "$type": "10|Game.Prefabs.PrefabIdentifierInfo, Game",
+                            "m_Name": "Bus Stop",
+                            "m_Type": "StaticObjectPrefab"
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 12,
+                "$type": "11|Game.Prefabs.StandingObject, Game",
                 "name": "StandingObject",
                 "active": true,
                 "m_LegSize": {
-                    "$type": "9|Unity.Mathematics.float3, Unity.Mathematics",
+                    "$type": "12|Unity.Mathematics.float3, Unity.Mathematics",
                     "x": 0.1,
                     "y": 2.4,
                     "z": 0.1
@@ -92,20 +111,20 @@
                 "m_CircularLeg": true
             },
             {
-                "$id": 10,
-                "$type": "10|Game.Prefabs.ThemeObject, Game",
+                "$id": 13,
+                "$type": "13|Game.Prefabs.ThemeObject, Game",
                 "name": "ThemeObject",
                 "active": true,
-                "m_Theme": $fstrref:"UnityGUID:6f24f89d231e81043b538ce3fb2b54ae"
+                "m_Theme": $fstrref:"UnityGUID:846c60044f7ead04d9b11f0d749ea5f2"
             },
             {
-                "$id": 11,
-                "$type": "11|Game.Prefabs.UnlockOnBuild, Game",
+                "$id": 14,
+                "$type": "14|Game.Prefabs.UnlockOnBuild, Game",
                 "name": "UnlockOnBuild",
                 "active": true,
                 "m_Unlocks": {
-                    "$id": 12,
-                    "$type": "12|Game.Prefabs.ObjectBuiltRequirementPrefab[], Game",
+                    "$id": 15,
+                    "$type": "15|Game.Prefabs.ObjectBuiltRequirementPrefab[], Game",
                     "$rlength": 1,
                     "$rcontent": [
                         $fstrref:"UnityGUID:dcd508a585767aa4babde51c7ab9901d"
@@ -113,35 +132,42 @@
                 }
             },
             {
-                "$id": 13,
-                "$type": "13|Game.Prefabs.NetObject, Game",
+                "$id": 16,
+                "$type": "16|Game.Prefabs.NetObject, Game",
                 "name": "NetObject",
                 "active": true,
-                "m_SetCompositionState": null,
+                "m_SetCompositionState": {
+                    "$id": 17,
+                    "$type": "17|Game.Prefabs.NetPieceRequirements[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        40
+                    ]
+                },
                 "m_RequireRoad": 0,
                 "m_TrackPassThrough": 0
             }
         ]
     },
     "m_Meshes": {
-        "$id": 14,
-        "$type": "14|Game.Prefabs.ObjectMeshInfo[], Game",
+        "$id": 18,
+        "$type": "18|Game.Prefabs.ObjectMeshInfo[], Game",
         "$rlength": 1,
         "$rcontent": [
             {
-                "$id": 15,
-                "$type": "15|Game.Prefabs.ObjectMeshInfo, Game",
-                "m_Mesh": $fstrref:"UnityGUID:0431398ddc4b5694ba5cd1716be35eb7",
+                "$id": 19,
+                "$type": "19|Game.Prefabs.ObjectMeshInfo, Game",
+                "m_Mesh": $fstrref:"UnityGUID:65d52023c3700f646bd73a83588d1634",
                 "m_Position": {
-                    "$type": 9,
+                    "$type": 12,
                     "x": 0,
                     "y": 0,
                     "z": 0
                 },
                 "m_Rotation": {
-                    "$type": "16|Unity.Mathematics.quaternion, Unity.Mathematics",
+                    "$type": "20|Unity.Mathematics.quaternion, Unity.Mathematics",
                     "value": {
-                        "$type": "17|Unity.Mathematics.float4, Unity.Mathematics",
+                        "$type": "21|Unity.Mathematics.float4, Unity.Mathematics",
                         "x": 0,
                         "y": 0,
                         "z": 0,

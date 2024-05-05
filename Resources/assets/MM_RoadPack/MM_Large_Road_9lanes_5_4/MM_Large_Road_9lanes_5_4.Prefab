@@ -415,8 +415,8 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"CID:0e253c11cdab2b2863a648e79c5510ee",
-                "m_Priority": 0,
-                "m_Icon": "Media/Game/Icons/LargeRoad.svg",
+                "m_Priority": 22,
+                "m_Icon": "coui://customassets/MM_RoadPack/MM_Large_Road_9lanes_5_4/i.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },

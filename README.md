@@ -20,61 +20,50 @@ Currently, these issues are related to old road assets or the Asset Importer. Th
 If you want to completely remove assets, you need to go to Settings > Asset Importer > DELETE ALL IMPORTED ASSETS button to remove all assets.
 
 ## Features
-Add roads:
-- Pedestrian Street (1u)
+### Add roads:
+- Pedestrian Street
 
-- Alley Oneway 1 Lanes (0.6u)
-- Alley Oneway 2 Lanes (1u)
-- Alley Oneway 3 Lanes (1.4u)
+- Alley Oneway 1 Lanes
+- Alley Oneway 2 Lanes
+- Alley Oneway 3 Lanes
 
-- Highway Oneway 1 Lanes thin
-- Highway Oneway 2 Lanes thin
-- Highway Oneway 3 Lanes thin
-- Highway Oneway 4 Lanes thin
-- Highway Oneway 5 Lanes thin
+- Highway Oneway 1 Lanes
+- Highway Oneway 2 Lanes
+- Highway Oneway 3 Lanes
+- Highway Oneway 4 Lanes
+- Highway Oneway 5 Lanes
 
-- Highway Towway 2 Lanes thin
-- Highway Towway 3 Lanes thin
-- Highway Towway 4 Lanes thin
-- Highway 6 Lanes Divided (4u)
-- Highway 8 Lanes Divided (5u)
-- Highway Asymmetric 3/2 Divided
-- Highway Asymmetric 4/3 Divided
+- Highway Towway 2 Lanes
+- Highway Towway 3 Lanes
+- Highway Towway 4 Lanes
+- Highway Towway 5 Lanes 3/2 Asymmetric
+- Highway Towway 6 Lanes 
+- Highway Towway 7 Lanes 4/3 Asymmetric
+- Highway Towway 8 Lanes
 
-- Highway Oneway 6 Lanes (3.5u)
-- Highway Oneway 7 Lanes (4u)
-- Highway Oneway 8 Lanes (4.5u)
-
+- Small Road 1 Lane  
 - Small Road Divided (2u)
-- Medium Road 4 Lanes (2u)
-- Large Road 6 Lanes (3u)
-- XL Road 8 Lane Divided (4u)
-- XL Road 10 Lanes Divided (5u)
-- XL Road 14 Lanes Divided (7u)
+  
+- Medium Road 4 Lanes
+- Medium Road 4 Lanes thin (2u)
+- Medium Road 4 Lanes 3/1 Asymmetric
+  
+- Large Road 6 lanes
+- Large Road 6 Lanes thin (3u)
+- Large Road 6 Lanes 4/2 Asymmetric
+- Large Road 8 Lanes
+- Large Road 8 Lanes 5/3 Asymmetric
+- Large Road 9 Lanes 5/4 Asymmetric
+
+- XL Road 8 Lanes thin (4u)
+- XL Road 10 Lanes (5u)
+- XL Road 10 Lanes 6/4 Asymmetric
+- XL Road 14 Lanes (7u)
 
 - Large Road 4 Lanes + 2 Sub Lanes (5u)
 - Large Road 4 Lanes + 4 Sub Lanes (6u)
 - Large Road 6 Lanes + 4 Sub Lanes (7u)
 - XL Road 8 Lanes + 4 Sub Lanes (7u)
-
-- Medium Road Asymmetric 3/1 (3u)
-- Large Road Asymmetric 4/2 (4u)
-- Large Road Asymmetric 5/3 (4u)
-- Large Road Asymmetric 6/4 (5u)
-
-- Road Outside Connection - Oneway (No Taxi)
-- Road Outside Connection - Twoway (No Taxi)
-
-(All external connections for roads are taxi-free)
-
-- Subway 1 Line thin
-- Subway 2 Line thin
-- Subway 2 Line - Twoway thin
-
-- Subway Outside Connection - Oneway
-- Subway Outside Connection - Twoway
-
-(Work In Progress, please do not use subway outside connections if unavailable)
 
 - BRT 1+2 Lanes Road (5u)
 - BRT 3+2 Lanes Road (6u)
@@ -90,9 +79,13 @@ Add roads:
 
 - Narrow Seaway Oneway
 
-## Feature Roadmap
-- Modular subway platforms
-- Modular roads
+### ADD Road Upgrade
+- Remove sidewalks
+- switch Medium
+
+### ADD Obejct
+- Tram Stop large
+- Mio Bus Stop
 
 ## Localization
 - en-US

@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.StaticObjectPrefab, Game",
-    "name": "MM_NA_BusStop02",
+    "name": "MM_EU_BusStop02",
     "active": true,
     "components": {
         "$id": 1,
@@ -73,7 +73,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"CID:8630ac67629391cfb4d69c110e40015f",
-                "m_Priority": 904,
+                "m_Priority": 902,
                 "m_Icon": "Media/Game/Icons/Bus Shelter.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
@@ -83,7 +83,7 @@
                 "$type": "8|Game.Prefabs.ThemeObject, Game",
                 "name": "ThemeObject",
                 "active": true,
-                "m_Theme": $fstrref:"UnityGUID:6f24f89d231e81043b538ce3fb2b54ae"
+                "m_Theme": $fstrref:"UnityGUID:846c60044f7ead04d9b11f0d749ea5f2"
             },
             {
                 "$id": 10,
@@ -94,7 +94,7 @@
                     "$type": "10|Unity.Mathematics.float3, Unity.Mathematics",
                     "x": 3.8,
                     "y": 2.5,
-                    "z": 1.5
+                    "z": 1.7
                 },
                 "m_CircularLeg": false
             },
@@ -120,7 +120,7 @@
                 "m_Locations": {
                     "$id": 14,
                     "$type": "14|Game.Prefabs.ActivityLocation+LocationInfo[], Game",
-                    "$rlength": 4,
+                    "$rlength": 5,
                     "$rcontent": [
                         {
                             "$id": 15,
@@ -128,9 +128,9 @@
                             "m_Activity": $fstrref:"UnityGUID:0812ca7f7b740cd439c5b3c718f64681",
                             "m_Position": {
                                 "$type": 10,
-                                "x": 0.670560837,
+                                "x": 1.57484531,
                                 "y": 0,
-                                "z": -0.35
+                                "z": -0.3
                             },
                             "m_Rotation": {
                                 "$type": "16|Unity.Mathematics.quaternion, Unity.Mathematics",
@@ -149,9 +149,9 @@
                             "m_Activity": $fstrref:"UnityGUID:0812ca7f7b740cd439c5b3c718f64681",
                             "m_Position": {
                                 "$type": 10,
-                                "x": 0.206051931,
+                                "x": 1.05595815,
                                 "y": 0,
-                                "z": -0.35
+                                "z": -0.3
                             },
                             "m_Rotation": {
                                 "$type": 16,
@@ -170,9 +170,9 @@
                             "m_Activity": $fstrref:"UnityGUID:0812ca7f7b740cd439c5b3c718f64681",
                             "m_Position": {
                                 "$type": 10,
-                                "x": -0.696850538,
+                                "x": 0.553495049,
                                 "y": 0,
-                                "z": -0.35
+                                "z": -0.3
                             },
                             "m_Rotation": {
                                 "$type": 16,
@@ -191,9 +191,30 @@
                             "m_Activity": $fstrref:"UnityGUID:0812ca7f7b740cd439c5b3c718f64681",
                             "m_Position": {
                                 "$type": 10,
-                                "x": -0.25852716,
+                                "x": 0.05996386,
                                 "y": 0,
-                                "z": -0.35
+                                "z": -0.3
+                            },
+                            "m_Rotation": {
+                                "$type": 16,
+                                "value": {
+                                    "$type": 17,
+                                    "x": 0,
+                                    "y": -4.569558E-08,
+                                    "z": 0,
+                                    "w": 1
+                                }
+                            }
+                        },
+                        {
+                            "$id": 19,
+                            "$type": 15,
+                            "m_Activity": $fstrref:"UnityGUID:0812ca7f7b740cd439c5b3c718f64681",
+                            "m_Position": {
+                                "$type": 10,
+                                "x": -0.455423743,
+                                "y": 0,
+                                "z": -0.3
                             },
                             "m_Rotation": {
                                 "$type": 16,
@@ -213,13 +234,13 @@
                 "m_RequireAuthorization": false
             },
             {
-                "$id": 19,
+                "$id": 20,
                 "$type": "18|Game.Prefabs.CompanyObject, Game",
                 "name": "CompanyObject",
                 "active": true,
                 "m_SelectCompany": true,
                 "m_Companies": {
-                    "$id": 20,
+                    "$id": 21,
                     "$type": "19|Game.Prefabs.CompanyPrefab[], Game",
                     "$rlength": 20,
                     "$rcontent": [
@@ -247,12 +268,12 @@
                 }
             },
             {
-                "$id": 21,
+                "$id": 22,
                 "$type": "20|Game.Prefabs.SpawnableObject, Game",
                 "name": "SpawnableObject",
                 "active": true,
                 "m_Placeholders": {
-                    "$id": 22,
+                    "$id": 23,
                     "$type": "21|Game.Prefabs.ObjectPrefab[], Game",
                     "$rlength": 1,
                     "$rcontent": [
@@ -263,25 +284,32 @@
                 "m_RandomizationGroup": null
             },
             {
-                "$id": 23,
+                "$id": 24,
                 "$type": "22|Game.Prefabs.NetObject, Game",
                 "name": "NetObject",
                 "active": true,
-                "m_SetCompositionState": null,
+                "m_SetCompositionState": {
+                    "$id": 25,
+                    "$type": "23|Game.Prefabs.NetPieceRequirements[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        40
+                    ]
+                },
                 "m_RequireRoad": 0,
                 "m_TrackPassThrough": 0
             }
         ]
     },
     "m_Meshes": {
-        "$id": 24,
-        "$type": "23|Game.Prefabs.ObjectMeshInfo[], Game",
+        "$id": 26,
+        "$type": "24|Game.Prefabs.ObjectMeshInfo[], Game",
         "$rlength": 1,
         "$rcontent": [
             {
-                "$id": 25,
-                "$type": "24|Game.Prefabs.ObjectMeshInfo, Game",
-                "m_Mesh": $fstrref:"UnityGUID:c1cf5c0b8022a5f4990f29d5ffef4580",
+                "$id": 27,
+                "$type": "25|Game.Prefabs.ObjectMeshInfo, Game",
+                "m_Mesh": $fstrref:"UnityGUID:5e92c0889d33b7a49b146a6529d092ca",
                 "m_Position": {
                     "$type": 10,
                     "x": 0,

@@ -8,11 +8,11 @@
   "Assets.NAME[MM_Alley_Oneway_3_Lanes_1.4u]": "Alley Oneway 3 Lanes (1.4u)",
   "Assets.DESCRIPTION[MM_Alley_Oneway_3_Lanes_1.4u]": "Alley Oneway 3 Lanes (1.4u)",
 
-  "Assets.NAME[MM_Highway_6_Lanes_Divided_4u]": "Highway 6 Lanes Divided (4u)",
-  "Assets.DESCRIPTION[MM_Highway_6_Lanes_Divided_4u]": "Highway 6 Lanes Divided (4u)",
+  "Assets.NAME[MM_Highway_6_Lanes_Divided_4u]": "Highway 6 Lanes (4u)",
+  "Assets.DESCRIPTION[MM_Highway_6_Lanes_Divided_4u]": "Highway 6 Lanes (4u)",
 
-  "Assets.NAME[MM_Highway_8_Lanes_Divided_5u]": "Highway 8 Lanes Divided (5u)",
-  "Assets.DESCRIPTION[MM_Highway_8_Lanes_Divided_5u]": "Highway 8 Lanes Divided (5u)",
+  "Assets.NAME[MM_Highway_8_Lanes_Divided_5u]": "Highway 8 Lanes (5u)",
+  "Assets.DESCRIPTION[MM_Highway_8_Lanes_Divided_5u]": "Highway 8 Lanes (5u)",
 
   "Assets.NAME[MM_Highway_Oneway_6_Lanes_3.5u]": "Highway Oneway 6 Lanes (3.5u)",
   "Assets.DESCRIPTION[MM_Highway_Oneway_6_Lanes_3.5u]": "Highway Oneway 6 Lanes (3.5u)",
@@ -32,11 +32,11 @@
   "Assets.NAME[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "XL Road 8 Lanes + 4 Sub Lanes (7u)",
   "Assets.DESCRIPTION[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "XL Road 8 Lanes + 4 Sub Lanes (7u)",
 
-  "Assets.NAME[MM_XL_Road_10_Lanes_Divided_5u]": "XL Road 10 Lanes Divided (5u)",
-  "Assets.DESCRIPTION[MM_XL_Road_10_Lanes_Divided_5u]": "XL Road 10 Lanes Divided (5u)",
+  "Assets.NAME[MM_XL_Road_10_Lanes_Divided_5u]": "XL Road 10 Lanes (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_10_Lanes_Divided_5u]": "XL Road 10 Lanes (5u)",
 
-  "Assets.NAME[MM_XL_Road_14_Lanes_Divided_7u]": "XL Road 14 Lanes Divided (7u)",
-  "Assets.DESCRIPTION[MM_XL_Road_14_Lanes_Divided_7u]": "XL Road 14 Lanes Divided (7u)",
+  "Assets.NAME[MM_XL_Road_14_Lanes_Divided_7u]": "XL Road 14 Lanes (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_14_Lanes_Divided_7u]": "XL Road 14 Lanes (7u)",
 
   "Assets.NAME[MM_Pedestrian_Street_1u]": "Pedestrian Street (1u)",
   "Assets.DESCRIPTION[MM_Pedestrian_Street_1u]": "Pedestrian Street (1u)",
@@ -62,47 +62,47 @@
   "Assets.NAME[MM_Subway_Outside_Connection_-_Twoway]": "Subway Outside Connection - Twoway",
   "Assets.DESCRIPTION[MM_Subway_Outside_Connection_-_Twoway]": "Subway Outside Connection - Twoway",
 
-  "Assets.NAME[MM_Large_Road_8_Lane_Divided_4u]": "Large Road 8 Lanes Divided (4u)",
-  "Assets.DESCRIPTION[MM_Large_Road_8_Lane_Divided_4u]": "Large Road 8 Lane Divided 4u",
+  "Assets.NAME[MM_Large_Road_8_Lane_Divided_4u]": "Large Road 8 Lanes (4u)",
+  "Assets.DESCRIPTION[MM_Large_Road_8_Lane_Divided_4u]": "Large Road 8 Lane 4u",
 
-  "Assets.NAME[MM_Medium_Road_Asymmetric_3_1]": "Medium Road Asymmetric 3/1 (3u)",
+  "Assets.NAME[MM_Medium_Road_Asymmetric_3_1]": "Medium Road 4 Lanes Asymmetric 3/1 (3u)",
   "Assets.DESCRIPTION[MM_Medium_Road_Asymmetric_3_1]": "Medium Road Asymmetric 3/1 (3u)",
 
-  "Assets.NAME[MM_Large_Road_Asymmetric_4_2]": "Large Road Asymmetric 4/2 (4u)",
+  "Assets.NAME[MM_Large_Road_Asymmetric_4_2]": "Large Road 6 Lanes Asymmetric 4/2 (4u)",
   "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_4_2]": "Large Road Asymmetric 4/2",
 
-  "Assets.NAME[MM_Large_Road_Asymmetric_5_3]": "Large Road Asymmetric 5/3 (4u)",
+  "Assets.NAME[MM_Large_Road_Asymmetric_5_3]": "Large Road 8 Lanes Asymmetric 5/3 (4u)",
   "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_5_3]": "Large Road Asymmetric 5/3",
 
-  "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "XL Road Asymmetric 6/4 (5u)",
+  "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "XL Road 10 Lanes Asymmetric 6/4 (5u)",
   "Assets.DESCRIPTION[MM_Large_XL_Asymmetric_6_4]": "XL Road Asymmetric 6/4",
 
   "SubServices.NAME[RoadsXLRoad]": "Special road",
   "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "Special road",
 
-  "Assets.NAME[MM_Highway_Oneway_1_lane_thin]": "Highway Oneway 1 Lanes thin",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_1_lane_thin]": "Highway Oneway 1 Lanes thin",
+  "Assets.NAME[MM_Highway_Oneway_1_lane_thin]": "Highway Oneway 1 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_1_lane_thin]": "Highway Oneway 1 Lanes",
 
-  "Assets.NAME[MM_Highway_Oneway_2_lane_thin]": "Highway Oneway 2 Lanes thin",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_2_lane_thin]": "Highway Oneway 2 Lanes thin",
+  "Assets.NAME[MM_Highway_Oneway_2_lane_thin]": "Highway Oneway 2 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_2_lane_thin]": "Highway Oneway 2 Lanes",
 
-  "Assets.NAME[MM_Highway_Oneway_3_lane_thin]": "Highway Oneway 3 Lanes thin",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_3_lane_thin]": "Highway Oneway 3 Lanes thin",
+  "Assets.NAME[MM_Highway_Oneway_3_lane_thin]": "Highway Oneway 3 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_3_lane_thin]": "Highway Oneway 3 Lanes",
 
-  "Assets.NAME[MM_Highway_Oneway_4_lane_thin]": "Highway Oneway 4 Lanes thin",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_4_lane_thin]": "Highway Oneway 4 Lanes thin",
+  "Assets.NAME[MM_Highway_Oneway_4_lane_thin]": "Highway Oneway 4 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_4_lane_thin]": "Highway Oneway 4 Lanes",
 
-  "Assets.NAME[MM_Highway_Oneway_5_lane_thin]": "Highway Oneway 5 Lanes thin",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_5_lane_thin]": "Highway Oneway 5 Lanes thin",
+  "Assets.NAME[MM_Highway_Oneway_5_lane_thin]": "Highway Oneway 5 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_5_lane_thin]": "Highway Oneway 5 Lanes",
 
-  "Assets.NAME[MM_Highway_Twoway_2_lane_thin]": "Highway Twoway 2 Lanes thin",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_2_lane_thin]": "Highway Twoway 2 Lanes thin",
+  "Assets.NAME[MM_Highway_Twoway_2_lane_thin]": "Highway Twoway 2 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_2_lane_thin]": "Highway Twoway 2 Lanes",
 
-  "Assets.NAME[MM_Highway_Twoway_3_lane_thin]": "Highway Twoway 3 Lanes thin",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_3_lane_thin]": "Highway Twoway 3 Lanes thin",
+  "Assets.NAME[MM_Highway_Twoway_3_lane_thin]": "Highway Twoway 3 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_3_lane_thin]": "Highway Twoway 3 Lanes",
 
-  "Assets.NAME[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 Lanes thin",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 Lanes thin",
+  "Assets.NAME[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_4_lane_thin]": "Highway Twoway 4 Lanes",
 
   "SubServices.NAME[RoadsBRTRoads]": "BRT road",
   "Assets.SUB_SERVICE_DESCRIPTION[RoadsBRTRoads]": "BRT road",
@@ -134,21 +134,87 @@
   "Assets.NAME[MM_ShiftLeftTurn_8_4_6u]": "Shift Left Turn Road 8 + 4 Lanes (6u)",
   "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "Shift Left Turn Road: By designating the left lane for left turns only, the middle lane on the right for through traffic only, and the far right lane for right turns only, this setup typically yields higher efficiency compared to conventional intersections",
 
-  "Assets.NAME[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "Highway Asymmetric 3/2 Divided",
-  "Assets.DESCRIPTION[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "Highway Asymmetric 3/2 Divided",
+  "Assets.NAME[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "Highway 5 Lanes 3/2 Asymmetric",
+  "Assets.DESCRIPTION[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "Highway Asymmetric 3/2",
 
-  "Assets.NAME[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "Highway Asymmetric 4/3 Divided",
-  "Assets.DESCRIPTION[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "Highway Asymmetric 4/3 Divided",
+  "Assets.NAME[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "Highway 7 Lanes 4/2 Asymmetric",
+  "Assets.DESCRIPTION[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "Highway Asymmetric 4/3",
 
-  "Assets.NAME[MM_Large_Road_6_Lane]": "Large Road 6 Lanes (3u)",
-  "Assets.DESCRIPTION[MM_Large_Road_6_Lane]": "Large Road 6 Lanes (3u)",
+  "Assets.NAME[MM_Large_Road_6_Lane]": "Large Road 6 Lanes thin (3u)",
+  "Assets.DESCRIPTION[MM_Large_Road_6_Lane]": "Large Road 6 Lanes thin (3u)",
 
-  "Assets.NAME[MM_Medium_Road_4_Lane]": "Medium Road 4 Lanes (2u)",
+  "Assets.NAME[MM_Medium_Road_4_Lane]": "Medium Road 4 Lanes thin (2u)",
   "Assets.DESCRIPTION[MM_Medium_Road_4_Lane]": "Medium Road 4 Lanes (2u)",
 
   "Assets.NAME[MM_Small_Road_Divided]": "Small Road Divided (2u)",
   "Assets.DESCRIPTION[MM_Small_Road_Divided]": "Upgradable with wide sidewalks",
 
   "Assets.NAME[MM_Narrow_Seaway_Oneway]": "Narrow Seaway Oneway",
-  "Assets.DESCRIPTION[MM_Narrow_Seaway_Oneway]": "Narrow Seaway Oneway"
+  "Assets.DESCRIPTION[MM_Narrow_Seaway_Oneway]": "Narrow Seaway Oneway",
+
+  "Assets.NAME[MM_Large_Road_6lanes]": "Large Road 6 lanes",
+  "Assets.DESCRIPTION[MM_Large_Road_6lanes]": "Large Road 6 lanes",
+
+  "Assets.NAME[MM_Large_Road_9lanes_5_4]": "Large Road 9 Lanes Asymmetric 5/4",
+  "Assets.DESCRIPTION[MM_Large_Road_9lanes_5_4]": "Large Road 9 Lanes Asymmetric 5/4",
+
+  "Assets.NAME[MM_Small_Road_1lanes]": "Small Road 1 Lane",
+  "Assets.DESCRIPTION[MM_Small_Road_1lanes]": "Small Road 1 Lane",
+
+  "Assets.NAME[MM_Medium_Road_4lanes]": "Medium Road 4 Lanes (3u)",
+  "Assets.DESCRIPTION[MM_Medium_Road_4lanes]": "Medium Road 4 Lanes (3u)",
+
+  "Assets.NAME[MM_XL_Road_8lanes]": "XL Road 8 Lanes",
+  "Assets.DESCRIPTION[MM_XL_Road_8lanes]": "XL Road 8 Lanes",
+
+  "Assets.NAME[MM_busStopClose]": "mio bus stop",
+  "Assets.DESCRIPTION[MM_busStopClose]": "mio bus stop",
+
+  "Assets.NAME[MM_remove_side]": "Remove sidewalks",
+  "Assets.DESCRIPTION[MM_remove_side]": "Remove sidewalks",
+
+  "Assets.NAME[MM_switch_med]": "switch Medium",
+  "Assets.DESCRIPTION[MM_switch_med]": "switch Medium",
+
+  "SubServices.NAME[RoadsMioHighways]": "Highways",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioHighways]": "Highways",
+
+  "SubServices.NAME[RoadsMioLargeRoads]": "Large Roads",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioLargeRoads]": "Large Roads",
+
+  "SubServices.NAME[RoadsMioMedRoads]": "Medium Roads",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioMedRoads]": "Medium Roads",
+
+  "SubServices.NAME[RoadsMioRoadsObject]": "Road Objects",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioRoadsObject]": "Road Objects",
+
+  "SubServices.NAME[RoadsMioRoadsUpgrade]": "Road Upgrades",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioRoadsUpgrade]": "Road Upgrades",
+
+  "SubServices.NAME[RoadsMioSmallRoads]": "Small Roads",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioSmallRoads]": "Small Roads",
+
+  "Services.NAME[mioRoadAssetPack]": "Mio Road AssetPack",
+  "Services.DESCRIPTION[mioRoadAssetPack]": "Mio Road AssetPack",
+
+  "Assets.NAME[MM_EU_BusStop01]": "Bus stop 1",
+  "Assets.DESCRIPTION[MM_EU_BusStop01]": "Bus stop 1",
+
+  "Assets.NAME[MM_EU_BusStop02]": "Bus stop 2",
+  "Assets.DESCRIPTION[MM_EU_BusStop02]": "Bus stop 2",
+
+  "Assets.NAME[MM_NA_BusStop01]": "Bus stop 1",
+  "Assets.DESCRIPTION[MM_NA_BusStop01]": "Bus stop 1",
+
+  "Assets.NAME[MM_NA_BusStop02]": "Bus stop 2",
+  "Assets.DESCRIPTION[MM_NA_BusStop02]": "Bus stop 2",
+
+  "Assets.NAME[MM_EU_TramStop01]": "Tram Stop 1",
+  "Assets.DESCRIPTION[MM_EU_TramStop01]": "Tram Stop 1",
+
+  "Assets.NAME[MM_NA_TramStop01]": "Tram Stop 1",
+  "Assets.DESCRIPTION[MM_NA_TramStop01]": "Tram Stop 1",
+
+  "Assets.NAME[MM_TramStoplarge]": "Tram Stop large",
+  "Assets.DESCRIPTION[MM_TramStoplarge]": "Tram Stop large"
 }
