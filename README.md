@@ -1,17 +1,17 @@
-# Mio Road Assets Pack
+# Mio Road Assets Pack Unstable
 Add many road assets, including roads with service lanes.
 
+---
+## This is an unstable beta version, please don't subscribe unless you know what you're doing!
+## 这是不稳定测试版本，除非你知道你在做什么请不要订阅
+---
+
 ### Warning:
-Road assets are **highly experimental**. Please back up your save file before use. Known issues include:
+Road assets are **highly experimental**. Please back up your save file before use. Known issues include:  
 - Once your save uses these roads, **removing the mod** may cause white textures, crashes, or game exits.
-- If you **subscribe to the assets and then unsubscribe** (including the pre-installed Asset Importer [Beta]), it may result in errors and missing models.
 - Subscribing to assets **without the complete loading of assets** (not restarted twice) may lead to errors and missing models.
 - If your **mods fail to load successfully** while subscribing to assets, it may result in errors/missing models.
-- If this mod's **sorting is before Asset Importer**, it could lead to errors or duplicate asset loading.
-- There might be compatibility issues with **Configurable Elevated Road**.
-
-Currently, these issues are related to old road assets or the Asset Importer. The assets themselves are stable.
-If you want to completely remove assets, you need to go to Settings > Asset Importer > DELETE ALL IMPORTED ASSETS button to remove all assets.
+- Sometimes, there's a slight chance of the CID file missing during asset download/update. You'll need to **delete and reinstall** this mod.
 
 ## Features
 Add roads:

@@ -1,0 +1,905 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.RoadPrefab, Game",
+    "name": "MM_Pedestrian_Street_1u",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 10,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.NetSubObjects, Game",
+                "name": "NetSubObjects",
+                "active": true,
+                "m_SubObjects": {
+                    "$id": 3,
+                    "$type": "3|Game.Prefabs.NetSubObjectInfo[], Game",
+                    "$rlength": 2,
+                    "$rcontent": [
+                        {
+                            "$id": 4,
+                            "$type": "4|Game.Prefabs.NetSubObjectInfo, Game",
+                            "m_Object": $fstrref:"UnityGUID:0ab8c75abf2b4e1408d4367f17189b57",
+                            "m_Position": {
+                                "$type": "5|Unity.Mathematics.float3, Unity.Mathematics",
+                                "x": 0,
+                                "y": -3,
+                                "z": 0
+                            },
+                            "m_Rotation": {
+                                "$type": "6|Unity.Mathematics.quaternion, Unity.Mathematics",
+                                "value": {
+                                    "$type": "7|Unity.Mathematics.float4, Unity.Mathematics",
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "w": 1
+                                }
+                            },
+                            "m_Placement": 0,
+                            "m_FixedIndex": 0,
+                            "m_AnchorTop": false,
+                            "m_AnchorCenter": false,
+                            "m_RequireElevated": true,
+                            "m_RequireOutsideConnection": false,
+                            "m_RequireDeadEnd": false,
+                            "m_RequireOrphan": false
+                        },
+                        {
+                            "$id": 5,
+                            "$type": 4,
+                            "m_Object": $fstrref:"UnityGUID:1b76d7274a126b445b53435de0ec19da",
+                            "m_Position": {
+                                "$type": 5,
+                                "x": 0,
+                                "y": 5,
+                                "z": 0
+                            },
+                            "m_Rotation": {
+                                "$type": 6,
+                                "value": {
+                                    "$type": 7,
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": 0,
+                                    "w": 1
+                                }
+                            },
+                            "m_Placement": 0,
+                            "m_FixedIndex": 0,
+                            "m_AnchorTop": false,
+                            "m_AnchorCenter": false,
+                            "m_RequireElevated": false,
+                            "m_RequireOutsideConnection": true,
+                            "m_RequireDeadEnd": false,
+                            "m_RequireOrphan": false
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 6,
+                "$type": "8|Game.Prefabs.PlaceableNet, Game",
+                "name": "PlaceableNet",
+                "active": true,
+                "m_ElevationRange": {
+                    "$type": "9|Colossal.Mathematics.Bounds1, Colossal.Mathematics",
+                    "min": -50,
+                    "max": 50
+                },
+                "m_AllowParallelMode": true,
+                "m_UndergroundPrefab": null,
+                "m_XPReward": 1
+            },
+            {
+                "$id": 7,
+                "$type": "10|Game.Prefabs.ElectricityConnection, Game",
+                "name": "ElectricityConnection",
+                "active": true,
+                "m_Voltage": 0,
+                "m_Direction": 3,
+                "m_Capacity": 400000,
+                "m_RequireAll": {
+                    "$id": 8,
+                    "$type": "11|Game.Prefabs.NetPieceRequirements[], Game",
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 9,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 10,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            },
+            {
+                "$id": 11,
+                "$type": "12|Game.Prefabs.ServiceObject, Game",
+                "name": "ServiceObject",
+                "active": true,
+                "m_Service": $fstrref:"CID:d37cec5e448fa6b8cfe2596fceebd035"
+            },
+            {
+                "$id": 12,
+                "$type": "13|Game.Prefabs.WaterPipeConnection, Game",
+                "name": "WaterPipeConnection",
+                "active": true,
+                "m_FreshCapacity": 1073741823,
+                "m_SewageCapacity": 1073741823,
+                "m_StormCapacity": 0
+            },
+            {
+                "$id": 13,
+                "$type": "14|Game.Prefabs.UndergroundNetSections, Game",
+                "name": "UndergroundNetSections",
+                "active": true,
+                "m_Sections": {
+                    "$id": 14,
+                    "$type": "15|Game.Prefabs.NetSectionInfo[], Game",
+                    "$rlength": 4,
+                    "$rcontent": [
+                        {
+                            "$id": 15,
+                            "$type": "16|Game.Prefabs.NetSectionInfo, Game",
+                            "m_Section": $fstrref:"UnityGUID:3592fa4f6f1f7b6499408879cdec97f6",
+                            "m_RequireAll": {
+                                "$id": 16,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireAny": {
+                                "$id": 17,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireNone": {
+                                "$id": 18,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_Invert": false,
+                            "m_Flip": false,
+                            "m_Median": false,
+                            "m_Offset": {
+                                "$type": 5,
+                                "x": 0,
+                                "y": -1.25,
+                                "z": 0
+                            }
+                        },
+                        {
+                            "$id": 19,
+                            "$type": 16,
+                            "m_Section": $fstrref:"UnityGUID:a8db8a5bd3190c1438bef98c26cbe366",
+                            "m_RequireAll": {
+                                "$id": 20,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireAny": {
+                                "$id": 21,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireNone": {
+                                "$id": 22,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_Invert": false,
+                            "m_Flip": false,
+                            "m_Median": false,
+                            "m_Offset": {
+                                "$type": 5,
+                                "x": 0,
+                                "y": -0.65,
+                                "z": 0
+                            }
+                        },
+                        {
+                            "$id": 23,
+                            "$type": 16,
+                            "m_Section": $fstrref:"UnityGUID:c6c8045a598682c4a881724c9bb67ea7",
+                            "m_RequireAll": {
+                                "$id": 24,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireAny": {
+                                "$id": 25,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireNone": {
+                                "$id": 26,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_Invert": false,
+                            "m_Flip": false,
+                            "m_Median": false,
+                            "m_Offset": {
+                                "$type": 5,
+                                "x": 0,
+                                "y": -0.85,
+                                "z": 0
+                            }
+                        },
+                        {
+                            "$id": 27,
+                            "$type": 16,
+                            "m_Section": $fstrref:"UnityGUID:6b00ef9b34f5e2f4aa6125dc722b11ba",
+                            "m_RequireAll": {
+                                "$id": 28,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireAny": {
+                                "$id": 29,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireNone": {
+                                "$id": 30,
+                                "$type": 11,
+                                "$rlength": 2,
+                                "$rcontent": [
+                                    0,
+                                    25
+                                ]
+                            },
+                            "m_Invert": false,
+                            "m_Flip": false,
+                            "m_Median": false,
+                            "m_Offset": {
+                                "$type": 5,
+                                "x": 0,
+                                "y": -1.45,
+                                "z": 0
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 31,
+                "$type": "17|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": $fstrref:"CID:b4be3f5c67da2b8f953adf84b8b55fbb",
+                "m_Priority": 99,
+                "m_Icon": "coui://customassets/MM_RoadPack/MM_Pedestrian_Street/i.svg",
+                "m_LargeIcon": "",
+                "m_IsDebugObject": false
+            },
+            {
+                "$id": 32,
+                "$type": "18|Game.Prefabs.Unlockable, Game",
+                "name": "Unlockable",
+                "active": true,
+                "m_RequireAll": {
+                    "$id": 33,
+                    "$type": "19|Game.Prefabs.PrefabBase[], Game",
+                    "$rlength": 2,
+                    "$rcontent": [
+                        $fstrref:"UnityGUID:137b8cd85201fd64997ecbca86d68138",
+                        $fstrref:"UnityGUID:b108f8e735031c948949cce67276ea47"
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 34,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_IgnoreDependencies": false
+            },
+            {
+                "$id": 35,
+                "$type": "20|Game.Prefabs.NetPollution, Game",
+                "name": "NetPollution",
+                "active": true,
+                "m_NoisePollutionFactor": 1,
+                "m_AirPollutionFactor": 1
+            },
+            {
+                "$id": 36,
+                "$type": "21|Game.Prefabs.OverheadNetSections, Game",
+                "name": "OverheadNetSections",
+                "active": true,
+                "m_Sections": {
+                    "$id": 37,
+                    "$type": 15,
+                    "$rlength": 3,
+                    "$rcontent": [
+                        {
+                            "$id": 38,
+                            "$type": 16,
+                            "m_Section": $fstrref:"UnityGUID:85d32d3e07e03d94f842848e9ce3da82",
+                            "m_RequireAll": {
+                                "$id": 39,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireAny": {
+                                "$id": 40,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireNone": {
+                                "$id": 41,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_Invert": true,
+                            "m_Flip": false,
+                            "m_Median": false,
+                            "m_Offset": {
+                                "$type": 5,
+                                "x": -0.5,
+                                "y": 0,
+                                "z": 0
+                            }
+                        },
+                        {
+                            "$id": 42,
+                            "$type": 16,
+                            "m_Section": $fstrref:"UnityGUID:b58582663553bf940be855d547646801",
+                            "m_RequireAll": {
+                                "$id": 43,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireAny": {
+                                "$id": 44,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireNone": {
+                                "$id": 45,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_Invert": false,
+                            "m_Flip": false,
+                            "m_Median": true,
+                            "m_Offset": {
+                                "$type": 5,
+                                "x": 0,
+                                "y": -0.1171875,
+                                "z": 0
+                            }
+                        },
+                        {
+                            "$id": 46,
+                            "$type": 16,
+                            "m_Section": $fstrref:"UnityGUID:85d32d3e07e03d94f842848e9ce3da82",
+                            "m_RequireAll": {
+                                "$id": 47,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireAny": {
+                                "$id": 48,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_RequireNone": {
+                                "$id": 49,
+                                "$type": 11,
+                                "$rlength": 0,
+                                "$rcontent": [
+                                ]
+                            },
+                            "m_Invert": false,
+                            "m_Flip": false,
+                            "m_Median": false,
+                            "m_Offset": {
+                                "$type": 5,
+                                "x": 0.5,
+                                "y": 0,
+                                "z": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "m_Sections": {
+        "$id": 50,
+        "$type": 15,
+        "$rlength": 11,
+        "$rcontent": [
+            {
+                "$id": 51,
+                "$type": 16,
+                "m_Section": $fstrref:"UnityGUID:6fc572ad0b4d84642b2af579e7fad0ad",
+                "m_RequireAll": {
+                    "$id": 52,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 53,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 54,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 55,
+                "$type": 16,
+                "m_Section": $fstrref:"UnityGUID:c67da523e2572ab48b492f0439876d5c",
+                "m_RequireAll": {
+                    "$id": 56,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 57,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 58,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 59,
+                "$type": 16,
+                "m_Section": $fstrref:"UnityGUID:0194a336bcd3cb94786994720bf8466a",
+                "m_RequireAll": {
+                    "$id": 60,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 61,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 62,
+                    "$type": 11,
+                    "$rlength": 7,
+                    "$rcontent": [
+                        0,
+                        11,
+                        14,
+                        12,
+                        13,
+                        15,
+                        16
+                    ]
+                },
+                "m_Invert": true,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 63,
+                "$type": 16,
+                "m_Section": $fstrref:"UnityGUID:67ff18dccc291114e876e6df8f4162da",
+                "m_RequireAll": {
+                    "$id": 64,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 65,
+                    "$type": 11,
+                    "$rlength": 6,
+                    "$rcontent": [
+                        11,
+                        12,
+                        13,
+                        14,
+                        15,
+                        16
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 66,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                },
+                "m_Invert": true,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 67,
+                "$type": 16,
+                "m_Section": $fstrref:"UnityGUID:40aeda972f937c8488b195cf6fe471ca",
+                "m_RequireAll": {
+                    "$id": 68,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 69,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 70,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 71,
+                "$type": 16,
+                "m_Section": $fstrref:"UnityGUID:9c06c8c6137c2674c9e5e648ee1420c5",
+                "m_RequireAll": {
+                    "$id": 72,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 73,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 74,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": true,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 75,
+                "$type": 16,
+                "m_Section": $fstrref:"UnityGUID:40aeda972f937c8488b195cf6fe471ca",
+                "m_RequireAll": {
+                    "$id": 76,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 77,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 78,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": -0.0234375,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 79,
+                "$type": 16,
+                "m_Section": $fstrref:"UnityGUID:67ff18dccc291114e876e6df8f4162da",
+                "m_RequireAll": {
+                    "$id": 80,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 81,
+                    "$type": 11,
+                    "$rlength": 6,
+                    "$rcontent": [
+                        11,
+                        12,
+                        13,
+                        14,
+                        15,
+                        16
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 82,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 83,
+                "$type": 16,
+                "m_Section": $fstrref:"UnityGUID:0194a336bcd3cb94786994720bf8466a",
+                "m_RequireAll": {
+                    "$id": 84,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 85,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 86,
+                    "$type": 11,
+                    "$rlength": 7,
+                    "$rcontent": [
+                        0,
+                        11,
+                        14,
+                        12,
+                        13,
+                        15,
+                        16
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 87,
+                "$type": 16,
+                "m_Section": $fstrref:"UnityGUID:c67da523e2572ab48b492f0439876d5c",
+                "m_RequireAll": {
+                    "$id": 88,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 89,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 90,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 91,
+                "$type": 16,
+                "m_Section": $fstrref:"UnityGUID:6fc572ad0b4d84642b2af579e7fad0ad",
+                "m_RequireAll": {
+                    "$id": 92,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 93,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 94,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    "m_EdgeStates": {
+        "$id": 95,
+        "$type": "22|Game.Prefabs.NetEdgeStateInfo[], Game",
+        "$rlength": 0,
+        "$rcontent": [
+        ]
+    },
+    "m_NodeStates": {
+        "$id": 96,
+        "$type": "23|Game.Prefabs.NetNodeStateInfo[], Game",
+        "$rlength": 0,
+        "$rcontent": [
+        ]
+    },
+    "m_MaxSlopeSteepness": 0.3,
+    "m_AggregateType": $fstrref:"UnityGUID:5ba77b88e24d24c4388103b87ab5660a",
+    "m_InvertMode": 0,
+    "m_RoadType": 0,
+    "m_SpeedLimit": 40,
+    "m_ZoneBlock": $fstrref:"UnityGUID:18382f0f8042c204ab112a5f54483b0b",
+    "m_TrafficLights": false,
+    "m_HighwayRules": false
+}
