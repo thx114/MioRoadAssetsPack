@@ -73,10 +73,6 @@
         <None Include="$(ModTargetsFile)" Link="Properties\Mod.targets" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Resources\assets\MM_RoadPack\__res\" />
-    </ItemGroup>
-
     <Target Name="GetAdditionalFiles" AfterTargets="DeployWIP">
         <ItemGroup>
             <AdditionalFilesToDeploy Include="$(AdditionalFilesDirectory)\**\*.*" />

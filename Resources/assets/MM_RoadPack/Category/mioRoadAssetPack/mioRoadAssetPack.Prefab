@@ -1,0 +1,55 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.ServicePrefab, Game",
+    "name": "mioRoadAssetPack",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.Unlockable, Game",
+                "name": "Unlockable",
+                "active": true,
+                "m_RequireAll": {
+                    "$id": 3,
+                    "$type": "3|Game.Prefabs.PrefabBase[], Game",
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 4,
+                    "$type": 3,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_IgnoreDependencies": false
+            },
+            {
+                "$id": 5,
+                "$type": "4|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": null,
+                "m_Priority": 11,
+                "m_Icon": "coui://customassets/MM_RoadPack/Category/mioRoadAssetPack/i.svg",
+                "m_LargeIcon": "",
+                "m_IsDebugObject": false
+            }
+        ]
+    },
+    "m_CityResources": {
+        "$id": 6,
+        "$type": "5|Game.City.PlayerResource[], Game",
+        "$rlength": 1,
+        "$rcontent": [
+            12
+        ]
+    },
+    "m_Service": 10,
+    "m_BudgetAdjustable": true
+}

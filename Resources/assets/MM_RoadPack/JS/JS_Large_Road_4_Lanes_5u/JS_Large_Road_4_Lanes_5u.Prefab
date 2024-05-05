@@ -50,7 +50,7 @@
                         {
                             "$id": 5,
                             "$type": 4,
-                            "m_Object": $fstrref:"CID:ebd46aff983a44c09da336eaba3884ea",
+                            "m_Object": $fstrref:"UnityGUID:1b76d7274a126b445b53435de0ec19da",
                             "m_Position": {
                                 "$type": 5,
                                 "x": 0,
@@ -414,9 +414,9 @@
                 "$type": "18|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": null,
+                "m_Group": $fstrref:"CID:d920e08c17816a0b220f2c2317df3381",
                 "m_Priority": 20,
-                "m_Icon": "",
+                "m_Icon": "coui://customassets/MM_RoadPack/JS/JS_Large_Road_4_Lanes_5u/i.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -680,7 +680,7 @@
             {
                 "$id": 75,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:11da926e6222ba543b1def481a8ffebf",
+                "m_Section": $fstrref:"CID:c7c64e4cb635a658ff4adc85920743f6",
                 "m_RequireAll": {
                     "$id": 76,
                     "$type": 11,
@@ -1078,7 +1078,7 @@
             {
                 "$id": 119,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:11da926e6222ba543b1def481a8ffebf",
+                "m_Section": $fstrref:"CID:c7c64e4cb635a658ff4adc85920743f6",
                 "m_RequireAll": {
                     "$id": 120,
                     "$type": 11,

@@ -1,6 +1,12 @@
-# Mio Road Assets Pack
+# Mio Road Assets Pack [Unstable]
 Add many road assets, including roads with service lanes.
 
+---
+
+### This is an unstable beta version, please don't subscribe unless you know what you're doing!
+### 这是不稳定测试版本，除非你知道你在做什么请不要订阅
+
+---
 ### Warning:
 Road assets are **highly experimental**. Please back up your save file before use. Known issues include:
 - Once your save uses these roads, **removing the mod** may cause white textures, crashes, or game exits.

@@ -1,16 +1,22 @@
 ﻿<Publish>
 	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
-	<ModId Value="78908" />
+	<ModId Value="80214" />
 	<!--Name of the mod to display to players-->
-	<DisplayName Value="Mio Road Assets Pack" />
+	<DisplayName Value="[Unstable] Mio Road Assets Pack" />
 	<!--Short description of the mod-->
 	<ShortDescription Value="Add many road assets, including roads with service lanes." />
 	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
 	<!--LongDescription Value="This is a long description" /-->
 	<LongDescription>
-# Mio Road Assets Pack
+# Mio Road Assets Pack [Unstable]
 Add many road assets, including roads with service lanes.
 
+---
+
+### This is an unstable beta version, please don't subscribe unless you know what you're doing!
+### 这是不稳定测试版本，除非你知道你在做什么请不要订阅
+
+---
 ### Warning:
 Road assets are **highly experimental**. Please back up your save file before use. Known issues include:
 - Once your save uses these roads, **removing the mod** may cause white textures, crashes, or game exits.
@@ -132,15 +138,7 @@ https://github.com/kosch104/CS2-CustomAssetPack
 	<Dependency Id="78903" />
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
 	<ChangeLog>
-New: 
-  - Small Road Divided (2u)
-  - Medium Road 4 Lanes (2u)
-  - Large Road 6 Lanes (3u)
-  - Highway Asymmetric 3/2 Divided
-  - Highway Asymmetric 4/3 Divided
-  - Narrow Seaway Oneway
-Fix: 
-  - 6/4 xl road tram upgrade issues
+
 	</ChangeLog>
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
 	<ExternalLink Type="github" Url="https://github.com/thx114/MioRoadAssetsPack" />
