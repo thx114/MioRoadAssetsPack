@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="b">
+   <rect height="64" id="svg_1" width="64"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="a">
+   <path d="m722.07,-295.33l29.71,25.31l34.04,-20.61l0.35,-2.6l-64.1,-4.69l0,2.59z" fill="#c4c4c4" id="svg_2" transform="translate(-722.04 327.13)"/>
+   <path d="m737.03,-304.84l24.05,28.18l25.13,-14.78l-30.23,-24.5l-18.95,11.1z" fill="#d4d4d4" id="svg_3" transform="translate(-728.951 329.31)"/>
+   <path d="m1224.12,-1129.9l29.87,25.1l33.88,-20.16l-29.7,-24.86l-34.05,19.92z" fill="#929191" id="svg_4" transform="translate(-1224.047 1159.002)"/>
+   <path d="m15820,3491.44l30.41,24.87l1.23,-0.69l-30.76,-24.62l-0.88,0.44z" fill="#d4d4d4" id="svg_5" transform="translate(-15811.93 -3467.122)"/>
+   <path d="m15820.36,3491.4l30.29,24.65l1.23,-0.69l-30.64,-24.4l-0.88,0.44z" fill="#d4d4d4" id="svg_6" transform="translate(-15806.667 -3470.317)"/>
+   <path d="m15820.32,3491.3l30.23,24.7l1.23,-0.69l-30.58,-24.44l-0.88,0.43z" fill="#d4d4d4" id="svg_7" transform="translate(-15801.152 -3473.414)"/>
+   <path d="m15820,3491.44l30.2,24.65l1.23,-0.69l-30.55,-24.4l-0.88,0.44z" fill="#d4d4d4" id="svg_8" transform="translate(-15794.771 -3477.006)"/>
+   <path d="m15735.84,2434.14l0.76,4.97l1.53,-0.8l5.36,4.62l2.45,-1.34l-5.26,-4.47l1.75,-0.95l-6.59,-2.03z" fill="#fff" id="svg_9" transform="translate(-15722.139 -2400.358)"/>
+   <path d="m15735.84,2434.14l0.76,4.97l1.53,-0.8l5.36,4.62l2.45,-1.34l-5.26,-4.47l1.75,-0.95l-6.59,-2.03z" fill="#fff" id="svg_10" transform="translate(-15715.139 -2404.128)"/>
+   <path d="m15735.84,2434.14l0.76,4.97l1.53,-0.8l5.36,4.62l2.45,-1.34l-5.26,-4.47l1.75,-0.95l-6.59,-2.03z" fill="#fff" id="svg_11" transform="translate(-15708.889 -2407.599)"/>
+   <path d="m15735.84,2434.14l0.76,4.97l1.53,-0.8l5.36,4.62l2.45,-1.34l-5.26,-4.47l1.75,-0.95l-6.59,-2.03z" fill="#fff" id="svg_12" transform="translate(-15703.168 -2410.936)"/>
+   <path d="m15735.84,2434.14l0.76,4.97l1.53,-0.8l5.36,4.62l2.45,-1.34l-5.26,-4.47l1.75,-0.95l-6.59,-2.03z" fill="#fff" id="svg_13" transform="translate(-15697.168 -2414.659)"/>
+  </g>
+  <text fill="#aaffff" font-family="Sans-serif" font-size="24" id="svg_14" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.504839 0 0 0.504839 23.141 -0.697475)" x="-22.6" xml:space="preserve" y="121.22">thin</text>
+ </g>
+</svg>

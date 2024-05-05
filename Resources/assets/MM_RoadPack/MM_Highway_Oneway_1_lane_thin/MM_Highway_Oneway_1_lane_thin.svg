@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="b">
+   <rect height="64" id="svg_1" width="64"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="a">
+   <path d="m733.5,-301.47l28.75,24.64l12.48,-8.96l0,-2.72l-41.23,-15.91l0,2.95z" fill="#c4c4c4" id="svg_2" transform="translate(-722.122 327.055)"/>
+   <path d="m1223.51,-1130.37l28.82,24.49l12.38,-8.65l-28.39,-24.66l-12.81,8.82z" fill="#949494" id="svg_3" transform="translate(-1212.122 1152.974)"/>
+   <path d="m15735.84,2434.14l0.93,6.54l1.88,-1.05l6.6,6.08l3.01,-1.77l-6.47,-5.88l2.16,-1.24l-8.11,-2.68z" fill="#fff" id="svg_4" transform="translate(-15710.047 -2409.514)"/>
+  </g>
+  <text fill="#aaffff" font-family="Sans-serif" font-size="24" id="svg_5" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.504839 0 0 0.504839 23.141 -0.697475)" x="-22.79" xml:space="preserve" y="120.83">thin</text>
+ </g>
+</svg>

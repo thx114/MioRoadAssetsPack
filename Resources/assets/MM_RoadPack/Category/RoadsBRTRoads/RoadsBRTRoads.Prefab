@@ -14,12 +14,12 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": null,
-                "m_Priority": 160,
+                "m_Priority": 45,
                 "m_Icon": "coui://customassets/MM_RoadPack/Category/RoadsBRTRoads/i.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             }
         ]
     },
-    "m_Menu": $fstrref:"CID:d7b2495f28616f7d614de44051e7791b"
+    "m_Menu": $fstrref:"UnityGUID:52dc601ec18335943bd570353370a60f"
 }

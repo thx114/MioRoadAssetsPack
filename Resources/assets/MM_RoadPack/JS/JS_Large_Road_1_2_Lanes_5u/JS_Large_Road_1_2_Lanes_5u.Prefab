@@ -50,7 +50,7 @@
                         {
                             "$id": 5,
                             "$type": 4,
-                            "m_Object": $fstrref:"UnityGUID:1b76d7274a126b445b53435de0ec19da",
+                            "m_Object": $fstrref:"CID:ebd46aff983a44c09da336eaba3884ea",
                             "m_Position": {
                                 "$type": 5,
                                 "x": 0,
@@ -414,9 +414,9 @@
                 "$type": "18|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": $fstrref:"CID:d920e08c17816a0b220f2c2317df3381",
+                "m_Group": null,
                 "m_Priority": 40,
-                "m_Icon": "coui://customassets/MM_RoadPack/JS/JS_Large_Road_1_2_Lanes_5u/i.svg",
+                "m_Icon": "",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -630,7 +630,7 @@
             {
                 "$id": 69,
                 "$type": 17,
-                "m_Section": $fstrref:"CID:54a518a76a780ee6f9e44205e8c167fb",
+                "m_Section": $fstrref:"UnityGUID:570186b349637644a9e657d55fe9c9d4",
                 "m_RequireAll": {
                     "$id": 70,
                     "$type": 11,
@@ -884,7 +884,7 @@
             {
                 "$id": 97,
                 "$type": 17,
-                "m_Section": $fstrref:"CID:54a518a76a780ee6f9e44205e8c167fb",
+                "m_Section": $fstrref:"UnityGUID:570186b349637644a9e657d55fe9c9d4",
                 "m_RequireAll": {
                     "$id": 98,
                     "$type": 11,
@@ -1218,7 +1218,7 @@
     "m_AggregateType": $fstrref:"UnityGUID:5ba77b88e24d24c4388103b87ab5660a",
     "m_InvertMode": 0,
     "m_RoadType": 0,
-    "m_SpeedLimit": 80,
+    "m_SpeedLimit": 100,
     "m_ZoneBlock": $fstrref:"UnityGUID:18382f0f8042c204ab112a5f54483b0b",
     "m_TrafficLights": true,
     "m_HighwayRules": false
