@@ -8,20 +8,20 @@
   "Assets.NAME[MM_Alley_Oneway_3_Lanes_1.4u]": "Alley Oneway 3 Lanes (1.4u)",
   "Assets.DESCRIPTION[MM_Alley_Oneway_3_Lanes_1.4u]": "Alley Oneway 3 Lanes (1.4u)",
 
-  "Assets.NAME[MM_Highway_6_Lanes_Divided_4u]": "Highway 6 Lanes (4u)",
+  "Assets.NAME[MM_Highway_6_Lanes_Divided_4u]": "Highway Twoway 6 Lanes (4u)",
   "Assets.DESCRIPTION[MM_Highway_6_Lanes_Divided_4u]": "Highway 6 Lanes (4u)",
 
-  "Assets.NAME[MM_Highway_8_Lanes_Divided_5u]": "Highway 8 Lanes (5u)",
+  "Assets.NAME[MM_Highway_8_Lanes_Divided_5u]": "Highway Twoway 8 Lanes (5u)",
   "Assets.DESCRIPTION[MM_Highway_8_Lanes_Divided_5u]": "Highway 8 Lanes (5u)",
 
-  "Assets.NAME[MM_Highway_Oneway_6_Lanes_3.5u]": "Highway Oneway 6 Lanes (3.5u)",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_6_Lanes_3.5u]": "Highway Oneway 6 Lanes (3.5u)",
+  "Assets.NAME[MM_Highway_Oneway_6_Lanes_3.5u]": "Highway Oneway 6 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_6_Lanes_3.5u]": "Highway Oneway 6 Lanes",
 
-  "Assets.NAME[MM_Highway_Oneway_7_Lanes_4u]": " Highway Oneway 7 Lanes (4u)",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_7_Lanes_4u]": " Highway Oneway 7 Lanes (4u)",
+  "Assets.NAME[MM_Highway_Oneway_7_Lanes_4u]": " Highway Oneway 7 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_7_Lanes_4u]": " Highway Oneway 7 Lanes",
 
-  "Assets.NAME[MM_Highway_Oneway_8_Lanes_4.5u]": "Highway Oneway 8 Lanes (4.5u)",
-  "Assets.DESCRIPTION[MM_Highway_Oneway_8_Lanes_4.5u]": "Highway Oneway 8 Lanes (4.5u)",
+  "Assets.NAME[MM_Highway_Oneway_8_Lanes_4.5u]": "Highway Oneway 8 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Oneway_8_Lanes_4.5u]": "Highway Oneway 8 Lanes",
 
   "Assets.NAME[MM_XL_Road_4_Lanes_2_Sub_Lanes_5u]": "XL Road 4 Lanes  2 Sub Lanes (5u)",
   "Assets.DESCRIPTION[MM_XL_Road_4_Lanes_2_Sub_Lanes_5u]": "XL Road 4 Lanes  2 Sub Lanes (5u)",
@@ -216,5 +216,11 @@
   "Assets.DESCRIPTION[MM_NA_TramStop01]": "Tram Stop 1",
 
   "Assets.NAME[MM_TramStoplarge]": "Tram Stop large",
-  "Assets.DESCRIPTION[MM_TramStoplarge]": "Tram Stop large"
+  "Assets.DESCRIPTION[MM_TramStoplarge]": "Tram Stop large",
+
+  "Assets.NAME[MM_Highway_Twoway_9lanes]": "Highway 9 Lanes 5/3 Asymmetric",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_9lanes]": "Highway Asymmetric 5/3",
+
+  "Assets.NAME[MM_Highway_Twoway_10lanes]": "Highway Twoway 10 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_10lanes]": "Highway Twoway 10 Lanes"
 }

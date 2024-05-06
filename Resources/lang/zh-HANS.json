@@ -196,5 +196,11 @@
   "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioSmallRoads]": "小型道路",
 
   "Services.NAME[mioRoadAssetPack]": "猫猫道路资产包",
-  "Services.DESCRIPTION[mioRoadAssetPack]": "猫猫道路资产包"
+  "Services.DESCRIPTION[mioRoadAssetPack]": "猫猫道路资产包",
+
+  "Assets.NAME[MM_Highway_Twoway_9lanes]": "9车道 5/3 非对称高速",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_9lanes]": "9车道 5/3 非对称高速",
+
+  "Assets.NAME[MM_Highway_Twoway_10lanes]": "10车道 高速",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_10lanes]": "10车道 高速"
 }

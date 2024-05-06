@@ -27,14 +27,19 @@ Road assets are **highly experimental**. Please back up your save file before us
 - Highway Oneway 3 Lanes
 - Highway Oneway 4 Lanes
 - Highway Oneway 5 Lanes
+- Highway Oneway 6 Lanes
+- Highway Oneway 7 Lanes
+- Highway Oneway 8 Lanes
 
-- Highway Towway 2 Lanes
-- Highway Towway 3 Lanes
-- Highway Towway 4 Lanes
-- Highway Towway 5 Lanes 3/2 Asymmetric
-- Highway Towway 6 Lanes 
-- Highway Towway 7 Lanes 4/3 Asymmetric
-- Highway Towway 8 Lanes
+- Highway Twoway 2 Lanes
+- Highway Twoway 3 Lanes
+- Highway Twoway 4 Lanes
+- Highway Twoway 5 Lanes 3/2 Asymmetric
+- Highway Twoway 6 Lanes 
+- Highway Twoway 7 Lanes 4/3 Asymmetric
+- Highway Twoway 8 Lanes
+- Highway Twoway 9 Lanes 5/4 Asymmetric
+- Highway Twoway 10 Lanes
 
 - Small Road 1 Lane  
 - Small Road Divided (2u)
