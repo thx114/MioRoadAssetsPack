@@ -1,6 +1,6 @@
 {
   "Assets.NAME[MM_Alley_Oneway_1lanes]": "1차선 일방통행 (0.6u)",
-  "Assets.DESCRIPTION[MM_Alley_Oneway_1lanes]": "A1차선 일방통행 (0.6u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_1lanes]": "1차선 일방통행 (0.6u)",
 
   "Assets.NAME[MM_Alley_Oneway_2lanes]": "2차선 일방통행 (1u)",
   "Assets.DESCRIPTION[MM_Alley_Oneway_2lanes]": "2차선 일방통행 (1u)",
@@ -32,11 +32,11 @@
   "Assets.NAME[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "8차선 도로 및 4차선 분리도로 (7u)",
   "Assets.DESCRIPTION[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "8차선 도로 및 4차선 분리도로 (7u)",
 
-  "Assets.NAME[MM_XL_Road_10_Lanes_Divided_5u]": "10차선 대형 도로 (5u)",
-  "Assets.DESCRIPTION[MM_XL_Road_10_Lanes_Divided_5u]": "10차선 대형 도로 (5u)",
+  "Assets.NAME[MM_XL_Road_10_Lanes_Divided_5u]": "10차선 도로 (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_10_Lanes_Divided_5u]": "10차선 도로 (5u)",
 
-  "Assets.NAME[MM_XL_Road_14_Lanes_Divided_7u]": "14차선 대형 도로 (7u)",
-  "Assets.DESCRIPTION[MM_XL_Road_14_Lanes_Divided_7u]": "14차선 대형 도로 (7u)",
+  "Assets.NAME[MM_XL_Road_14_Lanes_Divided_7u]": "14차선 도로 (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_14_Lanes_Divided_7u]": "14차선 도로 (7u)",
 
   "Assets.NAME[MM_Pedestrian_Street_1u]": "2차선 좁은 양방향 도로 (1u)",
   "Assets.DESCRIPTION[MM_Pedestrian_Street_1u]": "2차선 좁은 양방향 도로 (1u)",
@@ -62,8 +62,8 @@
   "Assets.NAME[MM_Subway_Outside_Connection_-_Twoway]": "2차선 지하철 일방통행 외부연결",
   "Assets.DESCRIPTION[MM_Subway_Outside_Connection_-_Twoway]": "2차선 지하철 일방통행 외부연결",
 
-  "Assets.NAME[MM_Large_Road_8_Lane_Divided_4u]": "8차선 중앙분리 도로 (4u)",
-  "Assets.DESCRIPTION[MM_Large_Road_8_Lane_Divided_4u]": "8차선 중앙분리 도로 (4u)",
+  "Assets.NAME[MM_Large_Road_8_Lane_Divided_4u]": "8차선 도로 (4u)",
+  "Assets.DESCRIPTION[MM_Large_Road_8_Lane_Divided_4u]": "8차선 도로 (4u)",
 
   "Assets.NAME[MM_Medium_Road_Asymmetric_3_1]": "3/1 비대칭 도로 (3u)",
   "Assets.DESCRIPTION[MM_Medium_Road_Asymmetric_3_1]": "3/1 비대칭 도로 (3u)",
@@ -74,8 +74,8 @@
   "Assets.NAME[MM_Large_Road_Asymmetric_5_3]": "5/3 비대칭 도로 (4u)",
   "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_5_3]": "5/3 비대칭 도로 (4u)",
 
-  "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "6/4 비대칭 대형 도로 (5u)",
-  "Assets.DESCRIPTION[MM_XL_Road_Asymmetric_6_4]": "6/4 비대칭 대형 도로 (5u)",
+  "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "6/4 비대칭 도로 (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_Asymmetric_6_4]": "6/4 비대칭 도로 (5u)",
 
   "SubServices.NAME[RoadsXLRoad]": "특수도로",
   "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "특수도로",
@@ -125,14 +125,14 @@
   "Assets.NAME[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "4차선 도로 및 4차선 분리도로 (6u)",
   "Assets.DESCRIPTION[MM_XL_Road_4_Lanes_4_Sub_Lanes_6u]": "4차선 대형도로 및 4차선 분리도로 (6u)",
   
-  "Assets.NAME[MM_ShiftLeftTurn_4_2_4u]": "왼쪽 이동 좌회전 도로 4+2차선 (4u)",
-  "Assets.DESCRIPTION[MM_ShiftLeftTurn_4_2_4u]": "왼쪽 이동 좌회전 도로: 왼쪽 차선은 좌회전 전용, 오른쪽 중간 차선은 통과 교통 전용, 맨 오른쪽 차선은 우회전 전용으로 지정함으로써 일반적으로 기존 교차로에 비해 효율성이 높습니다.",
+  "Assets.NAME[MM_ShiftLeftTurn_4_2_4u]": "좌회전 도로 4+2차선 (4u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_4_2_4u]": "좌회전 도로: 왼쪽 차선은 좌회전 전용, 오른쪽 중간 차선은 통과 교통 전용, 맨 오른쪽 차선은 우회전 전용으로 지정함으로써 일반적으로 기존 교차로에 비해 효율성이 높습니다.",
 
-  "Assets.NAME[MM_ShiftLeftTurn_6_3_5u]": "왼쪽 이동 좌회전 도로 6+3차선 (5u)",
-  "Assets.DESCRIPTION[MM_ShiftLeftTurn_6_3_5u]": "왼쪽 이동 좌회전 도로: 왼쪽 차선은 좌회전 전용, 오른쪽 중간 차선은 통과 교통 전용, 맨 오른쪽 차선은 우회전 전용으로 지정함으로써 일반적으로 기존 교차로에 비해 효율성이 높습니다.",
+  "Assets.NAME[MM_ShiftLeftTurn_6_3_5u]": "좌회전 도로 6+3차선 (5u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_6_3_5u]": "좌회전 도로: 왼쪽 차선은 좌회전 전용, 오른쪽 중간 차선은 통과 교통 전용, 맨 오른쪽 차선은 우회전 전용으로 지정함으로써 일반적으로 기존 교차로에 비해 효율성이 높습니다.",
 
-  "Assets.NAME[MM_ShiftLeftTurn_8_4_6u]": "왼쪽 이동 좌회전 도로 8+4차선 (6u)",
-  "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "왼쪽 이동 좌회전 도로: 왼쪽 차선은 좌회전 전용, 오른쪽 중간 차선은 통과 교통 전용, 맨 오른쪽 차선은 우회전 전용으로 지정함으로써 일반적으로 기존 교차로에 비해 효율성이 높습니다.",
+  "Assets.NAME[MM_ShiftLeftTurn_8_4_6u]": "좌회전 도로 8+4차선 (6u)",
+  "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "좌회전 도로: 왼쪽 차선은 좌회전 전용, 오른쪽 중간 차선은 통과 교통 전용, 맨 오른쪽 차선은 우회전 전용으로 지정함으로써 일반적으로 기존 교차로에 비해 효율성이 높습니다.",
 
   "Assets.NAME[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "3/2 비대칭 분할 고속도로",
   "Assets.DESCRIPTION[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "3/2 비대칭 분할 고속도로",
@@ -140,11 +140,11 @@
   "Assets.NAME[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "4/3 비대칭 분할 고속도로",
   "Assets.DESCRIPTION[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "4/3 비대칭 분할 고속도로",
 
-  "Assets.NAME[MM_Large_Road_6_Lane]": "6차선 대형 도로 (3u)",
-  "Assets.DESCRIPTION[MM_Large_Road_6_Lane]": "6차선 대형 도로 (3u)",
+  "Assets.NAME[MM_Large_Road_6_Lane]": "6차선 도로 (3u)",
+  "Assets.DESCRIPTION[MM_Large_Road_6_Lane]": "6차선 도로 (3u)",
 
-  "Assets.NAME[MM_Medium_Road_4_Lane]": "4차선 중형 도로 (2u)",
-  "Assets.DESCRIPTION[MM_Medium_Road_4_Lane]": "4차선 중형 도로 (2u)",
+  "Assets.NAME[MM_Medium_Road_4_Lane]": "4차선 도로 (2u)",
+  "Assets.DESCRIPTION[MM_Medium_Road_4_Lane]": "4차선 도로 (2u)",
 
   "Assets.NAME[MM_Small_Road_Divided]": "2차선 분리 도로 (2u)",
   "Assets.DESCRIPTION[MM_Small_Road_Divided]": "넓은 보도로 업그레이드 가능",
@@ -152,49 +152,48 @@
   "Assets.NAME[MM_Narrow_Seaway_Oneway]": "좁은 일방통행 해로",
   "Assets.DESCRIPTION[MM_Narrow_Seaway_Oneway]": "좁은 일방통행 항로",
 
-  
-  "Assets.NAME[MM_Large_Road_6lanes]": "Large Road 6 lanes",
-  "Assets.DESCRIPTION[MM_Large_Road_6lanes]": "Large Road 6 lanes",
+  "Assets.NAME[MM_Large_Road_6lanes]": "6차선 도로",
+  "Assets.DESCRIPTION[MM_Large_Road_6lanes]": "6차선 도로",
 
-  "Assets.NAME[MM_Large_Road_9lanes_5_4]": "Large Road 9 Lanes Asymmetric 5/4",
-  "Assets.DESCRIPTION[MM_Large_Road_9lanes_5_4]": "Large Road 9 Lanes Asymmetric 5/4",
+  "Assets.NAME[MM_Large_Road_9lanes_5_4]": "9차선 비대칭 5/4 도로",
+  "Assets.DESCRIPTION[MM_Large_Road_9lanes_5_4]": "9차선 비대칭 5/4 도로",
 
-  "Assets.NAME[MM_Small_Road_1lanes]": "Small Road 1 Lane",
-  "Assets.DESCRIPTION[MM_Small_Road_1lanes]": "Small Road 1 Lane",
+  "Assets.NAME[MM_Small_Road_1lanes]": "1차선 일방통행 도로",
+  "Assets.DESCRIPTION[MM_Small_Road_1lanes]": "1차선 일방통행 도로",
 
-  "Assets.NAME[MM_Medium_Road_4lanes]": "Medium Road 4 Lanes (3u)",
-  "Assets.DESCRIPTION[MM_Medium_Road_4lanes]": "Medium Road 4 Lanes (3u)",
+  "Assets.NAME[MM_Medium_Road_4lanes]": "4차선 도로 (3u)",
+  "Assets.DESCRIPTION[MM_Medium_Road_4lanes]": "4차선 도로 (3u)",
 
-  "Assets.NAME[MM_XL_Road_8lanes]": "XL Road 8 Lanes",
-  "Assets.DESCRIPTION[MM_XL_Road_8lanes]": "XL Road 8 Lanes",
+  "Assets.NAME[MM_XL_Road_8lanes]": "8차선 도로",
+  "Assets.DESCRIPTION[MM_XL_Road_8lanes]": "8차선 도로",
 
-  "Assets.NAME[MM_busStopClose]": "mio bus stop",
-  "Assets.DESCRIPTION[MM_busStopClose]": "mio bus stop",
+  "Assets.NAME[MM_busStopClose]": "Mio 버스 정류장",
+  "Assets.DESCRIPTION[MM_busStopClose]": "Mio 버스 정류장",
 
-  "Assets.NAME[MM_remove_side]": "Remove sidewalks",
-  "Assets.DESCRIPTION[MM_remove_side]": "Remove sidewalks",
+  "Assets.NAME[MM_remove_side]": "보도 삭제",
+  "Assets.DESCRIPTION[MM_remove_side]": "보도 삭제",
 
-  "Assets.NAME[MM_switch_med]": "switch Medium",
-  "Assets.DESCRIPTION[MM_switch_med]": "switch Medium",
+  "Assets.NAME[MM_switch_med]": "중앙 분리대 토글",
+  "Assets.DESCRIPTION[MM_switch_med]": "중앙 분리대 토글",
 
-  "SubServices.NAME[RoadsMioHighways]": "Highways",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioHighways]": "Highways",
+  "SubServices.NAME[RoadsMioHighways]": "고속도로",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioHighways]": "고속도로",
 
-  "SubServices.NAME[RoadsMioLargeRoads]": "Large Roads",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioLargeRoads]": "Large Roads",
+  "SubServices.NAME[RoadsMioLargeRoads]": "큰 도로",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioLargeRoads]": "큰 도로",
 
-  "SubServices.NAME[RoadsMioMedRoads]": "Medium Roads",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioMedRoads]": "Medium Roads",
+  "SubServices.NAME[RoadsMioMedRoads]": "중간 도로",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioMedRoads]": "중간 도로",
 
-  "SubServices.NAME[RoadsMioRoadsObject]": "Road Objects",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioRoadsObject]": "Road Objects",
+  "SubServices.NAME[RoadsMioRoadsObject]": "도로 개체",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioRoadsObject]": "도로 개체",
 
-  "SubServices.NAME[RoadsMioRoadsUpgrade]": "Road Upgrades",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioRoadsUpgrade]": "Road Upgrades",
+  "SubServices.NAME[RoadsMioRoadsUpgrade]": "도로 업그레이드",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioRoadsUpgrade]": "도로 업그레이드",
 
-  "SubServices.NAME[RoadsMioSmallRoads]": "Small Roads",
-  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioSmallRoads]": "Small Roads",
+  "SubServices.NAME[RoadsMioSmallRoads]": "작은 도로",
+  "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioSmallRoads]": "작은 도로",
 
-  "Services.NAME[mioRoadAssetPack]": "Mio Road AssetPack",
-  "Services.DESCRIPTION[mioRoadAssetPack]": "Mio Road AssetPack"
+  "Services.NAME[mioRoadAssetPack]": "Mio 도로 자원팩",
+  "Services.DESCRIPTION[mioRoadAssetPack]": "Mio 도로 자원팩"
 }
