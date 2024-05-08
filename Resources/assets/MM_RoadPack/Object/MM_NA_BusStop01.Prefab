@@ -117,20 +117,27 @@
                 "$type": "13|Game.Prefabs.NetObject, Game",
                 "name": "NetObject",
                 "active": true,
-                "m_SetCompositionState": null,
+                "m_SetCompositionState": {
+                    "$id": 14,
+                    "$type": "14|Game.Prefabs.NetPieceRequirements[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        40
+                    ]
+                },
                 "m_RequireRoad": 0,
                 "m_TrackPassThrough": 0
             }
         ]
     },
     "m_Meshes": {
-        "$id": 14,
-        "$type": "14|Game.Prefabs.ObjectMeshInfo[], Game",
+        "$id": 15,
+        "$type": "15|Game.Prefabs.ObjectMeshInfo[], Game",
         "$rlength": 1,
         "$rcontent": [
             {
-                "$id": 15,
-                "$type": "15|Game.Prefabs.ObjectMeshInfo, Game",
+                "$id": 16,
+                "$type": "16|Game.Prefabs.ObjectMeshInfo, Game",
                 "m_Mesh": $fstrref:"UnityGUID:0431398ddc4b5694ba5cd1716be35eb7",
                 "m_Position": {
                     "$type": 9,
@@ -139,9 +146,9 @@
                     "z": 0
                 },
                 "m_Rotation": {
-                    "$type": "16|Unity.Mathematics.quaternion, Unity.Mathematics",
+                    "$type": "17|Unity.Mathematics.quaternion, Unity.Mathematics",
                     "value": {
-                        "$type": "17|Unity.Mathematics.float4, Unity.Mathematics",
+                        "$type": "18|Unity.Mathematics.float4, Unity.Mathematics",
                         "x": 0,
                         "y": 0,
                         "z": 0,

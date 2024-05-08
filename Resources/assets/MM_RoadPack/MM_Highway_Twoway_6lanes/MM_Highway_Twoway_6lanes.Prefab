@@ -957,7 +957,7 @@
     "m_NodeStates": {
         "$id": 106,
         "$type": "22|Game.Prefabs.NetNodeStateInfo[], Game",
-        "$rlength": 1,
+        "$rlength": 2,
         "$rcontent": [
             {
                 "$id": 107,
@@ -992,6 +992,41 @@
                     ]
                 },
                 "m_MatchType": 0
+            },
+            {
+                "$id": 112,
+                "$type": 23,
+                "m_RequireAll": {
+                    "$id": 113,
+                    "$type": 18,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        17
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 114,
+                    "$type": 18,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 115,
+                    "$type": 18,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_SetState": {
+                    "$id": 116,
+                    "$type": 18,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        1
+                    ]
+                },
+                "m_MatchType": 1
             }
         ]
     },

@@ -42,7 +42,7 @@
                     ]
                 },
                 "m_Standalone": false,
-                "m_Underground": false
+                "m_Underground": true
             },
             {
                 "$id": 7,

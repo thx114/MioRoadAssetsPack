@@ -267,20 +267,27 @@
                 "$type": "22|Game.Prefabs.NetObject, Game",
                 "name": "NetObject",
                 "active": true,
-                "m_SetCompositionState": null,
+                "m_SetCompositionState": {
+                    "$id": 24,
+                    "$type": "23|Game.Prefabs.NetPieceRequirements[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        40
+                    ]
+                },
                 "m_RequireRoad": 0,
                 "m_TrackPassThrough": 0
             }
         ]
     },
     "m_Meshes": {
-        "$id": 24,
-        "$type": "23|Game.Prefabs.ObjectMeshInfo[], Game",
+        "$id": 25,
+        "$type": "24|Game.Prefabs.ObjectMeshInfo[], Game",
         "$rlength": 1,
         "$rcontent": [
             {
-                "$id": 25,
-                "$type": "24|Game.Prefabs.ObjectMeshInfo, Game",
+                "$id": 26,
+                "$type": "25|Game.Prefabs.ObjectMeshInfo, Game",
                 "m_Mesh": $fstrref:"UnityGUID:c1cf5c0b8022a5f4990f29d5ffef4580",
                 "m_Position": {
                     "$type": 10,

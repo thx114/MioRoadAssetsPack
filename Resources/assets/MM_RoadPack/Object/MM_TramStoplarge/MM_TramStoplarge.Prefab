@@ -6,7 +6,7 @@
     "components": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
-        "$rlength": 9,
+        "$rlength": 8,
         "$rcontent": [
             {
                 "$id": 2,
@@ -72,30 +72,11 @@
             },
             {
                 "$id": 8,
-                "$type": "8|Game.Prefabs.ObsoleteIdentifiers, Game",
-                "name": "ObsoleteIdentifiers",
-                "active": true,
-                "m_PrefabIdentifiers": {
-                    "$id": 9,
-                    "$type": "9|Game.Prefabs.PrefabIdentifierInfo[], Game",
-                    "$rlength": 1,
-                    "$rcontent": [
-                        {
-                            "$id": 10,
-                            "$type": "10|Game.Prefabs.PrefabIdentifierInfo, Game",
-                            "m_Name": "Tram Stop",
-                            "m_Type": "StaticObjectPrefab"
-                        }
-                    ]
-                }
-            },
-            {
-                "$id": 11,
-                "$type": "11|Game.Prefabs.StandingObject, Game",
+                "$type": "8|Game.Prefabs.StandingObject, Game",
                 "name": "StandingObject",
                 "active": true,
                 "m_LegSize": {
-                    "$type": "12|Unity.Mathematics.float3, Unity.Mathematics",
+                    "$type": "9|Unity.Mathematics.float3, Unity.Mathematics",
                     "x": 0.1,
                     "y": 2.4,
                     "z": 0.1
@@ -103,13 +84,13 @@
                 "m_CircularLeg": false
             },
             {
-                "$id": 12,
-                "$type": "13|Game.Prefabs.Unlockable, Game",
+                "$id": 9,
+                "$type": "10|Game.Prefabs.Unlockable, Game",
                 "name": "Unlockable",
                 "active": true,
                 "m_RequireAll": {
-                    "$id": 13,
-                    "$type": "14|Game.Prefabs.PrefabBase[], Game",
+                    "$id": 10,
+                    "$type": "11|Game.Prefabs.PrefabBase[], Game",
                     "$rlength": 3,
                     "$rcontent": [
                         $fstrref:"UnityGUID:9b6a0981f63501d48bc6be17208739dc",
@@ -118,8 +99,8 @@
                     ]
                 },
                 "m_RequireAny": {
-                    "$id": 14,
-                    "$type": 14,
+                    "$id": 11,
+                    "$type": 11,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
@@ -127,13 +108,13 @@
                 "m_IgnoreDependencies": false
             },
             {
-                "$id": 15,
-                "$type": "15|Game.Prefabs.UnlockOnBuild, Game",
+                "$id": 12,
+                "$type": "12|Game.Prefabs.UnlockOnBuild, Game",
                 "name": "UnlockOnBuild",
                 "active": true,
                 "m_Unlocks": {
-                    "$id": 16,
-                    "$type": "16|Game.Prefabs.ObjectBuiltRequirementPrefab[], Game",
+                    "$id": 13,
+                    "$type": "13|Game.Prefabs.ObjectBuiltRequirementPrefab[], Game",
                     "$rlength": 1,
                     "$rcontent": [
                         $fstrref:"UnityGUID:548deae2166076b4fa16c6c488963317"
@@ -143,24 +124,24 @@
         ]
     },
     "m_Meshes": {
-        "$id": 17,
-        "$type": "17|Game.Prefabs.ObjectMeshInfo[], Game",
+        "$id": 14,
+        "$type": "14|Game.Prefabs.ObjectMeshInfo[], Game",
         "$rlength": 1,
         "$rcontent": [
             {
-                "$id": 18,
-                "$type": "18|Game.Prefabs.ObjectMeshInfo, Game",
+                "$id": 15,
+                "$type": "15|Game.Prefabs.ObjectMeshInfo, Game",
                 "m_Mesh": $fstrref:"UnityGUID:b62d841a0c18fa043aa63fceb7cfc497",
                 "m_Position": {
-                    "$type": 12,
+                    "$type": 9,
                     "x": 4.25,
                     "y": -0.4,
                     "z": 25
                 },
                 "m_Rotation": {
-                    "$type": "19|Unity.Mathematics.quaternion, Unity.Mathematics",
+                    "$type": "16|Unity.Mathematics.quaternion, Unity.Mathematics",
                     "value": {
-                        "$type": "20|Unity.Mathematics.float4, Unity.Mathematics",
+                        "$type": "17|Unity.Mathematics.float4, Unity.Mathematics",
                         "x": 0,
                         "y": 0,
                         "z": 0,

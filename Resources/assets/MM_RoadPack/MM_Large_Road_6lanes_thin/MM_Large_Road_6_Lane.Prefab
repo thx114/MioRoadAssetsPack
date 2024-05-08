@@ -484,7 +484,7 @@
                             "m_Median": false,
                             "m_Offset": {
                                 "$type": 5,
-                                "x": 0.4,
+                                "x": 0.75,
                                 "y": 0,
                                 "z": 0
                             }

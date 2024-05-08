@@ -416,7 +416,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:f54231b79471be6f3bc2fa389838c7d0",
                 "m_Priority": 54,
-                "m_Icon": "coui://customassets/MM_RoadPack/MM_XL_Road_6lanes_4SubLanes/i.svg",
+                "m_Icon": "coui://customassets/MM_RoadPack/MM_XL_Road_8lanes_4SubLanes/i.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },

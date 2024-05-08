@@ -407,7 +407,7 @@
     "m_Sections": {
         "$id": 43,
         "$type": 16,
-        "$rlength": 13,
+        "$rlength": 15,
         "$rcontent": [
             {
                 "$id": 44,
@@ -622,7 +622,7 @@
                 "m_Median": false,
                 "m_Offset": {
                     "$type": 5,
-                    "x": 0,
+                    "x": -0.001,
                     "y": 0,
                     "z": 0
                 }
@@ -630,7 +630,7 @@
             {
                 "$id": 68,
                 "$type": 17,
-                "m_Section": $fstrref:"CID:f3779198275e91f306822d85efa30b65",
+                "m_Section": $fstrref:"UnityGUID:9c06c8c6137c2674c9e5e648ee1420c5",
                 "m_RequireAll": {
                     "$id": 69,
                     "$type": 18,
@@ -665,12 +665,13 @@
             {
                 "$id": 72,
                 "$type": 17,
-                "m_Section": $fstrref:"CID:0433b6d1d32f3a3cb0a35cf6d76b088e",
+                "m_Section": $fstrref:"CID:ceb717169bdc7f06a2b84c32aafd115a",
                 "m_RequireAll": {
                     "$id": 73,
                     "$type": 18,
-                    "$rlength": 0,
+                    "$rlength": 1,
                     "$rcontent": [
+                        17
                     ]
                 },
                 "m_RequireAny": {
@@ -683,14 +684,13 @@
                 "m_RequireNone": {
                     "$id": 75,
                     "$type": 18,
-                    "$rlength": 1,
+                    "$rlength": 0,
                     "$rcontent": [
-                        26
                     ]
                 },
                 "m_Invert": false,
                 "m_Flip": false,
-                "m_Median": false,
+                "m_Median": true,
                 "m_Offset": {
                     "$type": 5,
                     "x": 0,
@@ -701,7 +701,7 @@
             {
                 "$id": 76,
                 "$type": 17,
-                "m_Section": $fstrref:"CID:61e491f6f9bb8d44d6fa2202aa2a02a7",
+                "m_Section": $fstrref:"CID:f3779198275e91f306822d85efa30b65",
                 "m_RequireAll": {
                     "$id": 77,
                     "$type": 18,
@@ -719,9 +719,8 @@
                 "m_RequireNone": {
                     "$id": 79,
                     "$type": 18,
-                    "$rlength": 1,
+                    "$rlength": 0,
                     "$rcontent": [
-                        26
                     ]
                 },
                 "m_Invert": false,
@@ -729,7 +728,7 @@
                 "m_Median": false,
                 "m_Offset": {
                     "$type": 5,
-                    "x": 0,
+                    "x": 0.001,
                     "y": 0,
                     "z": 0
                 }
@@ -737,14 +736,12 @@
             {
                 "$id": 80,
                 "$type": 17,
-                "m_Section": $fstrref:"CID:40fb9e4014fcf3b024d8fe6b189a9d57",
+                "m_Section": $fstrref:"CID:0433b6d1d32f3a3cb0a35cf6d76b088e",
                 "m_RequireAll": {
                     "$id": 81,
                     "$type": 18,
-                    "$rlength": 2,
+                    "$rlength": 0,
                     "$rcontent": [
-                        0,
-                        26
                     ]
                 },
                 "m_RequireAny": {
@@ -757,8 +754,9 @@
                 "m_RequireNone": {
                     "$id": 83,
                     "$type": 18,
-                    "$rlength": 0,
+                    "$rlength": 1,
                     "$rcontent": [
+                        26
                     ]
                 },
                 "m_Invert": false,
@@ -774,14 +772,12 @@
             {
                 "$id": 84,
                 "$type": 17,
-                "m_Section": $fstrref:"CID:27169b144f1d352027e4710c5eb4be26",
+                "m_Section": $fstrref:"CID:61e491f6f9bb8d44d6fa2202aa2a02a7",
                 "m_RequireAll": {
                     "$id": 85,
                     "$type": 18,
-                    "$rlength": 2,
+                    "$rlength": 0,
                     "$rcontent": [
-                        0,
-                        26
                     ]
                 },
                 "m_RequireAny": {
@@ -794,8 +790,9 @@
                 "m_RequireNone": {
                     "$id": 87,
                     "$type": 18,
-                    "$rlength": 0,
+                    "$rlength": 1,
                     "$rcontent": [
+                        26
                     ]
                 },
                 "m_Invert": false,
@@ -811,12 +808,13 @@
             {
                 "$id": 88,
                 "$type": 17,
-                "m_Section": $fstrref:"CID:0433b6d1d32f3a3cb0a35cf6d76b088e",
+                "m_Section": $fstrref:"CID:40fb9e4014fcf3b024d8fe6b189a9d57",
                 "m_RequireAll": {
                     "$id": 89,
                     "$type": 18,
-                    "$rlength": 1,
+                    "$rlength": 2,
                     "$rcontent": [
+                        0,
                         26
                     ]
                 },
@@ -830,9 +828,8 @@
                 "m_RequireNone": {
                     "$id": 91,
                     "$type": 18,
-                    "$rlength": 1,
+                    "$rlength": 0,
                     "$rcontent": [
-                        0
                     ]
                 },
                 "m_Invert": false,
@@ -848,12 +845,14 @@
             {
                 "$id": 92,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:efe91204fbfced94ea63c05f99c81e1c",
+                "m_Section": $fstrref:"CID:27169b144f1d352027e4710c5eb4be26",
                 "m_RequireAll": {
                     "$id": 93,
                     "$type": 18,
-                    "$rlength": 0,
+                    "$rlength": 2,
                     "$rcontent": [
+                        0,
+                        26
                     ]
                 },
                 "m_RequireAny": {
@@ -879,40 +878,112 @@
                     "y": 0,
                     "z": 0
                 }
-            }
-        ]
-    },
-    "m_EdgeStates": {
-        "$id": 96,
-        "$type": "21|Game.Prefabs.NetEdgeStateInfo[], Game",
-        "$rlength": 1,
-        "$rcontent": [
+            },
             {
-                "$id": 97,
-                "$type": "22|Game.Prefabs.NetEdgeStateInfo, Game",
+                "$id": 96,
+                "$type": 17,
+                "m_Section": $fstrref:"CID:0433b6d1d32f3a3cb0a35cf6d76b088e",
                 "m_RequireAll": {
+                    "$id": 97,
+                    "$type": 18,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        26
+                    ]
+                },
+                "m_RequireAny": {
                     "$id": 98,
                     "$type": 18,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
-                "m_RequireAny": {
+                "m_RequireNone": {
                     "$id": 99,
+                    "$type": 18,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "$id": 100,
+                "$type": 17,
+                "m_Section": $fstrref:"UnityGUID:efe91204fbfced94ea63c05f99c81e1c",
+                "m_RequireAll": {
+                    "$id": 101,
+                    "$type": 18,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 102,
                     "$type": 18,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_RequireNone": {
-                    "$id": 100,
+                    "$id": 103,
+                    "$type": 18,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_Invert": false,
+                "m_Flip": false,
+                "m_Median": false,
+                "m_Offset": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    "m_EdgeStates": {
+        "$id": 104,
+        "$type": "21|Game.Prefabs.NetEdgeStateInfo[], Game",
+        "$rlength": 1,
+        "$rcontent": [
+            {
+                "$id": 105,
+                "$type": "22|Game.Prefabs.NetEdgeStateInfo, Game",
+                "m_RequireAll": {
+                    "$id": 106,
+                    "$type": 18,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 107,
+                    "$type": 18,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 108,
                     "$type": 18,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_SetState": {
-                    "$id": 101,
+                    "$id": 109,
                     "$type": 18,
                     "$rlength": 1,
                     "$rcontent": [
@@ -923,36 +994,36 @@
         ]
     },
     "m_NodeStates": {
-        "$id": 102,
+        "$id": 110,
         "$type": "23|Game.Prefabs.NetNodeStateInfo[], Game",
-        "$rlength": 1,
+        "$rlength": 2,
         "$rcontent": [
             {
-                "$id": 103,
+                "$id": 111,
                 "$type": "24|Game.Prefabs.NetNodeStateInfo, Game",
                 "m_RequireAll": {
-                    "$id": 104,
+                    "$id": 112,
                     "$type": 18,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_RequireAny": {
-                    "$id": 105,
+                    "$id": 113,
                     "$type": 18,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_RequireNone": {
-                    "$id": 106,
+                    "$id": 114,
                     "$type": 18,
                     "$rlength": 0,
                     "$rcontent": [
                     ]
                 },
                 "m_SetState": {
-                    "$id": 107,
+                    "$id": 115,
                     "$type": 18,
                     "$rlength": 1,
                     "$rcontent": [
@@ -960,6 +1031,41 @@
                     ]
                 },
                 "m_MatchType": 0
+            },
+            {
+                "$id": 116,
+                "$type": 24,
+                "m_RequireAll": {
+                    "$id": 117,
+                    "$type": 18,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        17
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 118,
+                    "$type": 18,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 119,
+                    "$type": 18,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_SetState": {
+                    "$id": 120,
+                    "$type": 18,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        1
+                    ]
+                },
+                "m_MatchType": 1
             }
         ]
     },

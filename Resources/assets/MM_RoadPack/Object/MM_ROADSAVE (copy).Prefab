@@ -1,0 +1,93 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.BuildingPrefab, Game",
+    "name": "MM_ROADSAVE (copy)",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 1,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.Unlockable, Game",
+                "name": "Unlockable",
+                "active": true,
+                "m_RequireAll": {
+                    "$id": 3,
+                    "$type": "3|Game.Prefabs.PrefabBase[], Game",
+                    "$rlength": 26,
+                    "$rcontent": [
+                        $fstrref:"CID:22435a09f78c49fbd42802776e6bb772",
+                        $fstrref:"CID:d2a3a0b2f2c20ff2a5740dcc852c8c26",
+                        $fstrref:"CID:464dfcfb64082b9fcd5dba5eaed18206",
+                        $fstrref:"CID:f43c9f7c273e37fcbde59e40ee401deb",
+                        $fstrref:"CID:cea0324766f39df26911bd3b3181547c",
+                        $fstrref:"CID:404a090b81d812f11ba0ba8cb6d49392",
+                        $fstrref:"CID:7d2baaca657ef09fcde6092650c3da37",
+                        $fstrref:"CID:535f25549b4a14aad71e5ce646a927f9",
+                        $fstrref:"CID:0ca7a31d2542039867ee46bb752a402a",
+                        $fstrref:"CID:8ea6f6858c1d24ceea4a5c04bee6832a",
+                        $fstrref:"CID:87e628b51f93dee26cfb53a4ba0f4e91",
+                        $fstrref:"CID:a8fa08297607fcd1bd7ae1f5ef4d68f5",
+                        $fstrref:"CID:e3d9659a4bb327ba3a2b4427d995b1d8",
+                        $fstrref:"CID:cefe3e432a29b3edc897f099f2d4fd96",
+                        $fstrref:"CID:30f33aaa43569c241fc7ae6873b565fc",
+                        $fstrref:"CID:c9c980ba973441fdfeaea12f5ba0cfb4",
+                        $fstrref:"CID:bf07071633eb21944907621258ff1a44",
+                        $fstrref:"CID:ead860acead40bef78af4ba58f20ce07",
+                        $fstrref:"CID:22435a09f78c49fbd42802776e6bb773",
+                        $fstrref:"CID:464dfcfb64082b9fcd5dba5eaed18207",
+                        $fstrref:"CID:cea0324766f39df26911bd3b3181547d",
+                        $fstrref:"CID:404a090b81d812f11ba0ba8cb6d49393",
+                        $fstrref:"CID:4bb23be011213b1221b7290524dfc30a",
+                        $fstrref:"CID:26a14abc6ca17909eae904b956110fb2",
+                        $fstrref:"CID:4d9452b30c8a0f8a5e1e00cba13b20b3",
+                        $fstrref:"CID:5dda2059def5d722e9478279c22922a5"
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 4,
+                    "$type": 3,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_IgnoreDependencies": false
+            }
+        ]
+    },
+    "m_Meshes": {
+        "$id": 5,
+        "$type": "4|Game.Prefabs.ObjectMeshInfo[], Game",
+        "$rlength": 1,
+        "$rcontent": [
+            {
+                "$id": 6,
+                "$type": "5|Game.Prefabs.ObjectMeshInfo, Game",
+                "m_Mesh": $fstrref:"UnityGUID:738e42a03b5c9234597b2a08e67cd81e",
+                "m_Position": {
+                    "$type": "6|Unity.Mathematics.float3, Unity.Mathematics",
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "m_Rotation": {
+                    "$type": "7|Unity.Mathematics.quaternion, Unity.Mathematics",
+                    "value": {
+                        "$type": "8|Unity.Mathematics.float4, Unity.Mathematics",
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    }
+                },
+                "m_RequireState": 0
+            }
+        ]
+    },
+    "m_Circular": true,
+    "m_AccessType": 0,
+    "m_LotWidth": 9,
+    "m_LotDepth": 9
+}

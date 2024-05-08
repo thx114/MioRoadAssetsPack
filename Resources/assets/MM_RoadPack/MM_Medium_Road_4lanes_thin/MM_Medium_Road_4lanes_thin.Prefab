@@ -484,7 +484,7 @@
                             "m_Median": false,
                             "m_Offset": {
                                 "$type": 5,
-                                "x": 0.75,
+                                "x": 1.2,
                                 "y": 0,
                                 "z": 0
                             }
@@ -520,7 +520,7 @@
                             "m_Median": false,
                             "m_Offset": {
                                 "$type": 5,
-                                "x": 0,
+                                "x": 0.7,
                                 "y": 0,
                                 "z": 0
                             }
@@ -564,7 +564,7 @@
                         {
                             "$id": 62,
                             "$type": 15,
-                            "m_Section": $fstrref:"UnityGUID:9c06c8c6137c2674c9e5e648ee1420c5",
+                            "m_Section": $fstrref:"CID:f8cb2d28f7f8c3badc1853308206cc7f",
                             "m_RequireAll": {
                                 "$id": 63,
                                 "$type": 9,
@@ -593,7 +593,7 @@
                             "m_Offset": {
                                 "$type": 5,
                                 "x": 0,
-                                "y": 0,
+                                "y": -0.3,
                                 "z": 0
                             }
                         },
@@ -700,7 +700,7 @@
                             "m_Median": false,
                             "m_Offset": {
                                 "$type": 5,
-                                "x": 0,
+                                "x": -0.7,
                                 "y": 0,
                                 "z": 0
                             }
@@ -736,7 +736,7 @@
                             "m_Median": false,
                             "m_Offset": {
                                 "$type": 5,
-                                "x": -0.75,
+                                "x": -1.2,
                                 "y": 0,
                                 "z": 0
                             }

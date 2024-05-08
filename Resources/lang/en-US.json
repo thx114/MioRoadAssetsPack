@@ -218,9 +218,9 @@
   "Assets.NAME[MM_TramStoplarge]": "Tram Stop large",
   "Assets.DESCRIPTION[MM_TramStoplarge]": "Tram Stop large",
 
-  "Assets.NAME[MM_Highway_Twoway_9lanes]": "Highway 9 Lanes 5/3 Asymmetric",
+  "Assets.NAME[MM_Highway_Twoway_9lanes]": "Highway Twoway 9 Lanes 5/3 Asymmetric",
   "Assets.DESCRIPTION[MM_Highway_Twoway_9lanes]": "Highway Asymmetric 5/3",
 
-  "Assets.NAME[MM_Highway_Twoway_10lanes]": "Highway Twoway 10 Lanes",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_10lanes]": "Highway Twoway 10 Lanes"
+  "Assets.NAME[MM_Highway_10lanes]": "Highway Twoway 10 Lanes",
+  "Assets.DESCRIPTION[MM_Highway_10lanes]": "Highway Twoway 10 Lanes"
 }

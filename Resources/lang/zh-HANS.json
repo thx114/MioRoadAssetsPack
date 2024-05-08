@@ -1,18 +1,18 @@
 {
-  "Assets.NAME[MM_Alley_Oneway_1lanes]": "单向 1车道 巷道 (0.6u)",
-  "Assets.DESCRIPTION[MM_Alley_Oneway_1lanes]": "单向 1车道 巷道 (0.6u)",
+  "Assets.NAME[MM_Alley_Oneway_1_Lanes_0.6u]": "单向 1车道 巷道 (0.6u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_1_Lanes_0.6u]": "单向 1车道 巷道 (0.6u)",
 
-  "Assets.NAME[MM_Alley_Oneway_2lanes]": "单向 2车道 巷道 (1u)",
-  "Assets.DESCRIPTION[MM_Alley_Oneway_2lanes]": "单向 2车道 巷道 (1u)",
+  "Assets.NAME[MM_Alley_Oneway_2_Lanes_1u]": "单向 2车道 巷道 (1u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_2_Lanes_1u]": "单向 2车道 巷道 (1u)",
 
-  "Assets.NAME[MM_Alley_Oneway_3lanes]": "单向 3车道 巷道 (1.4u)",
-  "Assets.DESCRIPTION[MM_Alley_Oneway_3lanes]": "单向 3车道 巷道 (1.4u)",
+  "Assets.NAME[MM_Alley_Oneway_3_Lanes_1.4u]": "单向 3车道 巷道 (1.4u)",
+  "Assets.DESCRIPTION[MM_Alley_Oneway_3_Lanes_1.4u]": "单向 3车道 巷道 (1.4u)",
 
-  "Assets.NAME[MM_Highway_6_Lanes_Divided_4u]": "6车道 分隔式高速 (4u)",
-  "Assets.DESCRIPTION[MM_Highway_6_Lanes_Divided_4u]": "6车道 分隔式高速 (4u)",
+  "Assets.NAME[MM_Highway_6_Lanes_Divided_4u]": "6车道 高速 (4u)",
+  "Assets.DESCRIPTION[MM_Highway_6_Lanes_Divided_4u]": "6车道 高速 (4u)",
 
-  "Assets.NAME[MM_Highway_8_Lanes_Divided_5u]": "8车道 分隔式高速 (5u)",
-  "Assets.DESCRIPTION[MM_Highway_8_Lanes_Divided_5u]": "8车道 分隔式高速 (5u)",
+  "Assets.NAME[MM_Highway_8_Lanes_Divided_5u]": "8车道 高速 (5u)",
+  "Assets.DESCRIPTION[MM_Highway_8_Lanes_Divided_5u]": "8车道 高速 (5u)",
 
   "Assets.NAME[MM_Highway_Oneway_6_Lanes_3.5u]": "单向 6车道 高速 (3.5u)",
   "Assets.DESCRIPTION[MM_Highway_Oneway_6_Lanes_3.5u]": "单向 6车道 高速 (3.5u)",
@@ -32,11 +32,11 @@
   "Assets.NAME[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "8车道+4辅路 道路 (7u)",
   "Assets.DESCRIPTION[MM_XL_Road_8_Lanes_4_Sub_Lanes_7u]": "8车道+4辅路 (7u) ,可以使用树木升级",
 
-  "Assets.NAME[MM_XL_Road_10_Lanes_Divided_5u]": "10车道 分隔式道路 (5u)",
-  "Assets.DESCRIPTION[MM_XL_Road_10_Lanes_Divided_5u]": "10车道 分隔式道路 (5u)",
+  "Assets.NAME[MM_XL_Road_10_Lanes_Divided_5u]": "10车道 道路 (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_10_Lanes_Divided_5u]": "10车道 道路 (5u)",
 
-  "Assets.NAME[MM_XL_Road_14_Lanes_Divided_7u]": "14车道 分隔式道路 (7u)",
-  "Assets.DESCRIPTION[MM_XL_Road_14_Lanes_Divided_7u]": "14车道 分隔式道路 (7u) ,可以使用树木升级",
+  "Assets.NAME[MM_XL_Road_14_Lanes_Divided_7u]": "14车道 道路 (7u)",
+  "Assets.DESCRIPTION[MM_XL_Road_14_Lanes_Divided_7u]": "14车道 道路 (7u) ,可以使用树木升级",
 
   "Assets.NAME[MM_Pedestrian_Street_1u]": "人行路 (1u)",
   "Assets.DESCRIPTION[MM_Pedestrian_Street_1u]": "人行路 (1u)",
@@ -62,8 +62,8 @@
   "Assets.NAME[MM_Subway_Outside_Connection_-_Twoway]": "地铁外部连接 - 双向",
   "Assets.DESCRIPTION[MM_Subway_Outside_Connection_-_Twoway]": "地铁外部连接 - 双向",
 
-  "Assets.NAME[MM_Large_Road_8_Lane_Divided_4u]": "8车道 分隔式道路 (4u)",
-  "Assets.DESCRIPTION[MM_Large_Road_8_Lane_Divided_4u]": "8车道 分隔式道路 (4u)",
+  "Assets.NAME[MM_Large_Road_8_Lane_Divided_4u]": "8车道 道路 - 细 (4u)",
+  "Assets.DESCRIPTION[MM_Large_Road_8_Lane_Divided_4u]": "8车道 道路 - 细 (4u)",
 
   "Assets.NAME[MM_Medium_Road_Asymmetric_3_1]": "4车道 3/1 非对称道路 (3u)",
   "Assets.DESCRIPTION[MM_Medium_Road_Asymmetric_3_1]": "3/1 非对称道路 (3u)",
@@ -134,11 +134,11 @@
   "Assets.NAME[MM_ShiftLeftTurn_8_4_6u]": "移位左转 8 + 4 (6u)",
   "Assets.DESCRIPTION[MM_ShiftLeftTurn_8_4_6u]": "移位左转道路，通过将左侧道路设置为仅左转，将右侧中间道路设置为仅直行，将最右侧道路设置为仅右转，通常比普通路口效率高",
 
-  "Assets.NAME[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "非对称 3/2 分隔式高速",
-  "Assets.DESCRIPTION[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "非对称 3/2 分隔式高速",
+  "Assets.NAME[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "5车道 3/2 非对称高速",
+  "Assets.DESCRIPTION[MM_Highway_Asymmetric_3_2_Lanes_Divided]": "非对称 3/2 高速",
 
-  "Assets.NAME[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "非对称 4/3 分隔式高速",
-  "Assets.DESCRIPTION[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "非对称 4/3 分隔式高速",
+  "Assets.NAME[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "7车道 4/3 非对称高速",
+  "Assets.DESCRIPTION[MM_Highway_Asymmetric_4_3_Lanes_Divided]": "非对称 4/3 高速",
 
   "Assets.NAME[MM_Large_Road_6_Lane]": "6车道道路 - 细 (3u)",
   "Assets.DESCRIPTION[MM_Large_Road_6_Lan]": "6车道道路 (3u)",
@@ -201,6 +201,6 @@
   "Assets.NAME[MM_Highway_Twoway_9lanes]": "9车道 5/3 非对称高速",
   "Assets.DESCRIPTION[MM_Highway_Twoway_9lanes]": "9车道 5/3 非对称高速",
 
-  "Assets.NAME[MM_Highway_Twoway_10lanes]": "10车道 高速",
+  "Assets.NAME[MM_Highway_10lanes]": "10车道 高速",
   "Assets.DESCRIPTION[MM_Highway_Twoway_10lanes]": "10车道 高速"
 }

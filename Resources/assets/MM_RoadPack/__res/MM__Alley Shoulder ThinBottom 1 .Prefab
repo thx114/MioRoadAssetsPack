@@ -266,7 +266,7 @@
             {
                 "$id": 32,
                 "$type": 4,
-                "m_Piece": $fstrref:"UnityGUID:da12373f23090d945b37b813041129d0",
+                "m_Piece": $fstrref:"UnityGUID:77b315cdec7e24c418bdb9ac8392ca62",
                 "m_RequireAll": {
                     "$id": 33,
                     "$type": 5,

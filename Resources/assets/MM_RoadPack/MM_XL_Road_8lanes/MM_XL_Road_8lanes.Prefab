@@ -623,7 +623,7 @@
             {
                 "$id": 67,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:9e3cf90a9e10fc2488b0e288cbd15cf1",
+                "m_Section": $fstrref:"UnityGUID:cdd7e9c271d101c4aa206a821456fe4c",
                 "m_RequireAll": {
                     "$id": 68,
                     "$type": 11,
@@ -940,7 +940,7 @@
             {
                 "$id": 103,
                 "$type": 17,
-                "m_Section": $fstrref:"UnityGUID:9e3cf90a9e10fc2488b0e288cbd15cf1",
+                "m_Section": $fstrref:"UnityGUID:cdd7e9c271d101c4aa206a821456fe4c",
                 "m_RequireAll": {
                     "$id": 104,
                     "$type": 11,
@@ -1199,7 +1199,7 @@
     "m_NodeStates": {
         "$id": 133,
         "$type": "23|Game.Prefabs.NetNodeStateInfo[], Game",
-        "$rlength": 1,
+        "$rlength": 2,
         "$rcontent": [
             {
                 "$id": 134,
@@ -1234,6 +1234,41 @@
                     ]
                 },
                 "m_MatchType": 0
+            },
+            {
+                "$id": 139,
+                "$type": 24,
+                "m_RequireAll": {
+                    "$id": 140,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        17
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 141,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_RequireNone": {
+                    "$id": 142,
+                    "$type": 11,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_SetState": {
+                    "$id": 143,
+                    "$type": 11,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        1
+                    ]
+                },
+                "m_MatchType": 1
             }
         ]
     },

@@ -37,8 +37,9 @@
                 "m_SetCompositionState": {
                     "$id": 4,
                     "$type": "4|Game.Prefabs.NetPieceRequirements[], Game",
-                    "$rlength": 0,
+                    "$rlength": 1,
                     "$rcontent": [
+                        40
                     ]
                 },
                 "m_RequireRoad": 0,
