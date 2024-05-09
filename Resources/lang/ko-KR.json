@@ -65,17 +65,17 @@
   "Assets.NAME[MM_Large_Road_8_Lane_Divided_4u]": "8차선 도로 (4u)",
   "Assets.DESCRIPTION[MM_Large_Road_8_Lane_Divided_4u]": "8차선 도로 (4u)",
 
-  "Assets.NAME[MM_Medium_Road_Asymmetric_3_1]": "3/1 비대칭 도로 (3u)",
-  "Assets.DESCRIPTION[MM_Medium_Road_Asymmetric_3_1]": "3/1 비대칭 도로 (3u)",
+  "Assets.NAME[MM_Medium_Road_Asymmetric_3_1]": "4차선 3/1 비대칭 도로 (3u)",
+  "Assets.DESCRIPTION[MM_Medium_Road_Asymmetric_3_1]": "4차선 3/1 비대칭 도로 (3u)",
 
-  "Assets.NAME[MM_Large_Road_Asymmetric_4_2]": "4/2 비대칭 도로 (4u)",
-  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_4_2]": "4/2 비대칭 도로 (4u)",
+  "Assets.NAME[MM_Large_Road_Asymmetric_4_2]": "6차선 4/2 비대칭 도로 (4u)",
+  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_4_2]": "6차선 4/2 비대칭 도로 (4u)",
 
-  "Assets.NAME[MM_Large_Road_Asymmetric_5_3]": "5/3 비대칭 도로 (4u)",
-  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_5_3]": "5/3 비대칭 도로 (4u)",
+  "Assets.NAME[MM_Large_Road_Asymmetric_5_3]": "8차선 5/3 비대칭 도로 (4u)",
+  "Assets.DESCRIPTION[MM_Large_Road_Asymmetric_5_3]": "8차선 5/3 비대칭 도로 (4u)",
 
-  "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "6/4 비대칭 도로 (5u)",
-  "Assets.DESCRIPTION[MM_XL_Road_Asymmetric_6_4]": "6/4 비대칭 도로 (5u)",
+  "Assets.NAME[MM_XL_Road_Asymmetric_6_4]": "10차선 6/4 비대칭 도로 (5u)",
+  "Assets.DESCRIPTION[MM_XL_Road_Asymmetric_6_4]": "10차선 6/4 비대칭 도로 (5u)",
 
   "SubServices.NAME[RoadsXLRoad]": "특수도로",
   "Assets.SUB_SERVICE_DESCRIPTION[RoadsXLRoad]": "특수도로",
@@ -195,5 +195,32 @@
   "Assets.SUB_SERVICE_DESCRIPTION[RoadsMioSmallRoads]": "작은 도로",
 
   "Services.NAME[mioRoadAssetPack]": "Mio 도로 자원팩",
-  "Services.DESCRIPTION[mioRoadAssetPack]": "Mio 도로 자원팩"
+  "Services.DESCRIPTION[mioRoadAssetPack]": "Mio 도로 자원팩",
+
+  "Assets.NAME[MM_EU_BusStop01]": "유럽식 버스 정류장 1",
+  "Assets.DESCRIPTION[MM_EU_BusStop01]": "유럽식 버스 정류장 1",
+
+  "Assets.NAME[MM_EU_BusStop02]": "유럽식 버스 정류장 2",
+  "Assets.DESCRIPTION[MM_EU_BusStop02]": "유럽식 버스 정류장 2",
+
+  "Assets.NAME[MM_NA_BusStop01]": "북미식 버스 정류장 1",
+  "Assets.DESCRIPTION[MM_NA_BusStop01]": "북미식 버스 정류장 1",
+
+  "Assets.NAME[MM_NA_BusStop02]": "북미식 버스 정류장 2",
+  "Assets.DESCRIPTION[MM_NA_BusStop02]": "북미식 버스 정류장 2",
+
+  "Assets.NAME[MM_EU_TramStop01]": "유럽식 전자 정류장 1",
+  "Assets.DESCRIPTION[MM_EU_TramStop01]": "유럽식 전자 정류장 1",
+
+  "Assets.NAME[MM_NA_TramStop01]": "북미식 전차 정류장 1",
+  "Assets.DESCRIPTION[MM_NA_TramStop01]": "북미식 전차 정류장 1",
+
+  "Assets.NAME[MM_TramStoplarge]": "대형 전차 정류장",
+  "Assets.DESCRIPTION[MM_TramStoplarge]": "대형 전차 정류장",
+
+  "Assets.NAME[MM_Highway_Twoway_9lanes]": "9차선 5/3 비대칭 양방향 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_9lanes]": "9차선 5/3 비대칭 양방향 고속도로",
+
+  "Assets.NAME[MM_Highway_10lanes]": "10차선 양방향 고속도로",
+  "Assets.DESCRIPTION[MM_Highway_10lanes]": "10차선 양방향 고속도로"
 }
