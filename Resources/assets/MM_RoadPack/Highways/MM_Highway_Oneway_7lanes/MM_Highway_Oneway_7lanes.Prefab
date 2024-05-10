@@ -107,7 +107,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:fa79ef787639fa0950a7c727a3fd4f1a",
                 "m_Priority": 2070,
-                "m_Icon": "coui://customassets/MM_RoadPack/MM_Highway_Oneway_7lanes/i.svg",
+                "m_Icon": "coui://customassets/MM_RoadPack/Highways/MM_Highway_Oneway_7lanes/i.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },

@@ -1,0 +1,249 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.StaticObjectPrefab, Game",
+    "name": "MM_NA_TaxiStop02",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 9,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.TransportStop, Game",
+                "name": "TransportStop",
+                "active": true,
+                "m_TransportType": 2,
+                "m_AccessConnectionType": 2,
+                "m_RouteConnectionType": 1,
+                "m_AccessTrackType": 0,
+                "m_RouteTrackType": 0,
+                "m_AccessRoadType": 0,
+                "m_RouteRoadType": 1,
+                "m_EnterDistance": 20,
+                "m_ExitDistance": 4,
+                "m_AccessDistance": 3,
+                "m_BoardingTime": 10,
+                "m_ComfortFactor": 0.4,
+                "m_LoadingFactor": 0,
+                "m_PassengerTransport": true,
+                "m_CargoTransport": false
+            },
+            {
+                "$id": 3,
+                "$type": "3|Game.Prefabs.NetObject, Game",
+                "name": "NetObject",
+                "active": true,
+                "m_SetCompositionState": {
+                    "$id": 4,
+                    "$type": "4|Game.Prefabs.NetPieceRequirements[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        40
+                    ]
+                },
+                "m_RequireRoad": 0,
+                "m_TrackPassThrough": 0
+            },
+            {
+                "$id": 5,
+                "$type": "5|Game.Prefabs.PlaceableObject, Game",
+                "name": "PlaceableObject",
+                "active": true,
+                "m_ConstructionCost": 400,
+                "m_XPReward": 80
+            },
+            {
+                "$id": 6,
+                "$type": "6|Game.Prefabs.ServiceObject, Game",
+                "name": "ServiceObject",
+                "active": true,
+                "m_Service": $fstrref:"UnityGUID:29c94efd3e9d25d4fae82711a36cc753"
+            },
+            {
+                "$id": 7,
+                "$type": "7|Game.Prefabs.Unlockable, Game",
+                "name": "Unlockable",
+                "active": true,
+                "m_RequireAll": {
+                    "$id": 8,
+                    "$type": "8|Game.Prefabs.PrefabBase[], Game",
+                    "$rlength": 2,
+                    "$rcontent": [
+                        $fstrref:"UnityGUID:a4f8c6172e9786242a486807a37a45c4",
+                        $fstrref:"UnityGUID:083a57123ccb5a04f937fd5e4706a343"
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 9,
+                    "$type": 8,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_IgnoreDependencies": false
+            },
+            {
+                "$id": 10,
+                "$type": "9|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": $fstrref:"CID:8630ac67629391cfb4d69c110e40015f",
+                "m_Priority": 90,
+                "m_Icon": "coui://ail/NA_TaxiStop02.svg",
+                "m_LargeIcon": "",
+                "m_IsDebugObject": false
+            },
+            {
+                "$id": 11,
+                "$type": "10|Game.Prefabs.ThemeObject, Game",
+                "name": "ThemeObject",
+                "active": true,
+                "m_Theme": $fstrref:"UnityGUID:6f24f89d231e81043b538ce3fb2b54ae"
+            },
+            {
+                "$id": 12,
+                "$type": "11|Game.Prefabs.StandingObject, Game",
+                "name": "StandingObject",
+                "active": true,
+                "m_LegSize": {
+                    "$type": "12|Unity.Mathematics.float3, Unity.Mathematics",
+                    "x": 3.8,
+                    "y": 2.5,
+                    "z": 1.5
+                },
+                "m_CircularLeg": false
+            },
+            {
+                "$id": 13,
+                "$type": "13|Game.Prefabs.ActivityLocation, Game",
+                "name": "ActivityLocation",
+                "active": true,
+                "m_Locations": {
+                    "$id": 14,
+                    "$type": "14|Game.Prefabs.ActivityLocation+LocationInfo[], Game",
+                    "$rlength": 4,
+                    "$rcontent": [
+                        {
+                            "$id": 15,
+                            "$type": "15|Game.Prefabs.ActivityLocation+LocationInfo, Game",
+                            "m_Activity": $fstrref:"UnityGUID:0812ca7f7b740cd439c5b3c718f64681",
+                            "m_Position": {
+                                "$type": 12,
+                                "x": 0.6858808,
+                                "y": 0,
+                                "z": -0.35
+                            },
+                            "m_Rotation": {
+                                "$type": "16|Unity.Mathematics.quaternion, Unity.Mathematics",
+                                "value": {
+                                    "$type": "17|Unity.Mathematics.float4, Unity.Mathematics",
+                                    "x": 0,
+                                    "y": -4.569558E-08,
+                                    "z": 0,
+                                    "w": 1
+                                }
+                            }
+                        },
+                        {
+                            "$id": 16,
+                            "$type": 15,
+                            "m_Activity": $fstrref:"UnityGUID:0812ca7f7b740cd439c5b3c718f64681",
+                            "m_Position": {
+                                "$type": 12,
+                                "x": -0.6182631,
+                                "y": 0,
+                                "z": -0.35
+                            },
+                            "m_Rotation": {
+                                "$type": 16,
+                                "value": {
+                                    "$type": 17,
+                                    "x": 0,
+                                    "y": -4.569558E-08,
+                                    "z": 0,
+                                    "w": 1
+                                }
+                            }
+                        },
+                        {
+                            "$id": 17,
+                            "$type": 15,
+                            "m_Activity": $fstrref:"UnityGUID:0812ca7f7b740cd439c5b3c718f64681",
+                            "m_Position": {
+                                "$type": 12,
+                                "x": -0.24411954,
+                                "y": 0,
+                                "z": -0.35
+                            },
+                            "m_Rotation": {
+                                "$type": 16,
+                                "value": {
+                                    "$type": 17,
+                                    "x": 0,
+                                    "y": -4.569558E-08,
+                                    "z": 0,
+                                    "w": 1
+                                }
+                            }
+                        },
+                        {
+                            "$id": 18,
+                            "$type": 15,
+                            "m_Activity": $fstrref:"UnityGUID:0812ca7f7b740cd439c5b3c718f64681",
+                            "m_Position": {
+                                "$type": 12,
+                                "x": 0.270748258,
+                                "y": 0,
+                                "z": -0.35
+                            },
+                            "m_Rotation": {
+                                "$type": 16,
+                                "value": {
+                                    "$type": 17,
+                                    "x": 0,
+                                    "y": -4.569558E-08,
+                                    "z": 0,
+                                    "w": 1
+                                }
+                            }
+                        }
+                    ]
+                },
+                "m_InvertWhen": 0,
+                "m_AnimatedPropName": "",
+                "m_RequireAuthorization": false
+            }
+        ]
+    },
+    "m_Meshes": {
+        "$id": 19,
+        "$type": "18|Game.Prefabs.ObjectMeshInfo[], Game",
+        "$rlength": 1,
+        "$rcontent": [
+            {
+                "$id": 20,
+                "$type": "19|Game.Prefabs.ObjectMeshInfo, Game",
+                "m_Mesh": $fstrref:"UnityGUID:c121a96583b880a469671363674e4a59",
+                "m_Position": {
+                    "$type": 12,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "m_Rotation": {
+                    "$type": 16,
+                    "value": {
+                        "$type": 17,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    }
+                },
+                "m_RequireState": 0
+            }
+        ]
+    },
+    "m_Circular": false
+}

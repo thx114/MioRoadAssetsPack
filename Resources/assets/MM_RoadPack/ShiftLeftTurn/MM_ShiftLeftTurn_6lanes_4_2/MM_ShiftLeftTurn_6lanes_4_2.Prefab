@@ -416,7 +416,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:f54231b79471be6f3bc2fa389838c7d0",
                 "m_Priority": 1010,
-                "m_Icon": "coui://customassets/MM_RoadPack/MM_ShiftLeftTurn_6lanes_4_2/i.svg",
+                "m_Icon": "coui://customassets/MM_RoadPack/ShiftLeftTurn/MM_ShiftLeftTurn_6lanes_4_2/i.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },

@@ -139,7 +139,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:8c76dee864c29ad43af6601048427191",
-                "m_Priority": 40,
+                "m_Priority": 41,
                 "m_Icon": "Media/Game/Icons/DoublePublicTransportLane.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
@@ -281,7 +281,7 @@
             {
                 "$id": 32,
                 "$type": 19,
-                "m_Section": $fstrref:"UnityGUID:206404724fb8cad4ead54ee61f175b3a",
+                "m_Section": $fstrref:"UnityGUID:c40cb89d77196fb4eaeed134ec0c729a",
                 "m_RequireAll": {
                     "$id": 33,
                     "$type": 11,

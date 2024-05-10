@@ -86,7 +86,7 @@
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:0f477cfc5ea5c7e498bbfdda5c7b3f34",
                 "m_Priority": 19,
-                "m_Icon": "coui://customassets/MM_RoadPack/MM_Narrow_Seaway_Oneway/i.svg",
+                "m_Icon": "coui://customassets/MM_RoadPack/Seaways/MM_Narrow_Seaway_Oneway/i.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },

@@ -301,7 +301,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:b4be3f5c67da2b8f953adf84b8b55fbb",
                 "m_Priority": 99,
-                "m_Icon": "coui://customassets/MM_RoadPack/MM_Pedestrian_Street/i.svg",
+                "m_Icon": "coui://customassets/MM_RoadPack/Small/MM_Pedestrian_Street/i.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -486,7 +486,7 @@
                     "$rcontent": [
                     ]
                 },
-                "m_Invert": false,
+                "m_Invert": true,
                 "m_Flip": false,
                 "m_Median": false,
                 "m_Offset": {

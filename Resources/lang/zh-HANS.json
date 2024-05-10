@@ -198,9 +198,72 @@
   "Services.NAME[mioRoadAssetPack]": "猫猫道路资产包",
   "Services.DESCRIPTION[mioRoadAssetPack]": "猫猫道路资产包",
 
-  "Assets.NAME[MM_Highway_Twoway_9lanes]": "9车道 5/3 非对称高速",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_9lanes]": "9车道 5/3 非对称高速",
+  "Assets.NAME[MM_Highway_Twoway_9lanes]": "9车道 5/4 非对称高速",
+  "Assets.DESCRIPTION[MM_Highway_Twoway_9lanes]": "9车道 5/4 非对称高速",
 
   "Assets.NAME[MM_Highway_10lanes]": "10车道 高速",
-  "Assets.DESCRIPTION[MM_Highway_Twoway_10lanes]": "10车道 高速"
+  "Assets.DESCRIPTION[MM_Highway_Twoway_10lanes]": "10车道 高速",
+
+
+  "Assets.NAME[MM_Small_Road_2lanes_Bridge]": "2车道 桥梁",
+  "Assets.DESCRIPTION[MM_Small_Road_2lanes_Bridge]": "",
+
+  "Assets.NAME[MM_Small_Road_2lanes_WoodenCoveredBridge]": "2车道 木桥",
+  "Assets.DESCRIPTION[MM_Small_Road_2lanes_WoodenCoveredBridge]": "",
+
+  "Assets.NAME[MM_Small_Road_Oneway_2lanes_Bridge]": "单向 2车道 桥梁",
+  "Assets.DESCRIPTION[MM_Small_Road_Oneway_2lanes_Bridge]": "",
+
+  "Assets.NAME[MM_Small_Road_Oneway_2lanes_WoodenCoveredBridge]": "单向 2车道 木桥",
+  "Assets.DESCRIPTION[MM_Small_Road_Oneway_2lanes_WoodenCoveredBridge]": "",
+
+  "Assets.NAME[MM_Medium_Road_5lanes_3_2]": "5车道 3/2 非对称道路",
+  "Assets.DESCRIPTION[MM_Medium_Road_5lanes_3_2]": "",
+
+  "Assets.NAME[MM_Medium_Road_Oneway_4lanes]": "单向 4车道 道路",
+  "Assets.DESCRIPTION[MM_Medium_Road_Oneway_4lanes]": "",
+
+  "Assets.NAME[MM_Medium_Road_Oneway_5lanes]": "单向 5车道 道路",
+  "Assets.DESCRIPTION[MM_Medium_Road_Oneway_5lanes]": "",
+
+  "Assets.NAME[MM_Medium_Road_4lanes_GrandBridge]": "4车道 特大桥",
+  "Assets.DESCRIPTION[MM_Medium_Road_4lanes_GrandBridge]": "",
+
+  "Assets.NAME[MM_Medium_Road_4lanes_TiedArchBridge]": "4车道 拱桥",
+  "Assets.DESCRIPTION[MM_Medium_Road_4lanes_TiedArchBridge]": "",
+
+  "Assets.NAME[MM_Large_Road_7lanes_4_3]": "7车道 4/3 非对称道路",
+  "Assets.DESCRIPTION[MM_Large_Road_7lanes_4_3]": "",
+
+  "Assets.NAME[MM_Large_Road_Oneway_6lanes]": "单向 6车道 道路",
+  "Assets.DESCRIPTION[MM_Large_Road_Oneway_6lanes]": "",
+
+  "Assets.NAME[MM_Large_Road_Oneway_7lanes]": "单向 7车道 道路",
+  "Assets.DESCRIPTION[MM_Large_Road_Oneway_7lanes]": "",
+
+  "Assets.NAME[MM_XL_Road_8lanes_CableStayedBridge]": "8车道 斜拉桥",
+  "Assets.DESCRIPTION[MM_XL_Road_8lanes_CableStayedBridge]": "",
+
+  "Assets.NAME[MM_Large_Road_6lanes_ExtradosedBridge]": "6车道 引渡桥",
+  "Assets.DESCRIPTION[MM_Large_Road_6lanes_ExtradosedBridge]": "",
+
+  "Assets.NAME[MM_BothTrees]": "两边种树",
+  "Assets.DESCRIPTION[MM_BothTrees]": "",
+
+  "Assets.NAME[MM_BothGrass]": "两边草地",
+  "Assets.DESCRIPTION[MM_BothGrass]": "",
+
+  "Assets.NAME[MM_EU_TaxiStop01]": "出租车站 1",
+  "Assets.DESCRIPTION[MM_EU_TaxiStop01]": "",
+
+  "Assets.NAME[MM_EU_TaxiStop02]": "出租车站 2",
+  "Assets.DESCRIPTION[MM_EU_TaxiStop02]": "",
+
+  "Assets.NAME[MM_NA_TaxiStop01]": "出租车站 1",
+  "Assets.DESCRIPTION[MM_NA_TaxiStop01]": "",
+
+  "Assets.NAME[MM_NA_TaxiStop02]": "出租车站 2",
+  "Assets.DESCRIPTION[MM_NA_TaxiStop02]": ""
+
+
 }

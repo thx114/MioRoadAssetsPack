@@ -308,8 +308,8 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"CID:b4be3f5c67da2b8f953adf84b8b55fbb",
-                "m_Priority": 1,
-                "m_Icon": "coui://customassets/MM_RoadPack/MM_Small_Road_Divided/i.svg",
+                "m_Priority": -98,
+                "m_Icon": "coui://customassets/MM_RoadPack/Small/MM_Small_Road_Divided/i.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },

@@ -61,7 +61,7 @@
                 "$type": "7|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": $fstrref:"UnityGUID:7284210a233d52947afe9dd82d4402bd",
+                "m_Group": $fstrref:"CID:8447971a36f9fc2812f57dd92ac4045f",
                 "m_Priority": 70,
                 "m_Icon": "Media/Game/Icons/Grass.svg",
                 "m_LargeIcon": "",

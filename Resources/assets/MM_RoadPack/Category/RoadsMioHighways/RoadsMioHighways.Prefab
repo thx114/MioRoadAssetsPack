@@ -13,7 +13,7 @@
                 "$type": "2|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": null,
+                "m_Group": $fstrref:"CID:d7b2495f28616f7d614de44051e7791b",
                 "m_Priority": 40,
                 "m_Icon": "Media/Game/Icons/Highways.svg",
                 "m_LargeIcon": "",
@@ -21,5 +21,5 @@
             }
         ]
     },
-    "m_Menu": $fstrref:"CID:d7b2495f28616f7d614de44051e7791b"
+    "m_Menu": $fstrref:"CID:26b4e0c4f3cee5f5bd645d26152a64f2"
 }

@@ -307,8 +307,8 @@
                 "$type": "18|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": $fstrref:"UnityGUID:d7ba218ad57ccb741b21620a5f7ee4d3",
-                "m_Priority": 0,
+                "m_Group": $fstrref:"CID:b4be3f5c67da2b8f953adf84b8b55fbb",
+                "m_Priority": -100,
                 "m_Icon": "Media/Game/Icons/SmallRoad.svg",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false

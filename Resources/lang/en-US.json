@@ -222,5 +222,108 @@
   "Assets.DESCRIPTION[MM_Highway_Twoway_9lanes]": "Highway Asymmetric 5/3",
 
   "Assets.NAME[MM_Highway_10lanes]": "Highway Twoway 10 Lanes",
-  "Assets.DESCRIPTION[MM_Highway_10lanes]": "Highway Twoway 10 Lanes"
+  "Assets.DESCRIPTION[MM_Highway_10lanes]": "Highway Twoway 10 Lanes",
+
+  "Assets.NAME[MM_CLT_5lanes]": "[TEST] CLT 5lanes",
+  "Assets.DESCRIPTION[MM_CLT_5lanes]": "",
+
+  "Assets.NAME[MM_CLT_7lanes]": "[TEST] CLT 7lanes",
+  "Assets.DESCRIPTION[MM_CLT_7lanes]": "",
+
+  "Assets.NAME[MM_Small_Road_2lanes]": "Small Road 2 Lanes",
+  "Assets.DESCRIPTION[MM_Small_Road_2lanes]": "Small Road 2 Lanes",
+
+  "Assets.NAME[MM_Small_Road_3lanes]": "Small Road 3 Lanes",
+  "Assets.DESCRIPTION[MM_Small_Road_3lanes]": "Small Road 3 Lanes",
+
+
+  "Assets.NAME[MM_Small_Road_Oneway_1lanes]": "Small Road Oneway 1 Lanes",
+  "Assets.DESCRIPTION[MM_Small_Road_Oneway_1lanes]": "",
+
+
+  "Assets.NAME[MM_Small_Road_Oneway_2lanes]": "Small Road Oneway 2 Lanes",
+  "Assets.DESCRIPTION[MM_Small_Road_Oneway_2lanes]": "",
+
+
+  "Assets.NAME[MM_Small_Road_Oneway_3lanes]": "Small Road Oneway 3 Lanes",
+  "Assets.DESCRIPTION[MM_Small_Road_Oneway_3lanes]": "",
+
+
+  "Assets.NAME[MM_GravelRoad]": "Gravel Road",
+  "Assets.DESCRIPTION[MM_GravelRoad]": "",
+
+
+  "Assets.NAME[MM_Alley]": "Alley",
+  "Assets.DESCRIPTION[MM_Alley]": "",
+
+
+  "Assets.NAME[MM_AlleyWhite]": "Alley 2",
+  "Assets.DESCRIPTION[MM_AlleyWhite]": "",
+
+
+  "Assets.NAME[MM_PedestrianStreet]": "Pedestrian Street",
+  "Assets.DESCRIPTION[MM_PedestrianStreet]": "",
+
+
+  "Assets.NAME[MM_Small_Road_2lanes_Bridge]": "Small Road 2 Lanes - Bridge",
+  "Assets.DESCRIPTION[MM_Small_Road_2lanes_Bridge]": "",
+
+  "Assets.NAME[MM_Small_Road_2lanes_WoodenCoveredBridge]": "Small Road 2 Lanes - WoodenCoveredBridge",
+  "Assets.DESCRIPTION[MM_Small_Road_2lanes_WoodenCoveredBridge]": "",
+
+  "Assets.NAME[MM_Small_Road_Oneway_2lanes_Bridge]": "Small Road Oneway 2 Lanes - Bridge",
+  "Assets.DESCRIPTION[MM_Small_Road_Oneway_2lanes_Bridge]": "",
+
+  "Assets.NAME[MM_Small_Road_Oneway_2lanes_WoodenCoveredBridge]": "Small Road Oneway 2 Lanes - WoodenCoveredBridge",
+  "Assets.DESCRIPTION[MM_Small_Road_Oneway_2lanes_WoodenCoveredBridge]": "",
+
+  "Assets.NAME[MM_Medium_Road_5lanes_3_2]": "Medium Road 5 Lanes 3/2 Asymmetric",
+  "Assets.DESCRIPTION[MM_Medium_Road_5lanes_3_2]": "",
+
+  "Assets.NAME[MM_Medium_Road_Oneway_4lanes]": "Medium Road Oneway 4 Lanes",
+  "Assets.DESCRIPTION[MM_Medium_Road_Oneway_4lanes]": "",
+
+  "Assets.NAME[MM_Medium_Road_Oneway_5lanes]": "Medium Road Oneway 5 Lanes",
+  "Assets.DESCRIPTION[MM_Medium_Road_Oneway_5lanes]": "",
+
+  "Assets.NAME[MM_Medium_Road_4lanes_GrandBridge]": "Medium Road 4 Lanes - Grand Bridge",
+  "Assets.DESCRIPTION[MM_Medium_Road_4lanes_GrandBridge]": "",
+
+  "Assets.NAME[MM_Medium_Road_4lanes_TiedArchBridge]": "Medium Road 4 Lanes -  Tied Arch Bridge",
+  "Assets.DESCRIPTION[MM_Medium_Road_4lanes_TiedArchBridge]": "",
+
+  "Assets.NAME[MM_Large_Road_7lanes_4_3]": "Large Road 7 Lanes 4/3 Asymmetric",
+  "Assets.DESCRIPTION[MM_Large_Road_7lanes_4_3]": "",
+
+  "Assets.NAME[MM_Large_Road_Oneway_6lanes]": "Large Road Oneway 6 Lanes",
+  "Assets.DESCRIPTION[MM_Large_Road_Oneway_6lanes]": "",
+
+  "Assets.NAME[MM_Large_Road_Oneway_7lanes]": "Large Road Oneway 7 Lanes",
+  "Assets.DESCRIPTION[MM_Large_Road_Oneway_7lanes]": "",
+
+  "Assets.NAME[MM_XL_Road_8lanes_CableStayedBridge]": "XL Road 8 Lanes - Cable-Stayed Bridge",
+  "Assets.DESCRIPTION[MM_XL_Road_8lanes_CableStayedBridge]": "",
+
+  "Assets.NAME[MM_Large_Road_6lanes_ExtradosedBridge]": "Large Road 6 Lanes - Extradosed Bridge",
+  "Assets.DESCRIPTION[MM_Large_Road_6lanes_ExtradosedBridge]": "",
+
+  "Assets.NAME[MM_BothTrees]": "BothTrees",
+  "Assets.DESCRIPTION[MM_BothTrees]": "",
+
+  "Assets.NAME[MM_BothGrass]": "BothGrass",
+  "Assets.DESCRIPTION[MM_BothGrass]": "",
+
+  "Assets.NAME[MM_EU_TaxiStop01]": "Taxi Stop 1",
+  "Assets.DESCRIPTION[MM_EU_TaxiStop01]": "",
+
+  "Assets.NAME[MM_EU_TaxiStop02]": "Taxi Stop 2",
+  "Assets.DESCRIPTION[MM_EU_TaxiStop02]": "",
+
+  "Assets.NAME[MM_NA_TaxiStop01]": "Taxi Stop 1",
+  "Assets.DESCRIPTION[MM_NA_TaxiStop01]": "",
+
+  "Assets.NAME[MM_NA_TaxiStop02]": "Taxi Stop 2",
+  "Assets.DESCRIPTION[MM_NA_TaxiStop02]": ""
+
+
 }
