@@ -204,7 +204,6 @@
   "Assets.NAME[MM_Highway_10lanes]": "10车道 高速",
   "Assets.DESCRIPTION[MM_Highway_Twoway_10lanes]": "10车道 高速",
 
-
   "Assets.NAME[MM_Small_Road_2lanes_Bridge]": "2车道 桥梁",
   "Assets.DESCRIPTION[MM_Small_Road_2lanes_Bridge]": "",
 
@@ -264,6 +263,4 @@
 
   "Assets.NAME[MM_NA_TaxiStop02]": "出租车站 2",
   "Assets.DESCRIPTION[MM_NA_TaxiStop02]": ""
-
-
 }

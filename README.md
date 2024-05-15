@@ -42,20 +42,36 @@ Road assets are **highly experimental**. Please back up your save file before us
 - Highway Twoway 10 Lanes
 
 - Small Road 1 Lane  
+- Small Road 2 Lane  
+- Small Road 3 Lane  
+- Small Road Oneway 1 Lane  
+- Small Road Oneway 2 Lane  
+- Small Road Oneway 3 Lane  
+- Alley
+- Alley - W
+- Gravel Road
 - Small Road Divided (2u)
+- Pedestrian Street
   
 - Medium Road 4 Lanes
 - Medium Road 4 Lanes thin (2u)
 - Medium Road 4 Lanes 3/1 Asymmetric
+- Medium Road 5 Lanes 3/2 Asymmetric
+- Medium Road Oneway 4 Lanes
+- Medium Road Oneway 5 Lanes
   
 - Large Road 6 lanes
 - Large Road 6 Lanes thin (3u)
 - Large Road 6 Lanes 4/2 Asymmetric
+- Large Road 7 Lanes 4/3 Asymmetric
 - Large Road 8 Lanes
-- Large Road 8 Lanes 5/3 Asymmetric
-- Large Road 9 Lanes 5/4 Asymmetric
+- Large Road Oneway 6 Lanes
+- Large Road Oneway 7 Lanes
 
+- XL Road 8 Lanes
 - XL Road 8 Lanes thin (4u)
+- XL Road 9 Lanes 5/4 Asymmetric
+- XL Road 8 Lanes 5/3 Asymmetric
 - XL Road 10 Lanes (5u)
 - XL Road 10 Lanes 6/4 Asymmetric
 - XL Road 14 Lanes (7u)
@@ -79,9 +95,14 @@ Road assets are **highly experimental**. Please back up your save file before us
 
 - Narrow Seaway Oneway
 
+- CLT 5 Lanes
+- CLT 7 Lanes
+
 ### ADD Road Upgrade
-- Remove sidewalks
-- switch Medium
+- Remove Sidewalks
+- Switch Medium
+- Both Grass
+- Both Trees
 
 ### ADD Obejct
 - Tram Stop large

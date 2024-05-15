@@ -759,7 +759,7 @@
                     "$rcontent": [
                     ]
                 },
-                "m_Invert": true,
+                "m_Invert": false,
                 "m_Flip": false,
                 "m_Median": true,
                 "m_Offset": {
